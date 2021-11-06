@@ -10,6 +10,7 @@ nadaljno jo lahko izrazimo v procentih:
 
 ```ad-example
 collapse: T
+title: Primer:
 
 | Podr   | Moški | Ženske | skupaj | $f^o_i$ | $f_i\%$ |
 | ------ | ----- | ------ | ------ | ------- | ------- |
