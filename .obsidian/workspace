@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6a07c4765c8487f4",
+        "id": "0b202666f5467886",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -94,7 +94,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6a07c4765c8487f4",
+  "active": "0b202666f5467886",
   "lastOpenFiles": [
     "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Statistika/Strukture.md",

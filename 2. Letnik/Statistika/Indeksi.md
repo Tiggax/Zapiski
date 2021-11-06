@@ -28,5 +28,21 @@ delujejo kot  [[#^209cef|indeksi s stalno osnovo]],a za osnovo uzamemo  predhodn
 >$I_{t/t-1}=100*\frac{x_t}{x_{t-1}}; t=2,...,T$
 
 ker prvi podatek nima predhodnika, prvi verižni indeks ne obstaja. verižni indeksi so smiselni le, če je časovna vrsta ekvidistančna.
+```ad-example
+collapse: T
+title: Primer:
+Leto Čebula $Indeksi_{(osnova = 2010)}$ Verini indeksi Stopnja rasti  
+2010 4667 100 - -  
+2011 6333 135.70 135.70 35.70  
+2012 5869 125.76 92.67 -7.33  
+2013 6074 130.15 103.49 3.49  
+2014 7563 162.05 124.51 24.51  
+2015 7286 156.12 96.34 -3.66  
+2016 10885 233.23 149.40 49.40  
+2017 9709 208.04 89.20 -10.8  
+2018 9612 205.96 99.00 -1.00  
+2019 10101 216.43 105.09 5.09  
+2020 12042 258.02 119.22 19.22
 
+```
 ## Stopnja rasti
