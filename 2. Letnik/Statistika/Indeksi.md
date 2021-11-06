@@ -21,7 +21,7 @@ title: Primer:
 ### časovna vrsta
 ko se  $X$ spreminja v času, jo imenujemo <span style="color:red">časovna vrsa</span>, število $T$ pa dolžina statične vrste.
 ## Verižni indeksi
-delujejo kot  [Indeksi s stalno osnovo](#indeksi-s-stalno-osno), a za osnovo uzamemo  predhodnji podatek.
+delujejo kot  [Indeksi s stalno osnovo](/indeksi-s-stalno-osnovo), a za osnovo uzamemo  predhodnji podatek.
 >$I_{t/t-1}=100*\frac{x_t}{x_{t-1}}; t=2,...,T$
 
 ker prvi podatek nima predhodnika, prvi verižni indeks ne obstaja. verižni indeksi so smiselni le, če je časovna vrsta ekvidistančna.
