@@ -21,4 +21,4 @@ title: Primer:
 ## časovna vrsta
 ko se  $X$ spreminja v času, jo imenujemo <span style="color:red">časovna vrsa</span>, število $T$ pa dolžina statične vrste.
 # Verižni indeksi
-delujejo kot  [[Indeksi s stalno osnovo]], a 
+delujejo kot  [Indeksi s stalno osnovo](#Indeksi-s-stalno-osnovo), a 
