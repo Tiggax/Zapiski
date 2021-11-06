@@ -10,7 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Zvezne slučajne spremenljivke.md",
-            "mode": "source"
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0f22c5902b1b0f55",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md"
           }
         }
       }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zvezne slučajne spremenljivke.md",
+                "file": "Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,8 +103,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ffa0ce0cfb5a4ab0",
+  "active": "0f22c5902b1b0f55",
   "lastOpenFiles": [
+    "Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md",
     "Zvezne slučajne spremenljivke.md",
     "Excalidraw/Drawing 2021-11-06 11.32.51.excalidraw.md"
   ]

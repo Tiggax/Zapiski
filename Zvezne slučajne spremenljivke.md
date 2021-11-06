@@ -24,7 +24,7 @@ porazdelitvena je:
 ``` chart
 rtsd
 ```
-
+![[Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md]]
 ## Kvantili za zvezne slučajne spremenljivke
 naj bo X zvezna slučajna spremenljivka s porazdelitveno funkcijo F.
 $\color{red}p-kvantil$ $(0<=p<=1)$ za spremenljivka+o X je vrednost $x_(p)$, za katero velja:
