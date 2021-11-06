@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "537b079abd9fe2a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa0ce0cfb5a4ab0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zvezne slučajne spremenljivke.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d0ac396725d349a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf317d8d52fe2814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0538a707ed2d108a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b84601b2be7b2a86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00ed6e8b616581a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "72bf0016d1724443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4be647f69297d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zvezne slučajne spremenljivke.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dfd7a437f1dab48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ffa0ce0cfb5a4ab0",
+  "lastOpenFiles": [
+    "Zvezne slučajne spremenljivke.md",
+    "Excalidraw/Drawing 2021-11-06 11.32.51.excalidraw.md"
+  ]
+}
