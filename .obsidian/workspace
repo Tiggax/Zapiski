@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Predefined.md",
+            "file": "2. Letnik/Statistika/Indeksi.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predefined.md",
+                "file": "2. Letnik/Statistika/Indeksi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "6a07c4765c8487f4",
   "lastOpenFiles": [
-    "Predefined.md",
     "2. Letnik/Statistika/Indeksi.md",
+    "Predefined.md",
     "2. Letnik/Statistika/Strukture.md",
     "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md",

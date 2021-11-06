@@ -19,3 +19,4 @@ title: Primer:
 | IVD      | 246             |                      |
 ```
 # Verižni indeksi
+ko se  $X$ spreminja v času, jo imenujemo <span style="color:red">časovna vrsa</span>
