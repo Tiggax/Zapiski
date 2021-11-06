@@ -30,7 +30,10 @@ delujejo kot  [[#^209cef|indeksi s stalno osnovo]],a za osnovo uzamemo  predhodn
 ker prvi podatek nima predhodnika, prvi verižni indeks ne obstaja. verižni indeksi so smiselni le, če je časovna vrsta ekvidistančna.
 
 ## Stopnja rasti
-
+izraža upad ali prirast v primerjavi s prejšnim obdobjem. 
+>$S_{t/t-1}=100*\frac{x_t-x_{t-1}}{x_{t-1}}$
+>ali
+>$S_{t/t-1}=I_{t/t-1}-100\%$
 
 ```ad-example
 collapse: T
