@@ -1,4 +1,4 @@
-# Indeksi s stalno osnovo
+## Indeksi s stalno osnovo
 $X$ je številska slučajna spremenljivka in $x_i$ vrednosti te spremenljivke v i-ti skupini (i=1,...,K)
 Zaporedje:
 $x_1,x_2,x_3,...,x_k$  imenujemo <span style="color:red">statična vrsta</span>
@@ -18,7 +18,7 @@ title: Primer:
 | Primorje | 14017           |                      |
 | IVD      | 246             |                      |
 ```
-## časovna vrsta
+### časovna vrsta
 ko se  $X$ spreminja v času, jo imenujemo <span style="color:red">časovna vrsa</span>, število $T$ pa dolžina statične vrste.
-# Verižni indeksi
-delujejo kot  [Indeksi s stalno osnovo](#Indeksi-s-stalno-osnovo), a 
+## Verižni indeksi
+delujejo kot  Indeksi s stalno osnovo, a za osnovo uzamemo  predhodnji podatek
