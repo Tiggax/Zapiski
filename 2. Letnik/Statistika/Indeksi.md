@@ -53,3 +53,21 @@ title: Primer:
 | 2020 | 12042  | 258.02                      | 119.22          | 19.22         |
 
 ```
+
+```chart
+	type: "line"
+	labels: []
+	series:
+		- osno
+```
+
+```chart
+	type: ""
+	labels: []
+	series:
+	  - title: ""
+		data: []
+	  - title: ""
+		data: []
+
+```
