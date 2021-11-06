@@ -56,18 +56,10 @@ title: Primer:
 
 ```chart
 	type: "line"
-	labels: []
+	labels: [2010:2020]
 	series:
-		- osno
-```
-
-```chart
-	type: ""
-	labels: []
-	series:
-	  - title: ""
-		data: []
-	  - title: ""
-		data: []
-
+		- title: "Indeksi z osnovo 2010"
+		- data: [100,135.7,125.76,130.15,162.05,156.12,233.23,208.04,205.96,216.43,258.02]
+		- title: "verižni indeksi"
+		- data: [0,135.7,92.67,103.49,124.51,96.34,149.4,89.2,99,105.09,119.22]
 ```
