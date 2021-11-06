@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/Indeksi.md",
+            "file": "2. Letnik/Statistika/Opisne spremenljivke.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/Indeksi.md",
+                "file": "2. Letnik/Statistika/Opisne spremenljivke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "0b202666f5467886",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/Opisne spremenljivke.md",
     "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Statistika/Strukture.md",
     "Predefined.md",
