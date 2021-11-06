@@ -78,17 +78,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "2dfd7a437f1dab48",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
