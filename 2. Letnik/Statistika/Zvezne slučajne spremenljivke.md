@@ -20,10 +20,7 @@ Za porazdelitveno funkcijo velja:
 **Primer:**
 >$$f(x)={(1 za 0<=x<=1),(0 sicer)}$$
 porazdelitvena je:
-#todo
-``` chart
-rtsd
-```
+
 ## Kvantili za zvezne slučajne spremenljivke
 naj bo X zvezna slučajna spremenljivka s porazdelitveno funkcijo F.
 $\color{red}p-kvantil$ $(0<=p<=1)$ za spremenljivka+o X je vrednost $x_(p)$, za katero velja:
