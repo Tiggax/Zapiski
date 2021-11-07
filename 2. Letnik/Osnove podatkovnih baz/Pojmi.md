@@ -14,16 +14,11 @@ je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 ### Relacijski podatkovni model
 - Relacija je v osnovi tabela, s stolpci in vrsticami
 - vsaka relacija ima shemo, ki opisuje stolpce in vrstice
-```nomnoml
-[1]<-->[K]
-[2]<-->[K]
-[3]<-->[K]
-[K]<-->[F]
-
-
-```
-
 ```mermaid
 graph TB
-{Primer 1]<-->{Konceptualna shema}
+A[Primer 1]<-->K[Konceptualna shema]
+B[Primer 2]<-->K[Konceptualna shema]
+C[Primer 3]<-->K[Konceptualna shema]
+K<-->D[Fizična shema]
+D<-->G((Disk))
 ```
