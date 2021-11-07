@@ -15,7 +15,8 @@ je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 - Relacija je v osnovi tabela, s stolpci in vrsticami
 - vsaka relacija ima shemo, ki opisuje stolpce in vrstice
 ```mermaid
-graph TB
-A-->B
+sequenceDiagram
+"Pogled 1"}<-->boxb{}"Konceptualna shema"
+"Pogled 1"}<-->boxb{}"Konceptualna shema"
 
 ```
