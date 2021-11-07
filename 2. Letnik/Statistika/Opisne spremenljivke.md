@@ -9,6 +9,7 @@
 >$f_j\%=100*\frac{f_j}{\sum^n_{k=1}f_k}$
 
 predstavimo jih z histogramom ali tortnim diagramom. 
+
 ```ad-example
 collapse: T
 title: Primer:
@@ -37,18 +38,21 @@ series:
     data: [32,23,15,12,18]
 width: 80%
 beginAtZero: true
-
 ```
+```ad-example
+ti
+collapse: T
 ```chart
 type: pie
 labels: [Čokolada,Vanilija,Jagoda,Lešnik,Pistacija]
 series:
   - title: $f_j$
-    data: [19,14,9,7,11]
+	data: [19,14,9,7,11]
   - title: $f_j\%$
-    data: [32,23,15,12,18]
+	data: [32,23,15,12,18]
 width: 80%
 beginAtZero: true
+
 ```
 če imajo urejenostne ali številske spremenljivke $X$ *končen nabor* vrednosti, jih lahko <span style="color:red">uredimo po velikosti</span> npr.:$a_1<a_2<a_3<...<a_n$ ter poleg frekvenc še izračunamo [[#^3743fe|kumulativne frekvence]].
 ## Kumulativne frekvence
@@ -144,7 +148,7 @@ width: 80%
 beginAtZero: true
 ```
 podatke lahko poleg histograma predstavimo še s poligonom ali pa z ogivo, pri kateri na abscisno os narišemo zgornje meje razredov, na ordinatno pa pripadajoče relativne kumulativne frekvence.
->Ogiva
+#### Ogiva
 ```chart
 type: line
 labels: [0,39.5,59.5,79.5,99.5]
