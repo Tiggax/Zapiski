@@ -113,4 +113,33 @@ zadnjem šolskem letu:
 Odločimo se za razrede: 20 −39,40 −59,60 −79,80 −99 in zapišemo  
 frekvenčno tabelo
 ---
+| Odsotnost (h) | xi,min | xi,max | di  | xi   | fi  | fi % | Fi  | Fi % |
+| ------------- | ------ | ------ | --- | ---- | --- | ---- | --- | ---- |
+| 20-39         | 19.5   | 39.5   | 20  | 29.5 | 2   | 6.7  | 2   | 6.7  |
+| 40-59         | 39.5   | 59.5   | 20  | 49.5 | 10  | 33.3 | 12  | 40   |
+| 60-79         | 59.5   | 79.5   | 20  | 69.5 | 15  | 50   | 27  | 90   | 
+| 80-99         | 79.5   | 99.5   | 20  | 89.5 | 3   | 10   | 30  | 100  |
+
+```chart
+type: bar
+labels: [20-39,40-59,60-79,80-99]
+series:
+  - title: xi,min
+    data: [19.5,39.5,59.5,79.5]
+  - title: xi,max
+    data: [39.5,59.5,79.5,99.5]
+  - title: di
+    data: [20,20,20,20]
+  - title: xi
+    data: [29.5,49.5,69.5,89.5]
+  - title: fi
+    data: [2,10,15,3]
+  - title: fi %
+    data: [6.7,33.3,50,10]
+  - title: Fi
+    data: [2,12,27,30]
+  - title: Fi %
+    data: [6.7,40,90,100]
+width: 80%
+beginAtZero: true
 ```
