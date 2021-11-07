@@ -11,5 +11,11 @@ Aplikacije prenašajo velike količine podatkov  med dinamičnim spominom in dis
 ## Podatkovni model
 je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 
-### Sheme
-### 
+### Relacijski podatkovni model
+- Relacija je v osnovi tabela, s stolpci in vrsticami
+- vsaka relacija ima shemo, ki opisuje stolpce in vrstice
+```mermaid
+graph TB
+A-->B
+
+```
