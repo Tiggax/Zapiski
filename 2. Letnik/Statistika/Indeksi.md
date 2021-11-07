@@ -35,7 +35,7 @@ izraža upad ali prirast v primerjavi s prejšnim obdobjem.
 >ali
 >$S_{t/t-1}=I_{t/t-1}-100\%$
 
-```ad-example
+```ad-note
 collapse: T
 title: Primer:
 | Leto | Čebula | $Indeksi_{(osnova = 2010)}$ | Verižni indeksi | Stopnja rasti |

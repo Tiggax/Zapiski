@@ -10,7 +10,7 @@
 
 predstavimo jih z histogramom ali tortnim diagramom. 
 
-```ad-example
+```ad-note
 collapse: T
 title: Primer:
 
@@ -63,7 +63,7 @@ Kumulativne frekvence izračunamo:
 Relativne kumulativne frekvence
 >$F_j\%=100*\frac{F_j}{\sum^n_{k=1}f_k}$
 
-```ad-example
+```ad-note
 title:Primer:
 collapse: T
 
@@ -106,7 +106,7 @@ ko je možnih vrednosti veliko, jih običajno razdelimo na intervale. v primeru 
 	>$x_i=\frac{x_{i,max}+x_{i,min}}{2}$
 	>--
 
-```ad-example
+```ad-note
 collapse: T
 title: Primer:
 Za 30 učencev imamo podatke oštevilu ur odsotnosti v  
