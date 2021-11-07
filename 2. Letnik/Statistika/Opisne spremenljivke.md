@@ -40,7 +40,7 @@ width: 80%
 beginAtZero: true
 ```
 ```ad-example
-ti
+title: Tortni graf
 collapse: T
 ```chart
 type: pie
@@ -52,7 +52,6 @@ series:
 	data: [32,23,15,12,18]
 width: 80%
 beginAtZero: true
-
 ```
 če imajo urejenostne ali številske spremenljivke $X$ *končen nabor* vrednosti, jih lahko <span style="color:red">uredimo po velikosti</span> npr.:$a_1<a_2<a_3<...<a_n$ ter poleg frekvenc še izračunamo [[#^3743fe|kumulativne frekvence]].
 ## Kumulativne frekvence
