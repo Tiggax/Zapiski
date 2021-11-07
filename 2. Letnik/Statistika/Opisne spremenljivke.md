@@ -144,3 +144,16 @@ width: 80%
 beginAtZero: true
 ```
 podatke lahko poleg histograma predstavimo še s poligonom ali pa z ogivo, pri kateri na abscisno os narišemo zgornje meje razredov, na ordinatno pa pripadajoče relativne kumulativne frekvence.
+```chart
+type: line
+labels: [0,39.5,59.5,79.5,99.5]
+
+series:
+  - title: Relativna komulativna frekvenca
+    data: [0,6.7,40,90,100]
+tension: 0.2
+width: 35%
+labelColors: false
+fill: false
+beginAtZero: true
+```
