@@ -9,3 +9,4 @@
 Aplikacije prenašajo velike količine podatkov  med dinamičnim spominom in diskom.
 **SUPB** zaščiti podatke pred nekonsistenco, ki je lahko posledica večih hkratnih uporabnikov. prav tako ščiti pred izpadom sistema. hkrati pa zagotavlja večjo **varnost** in kontrolo dostopa.
 ## Podatkovni model
+je zbirka konceptualnih gradnikov za opis podatkov.
