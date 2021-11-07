@@ -14,9 +14,11 @@ je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 ### Relacijski podatkovni model
 - Relacija je v osnovi tabela, s stolpci in vrsticami
 - vsaka relacija ima shemo, ki opisuje stolpce in vrstice
-```mermaid
-classDiagram
-A<-->K
-b<-->K
+```nomnoml
+[1]<-->[K]
+[2]<-->[K]
+[3]<-->[K]
+[K]<-->[F]
+
 
 ```
