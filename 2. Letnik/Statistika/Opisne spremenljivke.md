@@ -19,11 +19,34 @@ V, Č, J, V, P, J, L, Č, P, V, J, Č, V, P, Č, L, Č, J, Č, V, P, L, V, Č, P
 Č = čokolada, V = vanilija, J = jagoda, L= lešnik, P = pistacija
 
 ---
-| Okus | $f_j$ | $f_j\%$ |
-| ---- | ----- | ------- |
-Čokolada 19 32  
-Vanilija 14 23  
-Jagoda 9 15  
-Lešnik 7 12  
-Pistacija 11 18
+| Okus      | $f_j$ | $f_j\%$ |
+| --------- | ----- | ------- |
+| Čokolada  | 19    | 32      |
+| Vanilija  | 14    | 23      |
+| Jagoda    | 9     | 15      |
+| Lešnik    | 7     | 12      |
+| Pistacija | 11    | 18      |
+
+```chart
+type: bar
+labels: [Čokolada,Vanilija,Jagoda,Lešnik,Pistacija]
+series:
+  - title: $f_j$
+    data: [19,14,9,7,11]
+  - title: $f_j\%$
+    data: [32,23,15,12,18]
+width: 80%
+beginAtZero: true
+
+```chart
+```chart
+type: pie
+labels: [Čokolada,Vanilija,Jagoda,Lešnik,Pistacija]
+series:
+  - title: $f_j$
+    data: [19,14,9,7,11]
+  - title: $f_j\%$
+    data: [32,23,15,12,18]
+width: 80%
+beginAtZero: true
 ```
