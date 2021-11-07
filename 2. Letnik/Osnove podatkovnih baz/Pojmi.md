@@ -2,5 +2,7 @@
 **S**istem za **U**pravljanje s **P**odatkovnimi **B**azami
 - velika povezana zbirka podatkov
 - modelira okolje v realnem svetu
-	- *Entitete*(osebe,studenti,predmeti)
-	- *Razmerja*(npr. Tone vpisan na Podatkovno bazo)
+	- *Entitete* (osebe,studenti,predmeti)
+	- *Razmerja* (npr. Tone vpisan na Podatkovno bazo)
+- SUPB je programski sistem za shranjevanje podatkov in upravljanje s podatkovnimi bazami
+**V primerjavi z Datotekami**
