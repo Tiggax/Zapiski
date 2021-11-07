@@ -89,4 +89,7 @@ width: 80%
 beginAtZero: true
 ```
 ### Dodatne lasnosti razredov
-ko je možnih vrednosti veliko, jih običajno razdelimo na inrer
+ko je možnih vrednosti veliko, jih običajno razdelimo na intervale. v primeru da so spremenljivke razdeljene v K intervalov, potem frekvenčno porazdelitev opremimo še s:
+- **spodnjo in zgornjo mejo razredov** tako da:
+	$x_{i,min}$ in $x_{i,max}$ za $i=1,...,K$
+	>$x_{i,max}=x_{i+1,min}$
