@@ -4,9 +4,9 @@
 >$f_j=\#(X=a_j)$
 
 **Relativna frekvenca**j-te enote je:
->$f^0_j=\frac{f_j}{\sum^n_1f_n}$
+>$f^0_j=\frac{f_j}{\sum^n_{k=1}f_k}$
 >ali izražena v odstotkih:
->$f_j\%=100*\frac{f_j}{\sum^n_1f_n}$
+>$f_j\%=100*\frac{f_j}{\sum^n_{k=1}f_k}$
 
 predstavimo jih z histogramom ali tortnim diagramom. 
 ```ad-example
@@ -53,4 +53,9 @@ beginAtZero: true
 če imajo urejenostne ali številske spremenljivke $X$ *končen nabor* vrednosti, jih lahko <span style="color:red">uredimo po velikosti</span> npr.:$a_1<a_2<a_3<...<a_n$ ter poleg frekvenc še izračunamo [[#^3743fe|kumulativne frekvence]].
 ## Kumulativne frekvence
 Kumulativne frekvence izračunamo:
->$F_j=\#(X\le a_j)=\sum^j_1f_j$
+>$F_j=\#(X\le a_j)=\sum^j_{n=1}f_n$
+>____
+>$F_j$ je število enot ki imajo največ vrednost $a_j$
+
+Relativne kumulativne frekvence
+>$F_j\%=100*\frac{F_j}{\sum^n_{k=1}F_k}$
