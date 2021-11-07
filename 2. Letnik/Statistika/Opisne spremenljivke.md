@@ -93,3 +93,8 @@ ko je možnih vrednosti veliko, jih običajno razdelimo na intervale. v primeru 
 - **spodnjo in zgornjo mejo razredov** tako da:
 	$x_{i,min}$ in $x_{i,max}$ za $i=1,...,K$
 	>$x_{i,max}=x_{i+1,min}$
+	Zgornja meja razreda je spodnja meja naslednjega.
+- **širino razreda**
+	>$d_i=x_{i,max}-x_{i,min}$
+	v primeru da so širine razredov različno velike ,podatki po razredih niso primerljivi. Tedaj za vsak razred izračunamo **gostoto frekvenc**
+		>$g_i=\frac{f_i}{d_i}$
