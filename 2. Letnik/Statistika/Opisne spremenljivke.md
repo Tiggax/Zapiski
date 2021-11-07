@@ -97,4 +97,20 @@ ko je možnih vrednosti veliko, jih običajno razdelimo na intervale. v primeru 
 - **širino razreda**
 	>$d_i=x_{i,max}-x_{i,min}$
 	v primeru da so širine razredov različno velike ,podatki po razredih niso primerljivi. Tedaj za vsak razred izračunamo **gostoto frekvenc**
-		>$g_i=\frac{f_i}{d_i}$
+	$g_i=\frac{f_i}{d_i}$
+	
+- **sredina razreda**
+	>$x_i=\frac{x_{i,max}+x_{i,min}}{2}$
+	>--
+
+```ad-example
+collapse: T
+title: Primer:
+Za 30 učencev imamo podatke oštevilu ur odsotnosti v  
+zadnjem šolskem letu:  
+70,54,29,73,72,47,41,43,59,97,43,52,67,42,73  
+84,74,60,80,71,42,69,37,64,78,63,59,72,72,69  
+Odločimo se za razrede: 20 −39,40 −59,60 −79,80 −99 in zapišemo  
+frekvenčno tabelo
+---
+```
