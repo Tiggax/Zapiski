@@ -143,3 +143,4 @@ series:
 width: 80%
 beginAtZero: true
 ```
+podatke lahko poleg histograma predstavimo še s poligonom ali pa z ogivo, pri kateri 
