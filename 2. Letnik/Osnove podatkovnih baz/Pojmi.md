@@ -16,9 +16,18 @@ je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 - vsaka relacija ima shemo, ki opisuje stolpce in vrstice
 ```mermaid
 graph TB
-A[Primer 1]<-->K[Konceptualna shema]
-B[Primer 2]<-->K[Konceptualna shema]
-C[Primer 3]<-->K[Konceptualna shema]
+A[Pogled 1]<-->K[Konceptualna shema]
+B[Pogled 2]<-->K[Konceptualna shema]
+C[Pogled 3]<-->K[Konceptualna shema]
 K<-->D[Fizična shema]
 D<-->G((Disk))
+```
+pogledi opisujejo kako uporabnik podatke vidi.
+več pogledov a ena shema.
+Konceptualna shema definira logično strukturo, fizična pa uporabljene datoteke in indekse.
+```ad-note
+collapse: T
+title: !
+- Shema je definira z uporabo DDL
+- Podatki se spreminjajo/poizvedujejo z DML
 ```

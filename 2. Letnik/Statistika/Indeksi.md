@@ -10,7 +10,7 @@ indekse z osnovo $x_0$ izračunamo:
 >$I_{i/0}=100*\frac{x_i}{x_0}; i=1,...,K$
 
 Za izračun mora biti merska lestvica spremenljivke razmernostna,vrednosti pa pozitivne.
-```ad-example
+```ad-note
 collapse: T
 title: Primer:
 
