@@ -64,13 +64,29 @@ Relativne kumulativne frekvence
 title:Primer:
 collapse: T
 
-| Ocene | $f_j$ | $f_j$%       | $F_j$ | $F_j$% |
-| ----- | ----- | ------------ | ----- | ------ |
-| 5     | 22    | 29.3         | 22    | 29.3   |
-| 6     | 17    | 22.7         | 39    | 52     |
-| 7     | 14    | 18.7 53 70.7 |       |        |
-8 9 12 62 82.7  
-9 6 8 68 90.7  
-10 7 9.3 75 100  
-Skupaj 75
+| Ocene  | $f_j$ | $f_j$% | $F_j$ | $F_j$% |
+| ------ | ----- | ------ | ----- | ------ |
+| 5      | 22    | 29.3   | 22    | 29.3   |
+| 6      | 17    | 22.7   | 39    | 52     |
+| 7      | 14    | 18.7   | 53    | 70.7   |
+| 8      | 9     | 12     | 62    | 82.7   |
+| 9      | 6     | 8      | 68    | 90.7   |
+| 10     | 7     | 9.3    | 75    | 100    |
+| Skupaj | 75    |        |       |        |
+```chart
+type: bar
+labels: [5,6,7,8,9,10,Skupaj]
+series:
+  - title: $f_j$
+    data: [22,17,14,9,6,7,75]
+  - title: $f_j$%
+    data: [29.3,22.7,18.7,12,8,9.3,]
+  - title: $F_j$
+    data: [22,39,53,62,68,75,]
+  - title: $F_j$%
+    data: [29.3,52,70.7,82.7,90.7,100,]
+width: 80%
+beginAtZero: true
 ```
+### Dodatne lasnosti razredov
+ko je možnih vrednosti veliko, jih običajno razdelimo na inrer
