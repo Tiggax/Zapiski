@@ -3,5 +3,9 @@
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-mind-map",
+  "obsidian-plugin-todo",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-autocomplete-plugin"
 ]
