@@ -58,4 +58,19 @@ Kumulativne frekvence izračunamo:
 >$F_j$ je število enot ki imajo največ vrednost $a_j$
 
 Relativne kumulativne frekvence
->$F_j\%=100*\frac{F_j}{\sum^n_{k=1}F_k}$
+>$F_j\%=100*\frac{F_j}{\sum^n_{k=1}f_k}$
+
+```ad-example
+title:Primer:
+collapse: T
+
+| Ocene | $f_j$ | $f_j$%       | $F_j$ | $F_j$% |
+| ----- | ----- | ------------ | ----- | ------ |
+| 5     | 22    | 29.3         | 22    | 29.3   |
+| 6     | 17    | 22.7         | 39    | 52     |
+| 7     | 14    | 18.7 53 70.7 |       |        |
+8 9 12 62 82.7  
+9 6 8 68 90.7  
+10 7 9.3 75 100  
+Skupaj 75
+```
