@@ -22,3 +22,8 @@ je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 
 
 ```
+
+```mermaid
+graph TB
+{Primer 1]<-->{Konceptualna shema}
+```
