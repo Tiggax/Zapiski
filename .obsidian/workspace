@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Osnove podatkovnih baz/Draft.md",
-            "mode": "source"
+            "file": "2. Letnik/Statistika/Indeksi.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Osnove podatkovnih baz/Draft.md",
+                "file": "2. Letnik/Statistika/Indeksi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,15 +103,15 @@
   },
   "active": "dabbb985cc3c85b8",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Osnove podatkovnih baz/Draft.md",
     "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
+    "2. Letnik/Osnove podatkovnih baz/Diagram.svg.md",
     "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "2. Letnik/Statistika/Strukture.md",
     "2. Letnik/Statistika/Opisne spremenljivke.md",
-    "2. Letnik/Statistika/Indeksi.md",
     "Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md",
     "Predefined.md",
-    "Excalidraw/Drawing 2021-11-06 11.32.51.excalidraw.md",
-    "Excalidraw/Drawing 2021-11-07 20.46.27.excalidraw.md"
+    "Excalidraw/Drawing 2021-11-06 11.32.51.excalidraw.md"
   ]
 }
