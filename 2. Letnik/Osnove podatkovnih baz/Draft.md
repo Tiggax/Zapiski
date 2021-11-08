@@ -26,5 +26,6 @@
 ## Format zapisa
 ```mermaid
 graph LR;
-	A--B
+A---B
 ```
+### Zapisi fiksne dolžine
