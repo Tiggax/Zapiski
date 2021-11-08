@@ -9,4 +9,13 @@
 - zahtevana stran mora biti *odpeta*
 - vidno mora biti če je stran spremenjena ali "umazana"
 	- umazan bit
-- stran v bazenu je lahk
+- stran v bazenu je lahko zahtevana večkrat
+	- uporablja se **število pripenjanj**.  Stran je kandidat za zamenjavo če je št. pripenjanj =0
+- vzporednost in okrevanje:
+	- dodatni I/O v primeru da je stran izbrana za zamenjavo
+- protokol dnevnika
+
+## Strategije za zamenjavo strani
+- okvir izbran s **strategijo zanenjave**
+	- LRU, Ura(Clock), MRU, itd.
+- Strategija ima lahko velik vpliv na # I/O operacij; odvisno od vzorca
