@@ -23,4 +23,8 @@
 	- Grda situacija povzročena z LRU + ponavljajoč sekvenčni pregled tabele
 	- **# okvirjev < # strani datoteke** vsaka zahteva povzroči I/O. MRU je v tem primeru boljša(toda ne v vseh situacijah)
 ---
-## 
+## Format zapisa
+```mermaid
+graph LR;
+	A--B
+```
