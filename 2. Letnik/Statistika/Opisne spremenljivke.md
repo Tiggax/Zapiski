@@ -54,6 +54,8 @@ width: 80%
 beginAtZero: true
 ```
 če imajo urejenostne ali številske spremenljivke $X$ *končen nabor* vrednosti, jih lahko <span style="color:red">uredimo po velikosti</span> npr.:$a_1<a_2<a_3<...<a_n$ ter poleg frekvenc še izračunamo [[#^3743fe|kumulativne frekvence]].
+
+---
 ## Kumulativne frekvence
 Kumulativne frekvence izračunamo:
 >$F_j=\#(X\le a_j)=\sum^j_{n=1}f_n$

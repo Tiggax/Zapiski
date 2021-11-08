@@ -8,6 +8,7 @@ Funkcija gostote verjetnosti  mora biti:
 >če ima sučajna spremenljivka X gostoto f, je:
 >$P(a<=X<=b)=\int(a,b)f(x)dx$
 
+---
 ## Porazdelitvena funkcija
 slučajne spr. X z gostoto f je:
 $F(x)=P(X<=x)=int(-inf,X)f(s)ds$
@@ -21,6 +22,7 @@ Za porazdelitveno funkcijo velja:
 >$$f(x)={(1 za 0<=x<=1),(0 sicer)}$$
 porazdelitvena je:
 
+---
 ## Kvantili za zvezne slučajne spremenljivke
 naj bo X zvezna slučajna spremenljivka s porazdelitveno funkcijo F.
 $\color{red}p-kvantil$ $(0<=p<=1)$ za spremenljivka+o X je vrednost $x_(p)$, za katero velja:
@@ -35,6 +37,8 @@ slučajna spr. X lahko zavzame vred: $[0,\inf)$ in ima funcijo: $F(x)=\frac{x}{1
 	$P(1<=X<=2)=F(2)-F(1)=\frac{2}{3}-\frac{1}{2}=\frac{1}{6}$
 - Mediana je vrednost Me, za katero $F(Me)=0.5$, torej $Me=1$
 - $Q_{0.25}=\frac{1}{3}$
+
+---
 ## Pričakovane vrednosti in varianca
 **pričakovana vrednost** je:
 $E(X)=\int\limits_{-inf}^{inf}xf(x)dx$
@@ -42,12 +46,17 @@ $E(X)=\int\limits_{-inf}^{inf}xf(x)dx$
 $Var(X)=E((X-u)^2)=E(X^2)-E^2(X)$
 **Pimer:**
 Slučajna spremenljivka X lahko zavzame vrednosti v $[0,1)$ in ima funkcijo gostote $f(x)=6x(1-x)$. Izračunajmo $E(X)$ in $Var(X)$
+
+---
 ## Eksponentna porazdelitev $Exp(\lambda)$
 Gostota slučajne spremenljivke X z eksponentno porazdelitvijo s parametrom $\lambda(X~Exp(\lambda))$ je:
 $f(x)={(\lambda e^{-\lambda x} za x>=0),(0za)}$
 
+---
 ## Gausova porazdelitev
 ima dva parametra $X~N(\mu, \sigma^2)$
+
+---
 ## Standardna normalna slučajna spremenljivka
 Z~N(0,1) ima funkcijo gostote:
 $f(x)=\frac{1}{\sqrt{2\pi}}e^{\frac{-x^2}{2}}$
