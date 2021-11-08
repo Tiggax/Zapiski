@@ -19,13 +19,14 @@ je zbirka konceptualnih gradnikov za opis podatkov. poznamo:
 - Relacija je v osnovi tabela, s stolpci in vrsticami
 - vsaka relacija ima shemo, ki opisuje stolpce in vrstice
 ```mermaid
-graph TB
+graph LR
 A[Pogled 1]<-->K[Konceptualna shema]
 B[Pogled 2]<-->K[Konceptualna shema]
 C[Pogled 3]<-->K[Konceptualna shema]
 K<-->D[Fizična shema]
 D<-->G((Disk))
 ```
+
 pogledi opisujejo kako uporabnik podatke vidi.
 več pogledov a ena shema.
 Konceptualna shema definira logično strukturo, fizična pa uporabljene datoteke in indekse.

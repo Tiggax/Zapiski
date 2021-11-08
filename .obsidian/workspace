@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/Indeksi.md",
-            "mode": "preview"
+            "file": "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/Indeksi.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
   },
   "active": "dabbb985cc3c85b8",
   "lastOpenFiles": [
+    "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
     "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Osnove podatkovnih baz/Draft.md",
-    "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
     "2. Letnik/Osnove podatkovnih baz/Diagram.svg.md",
     "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "2. Letnik/Statistika/Strukture.md",
