@@ -150,27 +150,7 @@ vsako vozlišče hrani poleg ključa še globino.
 >Vstavi v abelovo drevo naslednje elemente:
 >9,27,50,15,22,36
 
-```mermaid
-graph LR
-A[9]
-B[27]
-C[50]
-D[15]
-E[22]
-F[36]
-subgraph 0
-C
-end
-subgraph 1
-B
-end
-subgraph 2
-A
-end
 
-A---B
-B---C
-```
 
 ```mermaid
 graph LR
@@ -194,9 +174,69 @@ B---C
 vedno se rotira okoli **pivota**
 rotiramo med tremi elementi. levo mora biri vedno manjše desno večje. zato gre 27 v koren 
 ```mermaid
+graph LR
 A[9]
 B[27]
 C[50]
 B---C
 B---A
+```
+dodamo 2
+```mermaid
+graph LR
+A[9]
+B[27]
+C[50]
+D[2]
+E[15]
+F[22]
+G[36]
+B---C
+B---A
+A---D
+A---E
+E---F
+C---G
+```
+15 gre v koren
+```mermaid
+graph LR
+A[9]
+B[27]
+C[50]
+D[2]
+E[15]
+F[22]
+G[36]
+B---C
+B---E
+A---D
+A---E
+E---F
+C---G
+```
+
+---
+
+
+```mermaid
+graph LR
+A[9]
+B[27]
+C[50]
+D[15]
+E[22]
+F[36]
+subgraph 0
+C
+end
+subgraph 1
+B
+end
+subgraph 2
+A
+end
+
+A---B
+B---C
 ```
