@@ -135,3 +135,5 @@ E---F
 E---G
 G---H
 ```
+---
+uporabljamo primerjalni primer
