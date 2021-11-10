@@ -139,4 +139,4 @@ G---H
 uporabljamo primerjalni primer.
 
 ### Pregled
-
+kombinirani pregled je lep -> pride do urejenega arraya
