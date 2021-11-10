@@ -60,8 +60,32 @@ prvi nivo sta mozna 0 ali 1
 drugi nivo so mozni 00 01 10 ali 11
 
 ## ključi
-
+za n ključev 
 imamo nekaj n ključev za $\epsilon$={0,1} 
 a) neki neki da ne bo o+nobenega polja/vektorja z drugimi besedami bi za vsako stiskanje po poteh bila gostota vedno prenizka.
 kakšne vrdnosti morjo met ključi da ne bo nobenega stiskanja?
-za n ključev
+> ali vsi začnejo z 0 ali pa z 1
+
+recimo da se vsi ključi začnejo z 0
+
+```mermaid
+graph LR
+A---B
+B---C
+B---D
+D---E
+D---F
+```
+v primeru z 
+```mermaid
+graph LR
+B---C
+B---D
+D---E
+D---F
+```
+se pravi če zelimo da ne bo stiskanja se morajo vsi začeti z 0 ali z 1.
+## Dvojiška iskalna drevesa
+
+imamo elemente ki jih vstavljamo:
+**Ključ** in **podatek**
