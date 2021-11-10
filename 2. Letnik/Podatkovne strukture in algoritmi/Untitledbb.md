@@ -97,7 +97,7 @@ imamo elemente ki jih vstavljamo:
 
 ### Vstavljanje
 PRIMER:
-mamo : 30,48
+mamo : 30,48,58,40,24,26,11,13
 ```mermaid
 graph LR
 A[30]
@@ -107,7 +107,31 @@ D[40]
 E[24]
 F[26]
 G[11]
-
+H[13]
 A---B
 B---C
+A---E
+B---D
+E---F
+E---G
+G---H
+```
+### Brisanje
+
+Zbrišemo 58
+```mermaid
+graph LR
+A[30]
+B[48]
+D[40]
+E[24]
+F[26]
+G[11]
+H[13]
+A---B
+A---E
+B---D
+E---F
+E---G
+G---H
 ```
