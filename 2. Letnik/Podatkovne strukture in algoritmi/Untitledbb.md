@@ -216,7 +216,7 @@ E---F
 B---E
 C---G
 ```
-50 gre v koren
+50 gre v koren, 22 v koren  in se obrne
 ```mermaid
 graph LR
 
@@ -227,12 +227,12 @@ E[15]
 A[9]
 F[22]
 G[36]
-C---
-A---D
-E---A
-E---F
-B---E
 C---G
+C---F
+F---B
+F---E
+E---A
+E---D
 ```
 
 ---
