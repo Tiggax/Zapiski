@@ -201,18 +201,37 @@ C---G
 15 gre v koren
 ```mermaid
 graph LR
-A[9]
+
 B[27]
 C[50]
 D[2]
 E[15]
+A[9]
 F[22]
 G[36]
 B---C
-B---E
 A---D
-A---E
+E---A
 E---F
+B---E
+C---G
+```
+50 gre v koren
+```mermaid
+graph LR
+
+B[27]
+C[50]
+D[2]
+E[15]
+A[9]
+F[22]
+G[36]
+C---
+A---D
+E---A
+E---F
+B---E
 C---G
 ```
 
