@@ -234,6 +234,7 @@ F---E
 E---A
 E---D
 ```
+naredili smo algoritem $n\log n$
 
 ---
 
