@@ -96,4 +96,18 @@ imamo elemente ki jih vstavljamo:
 **Ključ** in **podatek**
 
 ### Vstavljanje
+PRIMER:
+mamo : 30,48
+```mermaid
+graph LR
+A[30]
+B[48]
+C[58]
+D[40]
+E[24]
+F[26]
+G[11]
 
+A---B
+B---C
+```
