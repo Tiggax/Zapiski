@@ -24,6 +24,24 @@ Stisnit po plasteh ->
 
 ```mermaid
 graph TB;
+subgraph ena
+A 
+end
+subgraph dve
+D
+B
+end
+subgraph tri
+C
+E
+H
+I
+end
+subgraph stiri
+F
+G
+M
+end
 A[1]-- 0 ---B
 B[2]-- 0 ---C[x2]
 A-- 1 ---D
@@ -37,3 +55,4 @@ G-- 0 ---J
 G-- 1 ---K
 
 ```
+vsak nivo je en $2^2$
