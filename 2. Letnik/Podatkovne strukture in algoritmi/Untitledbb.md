@@ -136,4 +136,6 @@ E---G
 G---H
 ```
 ---
-uporabljamo primerjalni primer
+uporabljamo primerjalni primer.
+
+### Pregled
