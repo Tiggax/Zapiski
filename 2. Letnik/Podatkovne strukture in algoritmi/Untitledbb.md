@@ -152,5 +152,51 @@ vsako vozlišče hrani poleg ključa še globino.
 
 ```mermaid
 graph LR
-A[]
+A[9]
+B[27]
+C[50]
+D[15]
+E[22]
+F[36]
+subgraph 0
+C
+end
+subgraph 1
+B
+end
+subgraph 2
+A
+end
+
+A---B
+B---C
+```
+
+```mermaid
+graph LR
+A[9]
+B[27]
+C[50]
+subgraph 0
+C
+end
+subgraph 1
+B
+end
+subgraph 2
+A
+end
+
+A---B
+B---C
+```
+
+vedno se rotira okoli **pivota**
+rotiramo med tremi elementi. levo mora biri vedno manjše desno večje. zato gre 27 v koren 
+```mermaid
+A[9]
+B[27]
+C[50]
+B---C
+B---A
 ```
