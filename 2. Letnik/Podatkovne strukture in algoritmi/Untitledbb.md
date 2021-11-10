@@ -140,3 +140,17 @@ uporabljamo primerjalni primer.
 
 ### Pregled
 kombinirani pregled je lep -> pride do urejenega arraya
+
+---
+
+VSE te operacije so odvisne od **globine**
+
+## Abelovo Drevo
+vsako vozlišče hrani poleg ključa še globino.
+>Vstavi v abelovo drevo naslednje elemente:
+>9,27,50,15,22,36
+
+```mermaid
+graph LR
+A[]
+```
