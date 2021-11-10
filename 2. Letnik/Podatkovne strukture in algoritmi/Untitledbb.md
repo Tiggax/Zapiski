@@ -86,6 +86,14 @@ D---F
 ```
 se pravi če zelimo da ne bo stiskanja se morajo vsi začeti z 0 ali z 1.
 ## Dvojiška iskalna drevesa
-
+podoben slovarju? 
+je neka struktura ki operira z elementi
+Ima:
+- iskanje
+- brisanje
+- vstavljanje
 imamo elemente ki jih vstavljamo:
 **Ključ** in **podatek**
+
+### Vstavljanje
+
