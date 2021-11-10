@@ -2,5 +2,6 @@
   "attachmentFolderPath": "Dodatki",
   "trashOption": "local",
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }
