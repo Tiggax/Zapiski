@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
+            "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,20 +94,28 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "2152324cde62195b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "dabbb985cc3c85b8",
   "lastOpenFiles": [
+    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
     "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
     "2. Letnik/Statistika/Strukture.md",
-    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "2. Letnik/Statistika/Opisne spremenljivke.md",
     "2. Letnik/Statistika/Indeksi.md",
