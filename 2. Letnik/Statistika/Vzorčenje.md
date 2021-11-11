@@ -51,6 +51,10 @@ title: Primer:
 Denimo da je višina v populaciji štirihletnih deklic normalno porazdeljena z $\mu =100cm$ in $\sigma =4cm$. iz populacije smo izbrali devet štiriletnih deklic, in jim izmerlili višino in dobili $\overline{x}=97cm$
 - kako tipičen je ta vzorec t.j. kakšen delež vseh velikosti n=9 ima povpreče vsaj 97cm?
 
->$$P(\overline{X}\le 97)=P(\frac{\overline{X}-100}{\frac{4}{3}}\ge )$$
+>$$P(\overline{X}\le 97)=P(\frac{\overline{X}-100}{\frac{4}{3}}\ge \frac{97-100}{\frac{4}{3}})=P(Z\ge -\frac{9}{4})=1-P(Z< -\frac{9}{4})=1-0.0122=0.9878$$
 
+Torej približno 98.8% vzorcev velikosti 9 ima povprečje vsaj 97 cm.
+
+- kakšen delež aritmetičnih sredin vseh vzorcev velikosti n = 9 se od poulacijskega povprečja razlikuje za vsaj 3 cm.
+> A: 0.0244
 ```
