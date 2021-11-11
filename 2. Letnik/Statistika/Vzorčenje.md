@@ -39,4 +39,8 @@ za večje pa:
 >$$s^2=\frac{1}{n-1}\sum _{i=1}^n(X_i-\overline{X})^2$$
 
 za vzorčne porazdeltvne:
->$$Var(\overline{X})=S_\frac{s^2}{n}$$
+>$$Var(\overline{X})=S_{\overline{X}}^2=\frac{s^2}{n}(1-\frac{n}{N})$$
+
+### Centralni limitni izrek
+z $\overline{X}_n$ označimo vzorčno porazdelitev, če so vzorci velikosti n. Če F označuje  porazdelitvno funkcijo standardne normalne slučajne spremenljivke N(0,1) potem izrek pove:
+>$$P()$$
