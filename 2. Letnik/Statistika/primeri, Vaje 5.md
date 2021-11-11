@@ -16,8 +16,10 @@ $$
 
 ```chart
 type: line
-labels:[-2,-1,0,1,2,3]
+labels:[-3,-2,-1,0,1,1.5,2,3]
 series:
 	- title: graf1
-	data:
+		data: [0,0,0.25,0.5,0.75,1.5,1.5,1.5]
 ```
+
+$$f_x(x)=\begin$$
