@@ -64,7 +64,15 @@ c) $$P(0\le x\le 1)$$
 	d.
 	>$P(70\le X\le 120)=P(X\le 120)-P(X\le 70)=1-0.84=0.16$
 	
-	d. prvi kvartil porazdelitve 
+	d. prvi kvartil porazdelitve
+	> $P(X\le x)=0.25$ ali $F(x)=0.25; x=1.kvartil$
+	> $P(X\lex)=0.25$
+	> $P(\frac{X-65}{5}\le \frac{x-65}{5})=0.25$
+	> $P(Z\le \frac{x-65}{5})=0.25$
+	> $\frac{x-65}{5}=-0.67$
+	> $x-65=-0.67*5$
+	> $x=61.65$
+	
 1. $X\approx N(13,3^2)$
 >a. $$P(X<12)=P(\frac{X-13}{3}<\frac{12-13}{3})=P(Z<-0.33)=0.3707$$
 
