@@ -27,4 +27,5 @@ $$f_x(x)=$$
 ## 2. naloga
 
 $$f(x)=cx^2  ;0<x<2$$
-a) $$\int _{-\infty} ^\infty $$
+a) $$\int _{-\infty} ^\infty cx^2dx=\int _0^2 cx^2dx=\frac{cx^3}{3}|_0^2=\frac{c8}{3}-0= c*\frac{8}{3}$$
+$$c*\frac{8}{3}=1\\ c=\frac{8}{3}$$
