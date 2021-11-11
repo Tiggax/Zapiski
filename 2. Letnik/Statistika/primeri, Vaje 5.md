@@ -63,11 +63,12 @@ c) $$P(0\le x\le 1)$$
 	
 	d.
 	>$P(70\le X\le 120)=P(X\le 120)-P(X\le 70)=1-0.84=0.16$
-
-4. $X\approx N(13,3^2)$
+	
+	d. prvi kvartil porazdelitve 
+1. $X\approx N(13,3^2)$
 >a. $$P(X<12)=P(\frac{X-13}{3}<\frac{12-13}{3})=P(Z<-0.33)=0.3707$$
 
->b. $$P(10\le X\le 15)=P(X\le 15)-P(X\le 10)=P(\frac{X-13}{3}\le \frac{15-13}{3})-P(\frac{X-13}{3}\le \frac{10-13}{3})=P(Z\le 0.66)-P(Z\le)$$
-$$
-x  f
-$$
+>b. $$P(10\le X\le 15)=P(X\le 15)-P(X\le 10)=P(\frac{X-13}{3}\le \frac{15-13}{3})-P(\frac{X-13}{3}\le \frac{10-13}{3})=P(Z\le 0.66)-P(Z\le -1)=0.75-0.16=0.59$$
+
+>c. $$P(X>15)=P(\frac{X-13}{3}>\frac{15-13}{3})=P(Z>0.66)=1-P(Z\le 0.66)=1-0.75=0.25$$
+>$Q_3=15$ vidimo iz procentov
