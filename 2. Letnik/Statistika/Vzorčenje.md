@@ -73,11 +73,19 @@ Torej približno 98.8% vzorcev velikosti 9 ima povprečje vsaj 97 cm.
 >
 >za n$\ge 11$
 ```
-```ad-notes
+```ad-note
 collapse: T
 title: Primer:
 iz populacije velikosti 1000 naključno izberemo 15 ljudi in jih prosimo da rešijo IQ test. Dobimo:
 117, 102, 95, 109, 104, 128, 98, 105, 119, 89, 99, 111, 107, 100
 - podajte nepristransko oceno povprečnega IQ v populaciji:
->$$\overline{x}=\frac{1}{15}$$
+>$$\overline{x}=\frac{1}{15}(\sum )=105.13$$
+
+- podajte nepristransko oceno za varianco populacije:
+>$$s^2=\frac{1}{14}(\sum (x_i-\overline{x})^2)=108.7$$
+
+
+- denimo da je IQ v populaciji normalno prazdeljen z $\mu$ = 100 in $\sigma$= 15. kako tipičen je zgornji vzorec?
+A: 0.0934
+>
 ```
