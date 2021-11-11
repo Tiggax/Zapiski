@@ -25,11 +25,23 @@ title: Primer:
 | 1   | 0.4    |
 
 Funkcija verjetnosti za spremenljivko Y je:
-| 1   | 0.
-| --- |
+
+| 1   | 0.4 |
+| --- | --- |
+| 2   | 0.6 |
 
 >$$E(Y)=1*0.4+2*0.6=1.6$$
 
+Za spremenljivko XY je funkcija verjetnosti:
+
+>$$P(XY=-2)=P(X=-1)=0.2$$
+>$$P(XY=0)=P(X=0)=0.4$$
+>$$P(XY=2)=P(X=1)=0.4$$
+
+>$$E(XY)=(-2)+0.2'0*0.4+2*0.4$$
+>...
+>$$Cov(X,Y)=0.08$$
 
 
 ```
+
