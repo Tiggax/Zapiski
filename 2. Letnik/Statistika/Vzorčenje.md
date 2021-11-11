@@ -26,4 +26,7 @@ varianca vzorčne porazdelitve
 >$$Var(\overline{X})\approx \frac{\sigma ^2}{n}$$
 
 ### Populacijska varianca
-$$\sigma ^2 = \frac{1}{n}\sum _{i=1}^n$$
+$$\sigma ^2 = \frac{1}{n}\sum _{i=1}^n(X_i-\overline{X})^2$$
+izkaže se da ta ocena ni nepristranska ($E(\hat{\sigma} ^2)\ne\sigma ^2$) velja:
+>$$E(\hat{\sigma} ^2)=\sigma ^2 \frac{N}{N-1}\frac{n-1}{n}$$
+>ker je $\frac{N}{N-1}\frac{n-1}{n}<1$ varianco vedno **podcenimo**
