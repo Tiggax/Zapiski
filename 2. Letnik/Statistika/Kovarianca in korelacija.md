@@ -4,12 +4,32 @@ $Var(x)$ (Varianca) je merilo razpršenosti slučajne spremenljivke X okoli pri�
 >naj bosta X in Y sličajni spremenljivki $\mu _x=E(X)$ in $\mu _y=E(X)$
 
 **Kovarianca** je :
->$$$$
+>$$Cov(X,Y)=E(X,Y)-E(X)E(Y)$$
+
+```ad-note
+collapse:T
+title: Primer:
 
 
-Primer:
 | k   | P(X=k) |
 | --- | ------ |
 | -1  | 0.2    |
 | 0   | 0.4    |
-| 1   | 0.       |
+| 1   | 0.4    |
+
+
+| k   | P(X=k) |
+| --- | ------ |
+| -1  | 0.2    |
+| 0   | 0.4    |
+| 1   | 0.4    |
+
+Funkcija verjetnosti za spremenljivko Y je:
+| 1   | 0.
+| --- |
+
+>$$E(Y)=1*0.4+2*0.6=1.6$$
+
+
+
+```
