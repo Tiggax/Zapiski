@@ -47,4 +47,9 @@ c) $$P(0\le x\le 1)$$
 
 3. X$\approx N(65,25)$. 65 predstavlja povprečje srčnega otripa populacije, 25 pa predstavlja varianco -> ($\sigma = 5,\mu=65$)
 	a. $P(X\ge 70)$
-	>
+	>prvo mormo spremenit -> jo standardizirat da bo za iz tabelce brt.
+	>$P(X\ge 70)=P(\frac{X-65}{5}\ge \frac{70-65}{5})$ namesto $\frac{X-65}{5}$ lahko pišemo $Z\approx N(0,1)$:
+	>$P(Z\ge 1)$
+	>**v tabeli so vrednosti $P(Z\ge z)$!**
+	>$P(Z\ge z)=1-P(Z<z)$
+	>To lahko preberemo iz tabele kot $z$
