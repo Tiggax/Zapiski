@@ -86,6 +86,7 @@ iz populacije velikosti 1000 naključno izberemo 15 ljudi in jih prosimo da reš
 
 
 - denimo da je IQ v populaciji normalno prazdeljen z $\mu$ = 100 in $\sigma$= 15. kako tipičen je zgornji vzorec?
-A: 0.0934
+>izračunajmo delež tistih vzorcev n=15, pri katerih povprečje preseže $\overline{x}$=105.13 
+>A: 0.0934
 >
 ```
