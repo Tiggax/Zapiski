@@ -82,8 +82,15 @@ c) $$P(0\le x\le 1)$$
 >c. $$P(X>15)=P(\frac{X-13}{3}>\frac{15-13}{3})=P(Z>0.66)=1-P(Z\le 0.66)=1-0.75=0.25$$
 >$Q_3=15$ vidimo iz procentov
 
-6. neki s pliskavcam... dana je navadna porazdelitev z povprečjem 500.
+6. neki s pliskavcam... dana je navadna porazdelitev z povprečjem 500. N(500,250)
 	a) simetrični interval okrog povprečja ki bo vseboval težo  95% delfinov
-	>$P(X\le x_1)=0.025; P(X\le x_2)=0.$
+	>$P(X\le x_1)=0.025; P(X\le x_2)=0.975$
+	>$$P(\frac{X-500}{50}\le \frac{x_1 -500}{50})=0.025$$
+	>$$P(Z\le \frac{x_1-500}{50})=0.025$$
+	>$$\frac{x_1-500}{50}=-1.96$$
+	>$$x_1=402$$
+
+	>$$P(Z\le \frab{x_2-500}{50})=0.975$$
+	>$$$$
 	.
 
