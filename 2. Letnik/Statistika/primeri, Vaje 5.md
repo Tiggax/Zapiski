@@ -1,0 +1,1 @@
+$$F(x)=\begin{array}{cc}0;x<-2[$$
