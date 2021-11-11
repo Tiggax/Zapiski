@@ -10,4 +10,16 @@ recmo d aje celotna populacija velikosti $N$
 	>$$\mu = \frac{x_1+x_2+...+x_n}{N}$$
 
 - vsota
->$$\tau	= \sum_{n=1}$$
+>$$\tau	= \sum_{i=1}^N x_i$$
+
+- populacijska varianca
+
+
+naključno vzorčenje je nepristransko.
+
+## Vzorčna porazdelitev
+porazdelitev $\overline{X}$ 
+
+varianca vzorčne porazdelitve
+>$$Var(\overline{})$$
+	
