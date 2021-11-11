@@ -44,8 +44,13 @@ za vzorčne porazdeltvne:
 z $\overline{X}_n$ označimo vzorčno porazdelitev, če so vzorci velikosti n. Če F označuje  porazdelitvno funkcijo standardne normalne slučajne spremenljivke N(0,1) potem izrek pove:
 >$$P(\frac{\overline{X}_n-\mu}{\frac{\sigma}{\sqrt{n}}}\ge z)\to F(z)$$
 
-```àd-note
+```ad-note
 collapse: T
 title: Primer:
 
-Denimo da je višina v populaciji štirihletnih deklic normalno porazdeljena z $\mu =100cm$ in 
+Denimo da je višina v populaciji štirihletnih deklic normalno porazdeljena z $\mu =100cm$ in $\sigma =4cm$. iz populacije smo izbrali devet štiriletnih deklic, in jim izmerlili višino in dobili $\overline{x}=97cm$
+- kako tipičen je ta vzorec t.j. kakšen delež vseh velikosti n=9 ima povpreče vsaj 97cm?
+
+>$$P(\overline{X}\le 97)=P(\frac{\overline{X}-100}{\frac{4}{3}}\ge )$$
+
+```
