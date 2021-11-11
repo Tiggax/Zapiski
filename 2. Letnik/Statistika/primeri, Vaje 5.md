@@ -29,3 +29,15 @@ $$f_x(x)=$$
 $$f(x)=cx^2  ;0<x<2$$
 a) $$\int _{-\infty} ^\infty cx^2dx=\int _0^2 cx^2dx=\frac{cx^3}{3}|_0^2=\frac{c8}{3}-0= c*\frac{8}{3}$$
 $$c*\frac{8}{3}=1\\ c=\frac{8}{3}$$
+
+>tega nau na kolokviju, sam c) del...
+
+c) $$P(0\le x\le 1)$$
+>Fina funkcija(za na listek ;) ):$$P(a\le X\le b)=F(b)-F(a)$$
+
+ $$P(0\le x\le 1)=\frac{1^3}{8}-0=\frac{1}{8}$$
+ 
+ $$P(1\le x\le 2)=\frac{2^3}{8}-\frac{1^3}{8}=\frac{7}{8}$$
+ 
+ ## naloge iz normalne porazdelitve
+ 
