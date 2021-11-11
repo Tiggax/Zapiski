@@ -72,11 +72,18 @@ c) $$P(0\le x\le 1)$$
 	> $\frac{x-65}{5}=-0.67$
 	> $x-65=-0.67*5$
 	> $x=61.65$
+	> od te vrednosti ima 25% ljudi večji srčni utrip.
 	
-1. $X\approx N(13,3^2)$
+4. $X\approx N(13,3^2)$
 >a. $$P(X<12)=P(\frac{X-13}{3}<\frac{12-13}{3})=P(Z<-0.33)=0.3707$$
 
 >b. $$P(10\le X\le 15)=P(X\le 15)-P(X\le 10)=P(\frac{X-13}{3}\le \frac{15-13}{3})-P(\frac{X-13}{3}\le \frac{10-13}{3})=P(Z\le 0.66)-P(Z\le -1)=0.75-0.16=0.59$$
 
 >c. $$P(X>15)=P(\frac{X-13}{3}>\frac{15-13}{3})=P(Z>0.66)=1-P(Z\le 0.66)=1-0.75=0.25$$
 >$Q_3=15$ vidimo iz procentov
+
+6. neki s pliskavcam... dana je navadna porazdelitev z povprečjem 500.
+	a) simetrični interval okrog povprečja ki bo vseboval težo  95% delfinov
+	>$P(X\le x_1)=0.025; P(X\le x_2)=0.$
+	.
+
