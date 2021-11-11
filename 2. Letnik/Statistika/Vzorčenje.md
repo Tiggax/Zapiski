@@ -43,4 +43,4 @@ za vzorčne porazdeltvne:
 
 ### Centralni limitni izrek
 z $\overline{X}_n$ označimo vzorčno porazdelitev, če so vzorci velikosti n. Če F označuje  porazdelitvno funkcijo standardne normalne slučajne spremenljivke N(0,1) potem izrek pove:
->$$P()$$
+>$$P(\frac{\overline{X}_n-\mu}{\frac{\sigma}{\sqrt{n}}}\ge z)\to F(z)$$
