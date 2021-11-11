@@ -43,4 +43,8 @@ c) $$P(0\le x\le 1)$$
  >NORMALNA slučajna spremenljivka X $\approx$N(0,1)
  >$$f(x)=\frac{1}{\sigma \sqrt{2x}}e^{-\frac{x-\mu ^2}{2\sigma ^2}}$$
 
-X$\approx$$N(\mu ,\sigma)$
+>pomembno: $X\approx$$N(\mu ,\sigma ^2)\to$$Z=\frac{X-\mu}{\sigma}\approx N(0,1)$
+
+3. X$\approx N(65,25)$. 65 predstavlja povprečje srčnega otripa populacije, 25 pa predstavlja varianco -> ($\sigma = 5,\mu=65$)
+	a. $P(X\ge 70)$
+	>
