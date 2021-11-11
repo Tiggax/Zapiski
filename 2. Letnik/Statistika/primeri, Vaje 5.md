@@ -53,3 +53,11 @@ c) $$P(0\le x\le 1)$$
 	>**v tabeli so vrednosti $P(Z\ge z)$!**
 	>$P(Z\ge z)=1-P(Z<z)$
 	>To lahko preberemo iz tabele kot $z$
+	>$=1-0.84=0.16$
+	
+	b. O: $P(X\le 70)= 1-P(X> 70)=1-0.16=0.84$ 
+	c. $P(X\le 120)$
+
+$$
+x  f
+$$
