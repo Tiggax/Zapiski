@@ -30,3 +30,13 @@ $$\sigma ^2 = \frac{1}{n}\sum _{i=1}^n(X_i-\overline{X})^2$$
 izkaže se da ta ocena ni nepristranska ($E(\hat{\sigma} ^2)\ne\sigma ^2$) velja:
 >$$E(\hat{\sigma} ^2)=\sigma ^2 \frac{N}{N-1}\frac{n-1}{n}$$
 >ker je $\frac{N}{N-1}\frac{n-1}{n}<1$ varianco vedno **podcenimo**
+
+### Nepristranska ocena variance
+za manjše populacije:
+>$$s^2=\frac{N-1}{N}\frac{1}{n-1}\sum _{i=1}^n(X_i-\overline{X})^2$$
+
+za večje pa:
+>$$s^2=\frac{1}{n-1}\sum _{i=1}^n(X_i-\overline{X})^2$$
+
+za vzorčne porazdeltvne:
+>$$Var(\overline{X})=S_\frac{s^2}{n}$$
