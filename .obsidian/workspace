@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
-            "mode": "preview"
+            "file": "2. Letnik/Statistika/primeri, Vaje 5.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
+                "file": "2. Letnik/Statistika/primeri, Vaje 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "dabbb985cc3c85b8",
   "lastOpenFiles": [
-    "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
+    "2. Letnik/Statistika/primeri, Vaje 5.md",
     "2. Letnik/Statistika/Vzorčenje.md",
-    "2. Letnik/Statistika/Kovarianca in korelacija.md",
-    "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "2. Letnik/Statistika/Strukture.md",
-    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
-    "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
+    "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "2. Letnik/Statistika/Opisne spremenljivke.md",
-    "2. Letnik/Statistika/Indeksi.md"
+    "2. Letnik/Statistika/Kovarianca in korelacija.md",
+    "2. Letnik/Statistika/Indeksi.md",
+    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
+    "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
+    "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md"
   ]
 }
