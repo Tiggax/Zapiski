@@ -64,7 +64,12 @@ Torej približno 98.8% vzorcev velikosti 9 ima povprečje vsaj 97 cm.
 >$$P(|\overline{X}-100|\le 2)=0.9$$
 >potem bo za vsak m$\ge$n:
 >$$P(|\overline{X}-100|\le 2)\ge 0.9$$
->$$$$
+>$$P(|\overline{X}-100|\le 2)=P(98\le \overline{X}\le 102)=$$
+>$$1-2*P(\overline{X}\le 98)=0.9$$
+>$$P(\overline{X}\ge 98)=0.05$$
+>
+>$$Z=\frac{\overline{X}-100}{\frac{4}{\sqrt{n}}}, z=\frac{98-100}{\frac{4}{\sqrt{n}}}$$
+>$$P(Z\gez)=0.05$$
 
 
 ```
