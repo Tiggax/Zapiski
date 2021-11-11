@@ -68,8 +68,16 @@ Torej približno 98.8% vzorcev velikosti 9 ima povprečje vsaj 97 cm.
 >$$1-2*P(\overline{X}\le 98)=0.9$$
 >$$P(\overline{X}\ge 98)=0.05$$
 >
->$$Z=\frac{\overline{X}-100}{\frac{4}{\sqrt{n}}}, z=\frac{98-100}{\frac{4}{\sqrt{n}}}$$
->$$P(Z\gez)=0.05$$
-
-
+>$$Z=\frac{\overline{X}-100}{\frac{4}{\sqrt{n}}}=-1.65$$(iz tabele), $$z=\frac{98-100}{\frac{4}{\sqrt{n}}}$$
+>$$P(Z\ge z)=0.05$$
+>
+>za n$\ge 11$
+```
+```ad-notes
+collapse: T
+title: Primer:
+iz populacije velikosti 1000 naključno izberemo 15 ljudi in jih prosimo da rešijo IQ test. Dobimo:
+117, 102, 95, 109, 104, 128, 98, 105, 119, 89, 99, 111, 107, 100
+- podajte nepristransko oceno povprečnega IQ v populaciji:
+>$$\overline{x}=\frac{1}{15}$$
 ```
