@@ -21,5 +21,9 @@ naključno vzorčenje je nepristransko.
 porazdelitev $\overline{X}$ 
 
 varianca vzorčne porazdelitve
->$$Var(\overline{})$$
-	
+>$$Var(\overline{X})=\frac{\sigma ^2}{n}(1-\frac{n-1}{N-1})$$
+>faktor $\frac{n-1}{N-1}$ je **popravek končne populacije**, če je n<<N, pa lahko popravek zanemarimo:
+>$$Var(\overline{X})\approx \frac{\sigma ^2}{n}$$
+
+### Populacijska varianca
+$$\sigma ^2 = \frac{1}{n}\sum _{i=1}^n$$
