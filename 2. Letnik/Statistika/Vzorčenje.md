@@ -57,4 +57,14 @@ Torej približno 98.8% vzorcev velikosti 9 ima povprečje vsaj 97 cm.
 
 - kakšen delež aritmetičnih sredin vseh vzorcev velikosti n = 9 se od poulacijskega povprečja razlikuje za vsaj 3 cm.
 > A: 0.0244
+>približno 2.4%v vzorcev velikosti 9.
+
+- kako velik naj bodo vzorci, da bo delež vzorcev, katerih sredina se bo od populacijskega povprečja razlikovala največ 2 cm večji od 90 %?
+>iščemo:
+>$$P(|\overline{X}-100|\le 2)=0.9$$
+>potem bo za vsak m$\ge$n:
+>$$P(|\overline{X}-100|\le 2)\ge 0.9$$
+>$$$$
+
+
 ```
