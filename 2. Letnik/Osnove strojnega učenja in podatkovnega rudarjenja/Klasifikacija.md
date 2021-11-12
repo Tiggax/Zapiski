@@ -52,3 +52,9 @@ A-- n ---F[no]
 | Info: 0.693 <br>Gain: |             |          |       |
 
 
+### Gini indeks
+če podatki (T) vsebujejo primere iz n razredov, potem je _Gini indeks_ definiran kot:
+>$$gini(T)=1-\sum _{j=1}^np_j^2$$
+>kjer **p** predstavlja verjetnost primerov z razredom **j** v podatkih **T**
+
+gini(T) je najmanjši, če so razredi kar se da neenakomerno zastopani v T
