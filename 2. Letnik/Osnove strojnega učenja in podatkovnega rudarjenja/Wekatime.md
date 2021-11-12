@@ -28,4 +28,4 @@ atributi naj bodo:
 skoraj nikoli ne drži "neodvisnost", klub temu v praksi model dobro deluje.
 
 #### numerični atributi
-[[Zvezne slučajne spremenljivke#f| povprečje vzorca ]]
+[[Vzorčenje#Točkasto ocenjevanje parametrov| povprečje vzorca ]]
