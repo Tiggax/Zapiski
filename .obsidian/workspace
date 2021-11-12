@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/primeri, Vaje 5.md",
+            "file": "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/primeri, Vaje 5.md",
+                "file": "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,15 +113,15 @@
   },
   "active": "40f9571e20122e2b",
   "lastOpenFiles": [
-    "2. Letnik/Statistika/primeri, Vaje 5.md",
-    "2. Letnik/Statistika/Vzorčenje.md",
-    "2. Letnik/Statistika/Strukture.md",
-    "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
-    "2. Letnik/Statistika/Opisne spremenljivke.md",
-    "2. Letnik/Statistika/Kovarianca in korelacija.md",
+    "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md",
     "2. Letnik/Statistika/Indeksi.md",
-    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
+    "2. Letnik/Statistika/Kovarianca in korelacija.md",
+    "2. Letnik/Statistika/Opisne spremenljivke.md",
+    "2. Letnik/Statistika/Strukture.md",
+    "2. Letnik/Statistika/Vzorčenje.md",
+    "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
+    "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md"
+    "2. Letnik/Osnove podatkovnih baz/Pojmi.md"
   ]
 }
