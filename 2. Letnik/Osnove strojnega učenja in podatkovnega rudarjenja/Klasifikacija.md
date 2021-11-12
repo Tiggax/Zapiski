@@ -27,4 +27,11 @@ od spodaj navzgor
 	Zberamo atribut z največjim IP
 	## Računanje informacije
 	IP merimo v **bitih**
-	- informacijo ki jo potrebujemo, da lahko napovemo nek dogodek, če poznamo 
+	- informacijo ki jo potrebujemo, da lahko napovemo nek dogodek, če poznamo verjetnost porazdelitev "vseh" dogodkov imenujemo **Entropija**
+	- entropija poda zahtevano informacijo v bitih(ni nujno celo število)
+	> formula za izračun entropije: $$entropija(p_1,p_2,...,p_n)=-p_1\log _2p_1-p_2\log _2p_2 ... -p_n\log _2p_n$$
+
+### zaželjene lasnosti mere "čistosti"
+#TODO
+
+
