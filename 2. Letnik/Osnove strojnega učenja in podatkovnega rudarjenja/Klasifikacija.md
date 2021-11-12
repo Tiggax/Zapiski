@@ -18,4 +18,13 @@ od spodaj navzgor
 - **v vsakem vozlišču drevesa:** ocenimo razpoložljive atribute glede na njihovo sposobonost delitve primerov na "čiste" podmnožice - uporabimo **funkcijo primernosti**(goodness function)
 - Tipične funkcije:
 	- Informacijski prispevek (ID3, C4.5) 
-	- Raazmerje informacijskega prisp
+	- Raazmerje informacijskega prispevka (C4.5)
+	- Gini indeks (CART)
+	---
+	najboljši je tisti atribut, ki na koncu priprelje do najmanjšega drevesa.
+	_Hevristika_: izberemo atribut, ki razdeli podatke na "najčistejše" podmnožice
+	kako merimo čistost? -> **Informacijski prispevek**
+	Zberamo atribut z največjim IP
+	## Računanje informacije
+	IP merimo v **bitih**
+	- informacijo ki jo potrebujemo, da lahko napovemo nek dogodek, če poznamo 
