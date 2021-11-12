@@ -26,3 +26,6 @@ atributi naj bodo:
 - Statistično neodvisni
 	- če vemo vrednost nekega atributa ne moremo sklepati na ostale vrednosti atributov
 skoraj nikoli ne drži "neodvisnost", klub temu v praksi model dobro deluje.
+
+#### numerični atributi
+[[Zvezne slučajne spremenljivke#f| povprečje vzorca ]]
