@@ -20,5 +20,9 @@ A-- r ---D["{n,n,y,y,y}=YES"]
 ```
 #### zgodovina algoritma
 ### Bayes-ovo (statistično) modeliranje
-
-
+nasprotno od 1R -> upoštevajo se vsi atributi
+atributi naj bodo:
+- Enako pomembni
+- Statistično neodvisni
+	- če vemo vrednost nekega atributa ne moremo sklepati na ostale vrednosti atributov
+skoraj nikoli ne drži "neodvisnost", klub temu v praksi model dobro deluje.
