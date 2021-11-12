@@ -35,3 +35,20 @@ od spodaj navzgor
 #TODO
 
 
+```mermaid
+graph TD
+A[ID code]
+A-- a ---B[no]
+A-- b ---C[no]
+A-- c ... ---D[yes]
+A-- m ---E[yes]
+A-- n ---F[no]
+```
+>entropija razbitja =0 (vsi listi so čisti, saj vsebujejo le po en primer)
+>IP za atribut "ID koda" je maksimalen
+
+| Outlook              | Temperature | Humidity | Windy |
+| -------------------- | ----------- | -------- | ----- |
+| Info: 0.693 <br>Gain: |             |          |       |
+
+
