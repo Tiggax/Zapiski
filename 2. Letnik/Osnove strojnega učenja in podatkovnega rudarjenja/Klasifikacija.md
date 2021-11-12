@@ -58,3 +58,7 @@ A-- n ---F[no]
 >kjer **p** predstavlja verjetnost primerov z razredom **j** v podatkih **T**
 
 gini(T) je najmanjši, če so razredi kar se da neenakomerno zastopani v T
+
+če množico **T** razbijemo na dve podmonožici $T_1$ in $T_2$ velikosti $N_1$ in $N_2$ je _Gini indeks razbitja_ definiran kot:
+>$$gini_{split}(T)=\frac{N_1}{N}gini(T_1)+\frac{N_2}{N}gini(T_2)$$
+>atribut z najmanjšim $gini_{split}(T)$ bo izbran kot "najboljši"
