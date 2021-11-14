@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "75b7745246096251",
+        "id": "8365ee31c7f0b3cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
-            "mode": "preview"
+            "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +103,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75b7745246096251",
+  "active": "8365ee31c7f0b3cb",
   "lastOpenFiles": [
+    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
+    "2. Letnik/Osnove podatkovnih baz/Draft.md",
     "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
-    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "conflict-files-obsidian-git.md",
     "Untitled Diagram.svg",
-    "2. Letnik/Osnove podatkovnih baz/Draft.md",
     "2. Letnik/Statistika/Opisne spremenljivke.md",
     "2. Letnik/Statistika/Vzorčenje.md",
     "2. Letnik/Statistika/primeri, Vaje 5.md",
