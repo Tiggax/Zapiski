@@ -1,5 +1,5 @@
 {
-  "commitMessage": "archie backup: {{date}}",
+  "commitMessage": "flyingarchie backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPullInterval": 0,
