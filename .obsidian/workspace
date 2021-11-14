@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6a07c4765c8487f4",
+        "id": "a590e30e7f1244ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/Indeksi.md",
+            "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/Indeksi.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,19 +78,41 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1b5ee8ccb54d261d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dfdd14f12acdbda",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6a07c4765c8487f4",
+  "active": "a590e30e7f1244ee",
   "lastOpenFiles": [
-    "2. Letnik/Statistika/Indeksi.md",
+    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
+    "conflict-files-obsidian-git.md",
+    "2. Letnik/Statistika/Vzorčenje.md",
+    "2. Letnik/Statistika/Opisne spremenljivke.md",
+    "2. Letnik/Statistika/primeri, Vaje 5.md",
     "2. Letnik/Statistika/Strukture.md",
-    "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
-    "Dodatki/Zvezne slučajne spremenljivke_2021-11-06 12.00.26.excalidraw.md",
-    "Excalidraw/Drawing 2021-11-06 11.32.51.excalidraw.md"
+    "2. Letnik/Statistika/Kovarianca in korelacija.md",
+    "Predefined.md",
+    "2. Letnik/Statistika/Indeksi.md",
+    "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md"
   ]
 }

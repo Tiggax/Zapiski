@@ -8,7 +8,7 @@ frekvenca označuje število enot v K-ti skupini. $f_i$ imenujemo frekvenca i-te
 nadaljno jo lahko izrazimo v procentih:
 >$f_i\%=100*\frac{f_i}{\sum^k_{i=1}f_i}$
 
-```ad-example
+```ad-note
 collapse: T
 title: Primer:
 
