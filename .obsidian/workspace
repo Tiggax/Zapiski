@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "537b079abd9fe2a4",
+    "id": "c6b77ca6712fdb68",
     "type": "split",
     "children": [
       {
-        "id": "4ccd215b229618c6",
+        "id": "533d3f55296ec109",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4ccd215b229618c6",
+  "active": "533d3f55296ec109",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled Diagram.svg",
     "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "2. Letnik/Osnove podatkovnih baz/Draft.md",
-    "conflict-files-obsidian-git.md",
     "2. Letnik/Statistika/Opisne spremenljivke.md",
     "2. Letnik/Statistika/Vzorčenje.md",
     "2. Letnik/Statistika/primeri, Vaje 5.md",
     "2. Letnik/Statistika/Strukture.md",
     "2. Letnik/Statistika/Kovarianca in korelacija.md",
-    "Predefined.md",
-    "2. Letnik/Statistika/Indeksi.md"
+    "Predefined.md"
   ]
 }
