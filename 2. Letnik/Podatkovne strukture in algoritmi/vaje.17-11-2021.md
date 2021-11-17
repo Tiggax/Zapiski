@@ -6,7 +6,7 @@ rastejo "od spodaj navzgor"
 
 ### Primer:
 v b drevo reda 5(=b) vstavi naslednje elemente(ključe)
-20, 40, 10, 30, 15, 35, 7, 26, 18, 22, 5, 42, 13, 46, 27,8,32,24,45,25
+20, 40, 10, 30, 15, 35, 7, 26, 18, 22, 5, 42, 13, 46, 27, 8, 32, 24, 45, 25
 ```mermaid
 graph LR
 A[10,20,30,40]
@@ -92,3 +92,18 @@ A1---D[32,35]
 A1---D1[42,45,46]
 ```
 koliko je višina: $\log_n$(če je b konstanta)
+**Brisanje:** 25, 45, 24, 32
+minimalno število je:2 ker je reda 5. ko zbrisemo naredimo podobno kot pri binarnem:
+brišemo x in nadomestimo z max(levega) ali pa min(desnega)
+```mermaid
+graph TB
+E[25]
+E---A[10,20]
+E---A1[30,40]
+A---B[5,7,8]
+A---B1[13,15,18]
+A---C[22,24]
+A1---C1[26,27]
+A1---D[32,35]
+A1---D1[42,45,46]
+```
