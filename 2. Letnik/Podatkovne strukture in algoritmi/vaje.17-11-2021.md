@@ -115,5 +115,12 @@ A---C[22,26]
 A---D[30,35]
 A---D1[42,46]
 ```
+#### Primer: B drevo reda 4
+v b drevesu reda 4 vstavimo naslednje elemente: 22,11,6,13,17,27,8,15,1
+največ: 3 ključi
+najman: 1 ključ
+```mermaid
+A[6111322]
+```
 ## Rdeče-črna drevesa
-ekvivalentna 2,3,4 drevesom. so binarna. iskalna (levo<x<desno), imajo še poleg ključa barvo vozlišča (0,1). če pogledate katerokoli pot od vozlišča uravnotežena v smislu 
+ekvivalentna 2,3,4 drevesom. so binarna. iskalna (levo<x<desno), imajo še poleg ključa barvo vozlišča (0,1). če pogledate katerokoli pot od vozlišča do lista bo št. črnih in št rdečih enaka. uravnotežena v smislu črno-rdeče. koren je vedno **Črn**, listi so vedno **črni in brez informacij.** vsakemu rdečemu vozlišču mora slediti črno.
