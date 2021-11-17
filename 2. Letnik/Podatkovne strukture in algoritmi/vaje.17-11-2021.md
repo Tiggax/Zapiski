@@ -7,5 +7,23 @@ v b drevo reda 5 vstavi naslednje elemente(ključe)
 20,40,10,30,15,35,7,26,18,22,5,42,13,46,27,8,32,24,45,25
 ```mermaid
 graph LR
-A[10|20|40]
+A[10,20,30,40]
+```
+ker je reda 5 je so notri največ 4 elementi. nasednji element se vstavi naprej
+```mermaid
+graph TB
+A[20]
+B[10,15]
+A---B
+C[30,40]
+A---C
+```
+vstavimo naslednje:
+```mermaid
+graph TB
+A[20]
+B[10,15]
+A---B
+C[30,40]
+A---C
 ```
