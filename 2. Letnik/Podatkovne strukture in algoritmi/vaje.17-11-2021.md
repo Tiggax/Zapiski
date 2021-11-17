@@ -126,10 +126,27 @@ A---B[1]
 A---B1[6,8]
 A---C[13,15]
 A---D[22,27]
-
+classDef red fill:#f34
 ```
 če ima en ključ je: list ali koren
 če ima dva ključa:
 če ima tri ključe: 
+```mermaid
+graph TD
+A[11]
+A---B[5]
+A---B1[17]
+B---C[1]
+B---C1[8]
+B1---C2[15]
+B1---C3[27]
+C---X1
+C---X2
+C1---D[6]
+C1---X3
+C2---D1[13]
+C2---X3
+classDef red fill:#f34
+```
 ## Rdeče-črna drevesa
 ekvivalentna 2,3,4 drevesom. so binarna. iskalna (levo<x<desno), imajo še poleg ključa barvo vozlišča (0,1). če pogledate katerokoli pot od vozlišča do lista bo št. črnih in št rdečih enaka. uravnotežena v smislu črno-rdeče. koren je vedno **Črn**, listi so vedno **črni in brez informacij.** vsakemu rdečemu vozlišču mora slediti črno.
