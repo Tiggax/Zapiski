@@ -167,9 +167,33 @@ vstavimo elemente v B-drevo rda 4 in Č-R drevo
 elemente: 4,7,12,15,3,5,14
 prvi element vstavimo kot črno, drugače kot rdeče.
 ```mermaid
-grapgh TD
-subgraph A
-B[4]
-B1[7]
-
+graph TD
+A[4]
+A---X1
+A---B[7]
+B---X2
+B---C[12]
+C---X3
+C---X4
 ```
+nardimo rotacijo
+```mermaid
+graph TD
+A[7]
+A---B[4]
+A---B1[12]
+B---X2
+B1---X3
+B1---C[15]
+C---X4
+C---X5
+```
+
+
+
+```mermaid
+graph TD
+	subgraph A
+	B[4]
+	B1[7]
+	end
