@@ -95,15 +95,13 @@ koliko je višina: $\log_n$(če je b konstanta)
 **Brisanje:** 25, 45, 24, 32
 minimalno število je:2 ker je reda 5. ko zbrisemo naredimo podobno kot pri binarnem:
 brišemo x in nadomestimo z max(levega) ali pa min(desnega)
+ker so v nekaterih reda 1(<2) se jih prestavi gor, in preuredi drevo.
 ```mermaid
 graph TB
-E[26]
-E---A[10,20]
-E---A1[32,35]
+A[10,20,26,40]
 A---B[5,7,8]
 A---B1[13,15,18]
 A---C[22,24]
-A1---C1[27]
-A1---D[30,40]
-A1---D1[42,45,46]
+A---D[27,30,32,35]
+A---D1[42,45,46]
 ```
