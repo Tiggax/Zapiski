@@ -168,32 +168,67 @@ elemente: 4,7,12,15,3,5,14
 prvi element vstavimo kot črno, drugače kot rdeče.
 ```mermaid
 graph TD
-A[4]
+A[4č]
 A---X1
-A---B[7]
+A---B[7r]
 B---X2
-B---C[12]
+B---C[12r]
 C---X3
 C---X4
 ```
 nardimo rotacijo
 ```mermaid
 graph TD
-A[7]
-A---B[4]
-A---B1[12]
+A[7č]
+A---B[4r]
+A---B1[12r]
 B---X2
 B1---X3
-B1---C[15]
+B1---C[15r]
 C---X4
 C---X5
 ```
-
-
-
+Prebarvamo:
 ```mermaid
 graph TD
-	subgraph A
-	B[4]
-	B1[7]
-	end
+A[7č]
+A---B[4č]
+A---B1[12č]
+B---X2
+B---X3
+B1---X4
+B1---C[15r]
+C---X5
+C---X6
+classDef red fill:#f34
+```
+Vstavimo 3,
+```mermaid
+graph TD
+A[7č]
+A---B[4č]
+A---B1[12č]
+B---C[3r]
+B---X3
+B1---X4
+B1---C1[15r]
+C1---X5
+C1---X6
+classDef red fill:#f34
+```
+Vstavimo 5;
+```mermaid
+graph TD
+A[7č]
+A---B[4č]
+A---B1[12č]
+B---C[3r]
+B---C1[5]
+B1---X4
+B1---C1[15r]
+C1---X5
+C1---X6
+C2---X7
+C2---X8
+classDef red fill:#f34
+```
