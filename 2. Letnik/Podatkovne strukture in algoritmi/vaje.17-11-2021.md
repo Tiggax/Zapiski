@@ -97,13 +97,13 @@ minimalno število je:2 ker je reda 5. ko zbrisemo naredimo podobno kot pri bina
 brišemo x in nadomestimo z max(levega) ali pa min(desnega)
 ```mermaid
 graph TB
-E[25]
+E[26]
 E---A[10,20]
-E---A1[30,40]
+E---A1[32,35]
 A---B[5,7,8]
 A---B1[13,15,18]
 A---C[22,24]
-A1---C1[26,27]
-A1---D[32,35]
+A1---C1[27]
+A1---D[30,40]
 A1---D1[42,45,46]
 ```
