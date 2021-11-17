@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
+            "file": "2. Letnik/Podatkovne strukture in algoritmi/Rang in izbira.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
+                "file": "2. Letnik/Podatkovne strukture in algoritmi/Rang in izbira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "c9a3cfeccea9bf4a",
   "lastOpenFiles": [
+    "2. Letnik/Podatkovne strukture in algoritmi/Rang in izbira.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
     "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
@@ -121,7 +122,6 @@
     "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Klasifikacija.md",
     "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md",
     "2. Letnik/Statistika/Vzorčenje.md",
-    "2. Letnik/Statistika/Strukture.md",
-    "2. Letnik/Statistika/primeri, Vaje 5.md"
+    "2. Letnik/Statistika/Strukture.md"
   ]
 }
