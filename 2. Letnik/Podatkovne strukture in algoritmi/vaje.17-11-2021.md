@@ -18,12 +18,34 @@ A---B
 C[30,40]
 A---C
 ```
-vstavimo naslednje:
+vstavimo naslednje: 35, 7, 26, 18
 ```mermaid
 graph TB
 A[20]
-B[10,15]
+B[7,10,15,18]
 A---B
-C[30,40]
+C[26,30,35,40]
 A---C
+```
+Vstavimo 22:
+```mermaid
+graph TB
+A[20,30]
+B[7,10,15,18]
+A---B
+C[22,26]
+A---C
+D[35,40]
+A---D
+```
+Vstavimo: 5
+```mermaid
+graph TB
+A[20,30]
+B[5,7,10,15,18]
+A---B
+C[22,26]
+A---C
+D[35,40]
+A---D
 ```
