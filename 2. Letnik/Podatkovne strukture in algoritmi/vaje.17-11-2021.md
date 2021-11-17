@@ -115,3 +115,5 @@ A---C[22,26]
 A---D[30,35]
 A---D1[42,46]
 ```
+## Rdeče-črna drevesa
+ekvivalentna 2,3,4 drevesom. so binarna. iskalna (levo<x<desno), imajo še poleg ključa barvo vozlišča (0,1). če pogledate katerokoli pot od vozlišča uravnotežena v smislu 
