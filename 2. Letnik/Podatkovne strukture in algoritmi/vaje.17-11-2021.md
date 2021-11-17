@@ -3,7 +3,7 @@
 za razliko od dvojiških imajo vozlišča lahko več ključev, razedlimo pa lahko na k+1 podrazredov. Ključi so urejeni, med dvema ključema pa velja strogo večje ali manjjše. ker so vsi listi na istem nivoju, se lahko uravnotežijo.
 
 ### Primer:
-v b drevo reda 5 vstavi naslednje elemente(ključe)
+v b drevo reda 5(=b) vstavi naslednje elemente(ključe)
 20,40,10,30,15,35,7,26,18,22,5,42,13,46,27,8,32,24,45,25
 ```mermaid
 graph LR
@@ -66,3 +66,27 @@ A---C[22,26,27]
 A---D[32,35]
 A---D1[42,46]
 ```
+Vstavimo: 24, 45
+```mermaid
+graph TB
+A[10,20,30,40]
+A---B[5,7,8]
+A---B1[13,15,18]
+A---C[22,24,26,27]
+A---D[32,35]
+A---D1[42,45,46]
+```
+Vstavimo 25:
+```mermaid
+graph TB
+E[25]
+E---A[10,20]
+E---A1[30,40]
+A---B[5,7,8]
+A---B1[13,15,18]
+A---C[22,24]
+A1---C1[26,27]
+A1---D[32,35]
+A1---D1[42,45,46]
+```
+koliko je višina: $\log_n$(če je b konstanta, je)
