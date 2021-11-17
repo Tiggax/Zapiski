@@ -145,8 +145,31 @@ C---X2
 C1---D[6]
 C1---X3
 C2---D1[13]
-C2---X3
+C2---X4
+C3---D2[22]
+C3---X5
+D---X6
+D---X7
+D1---X8
+D1---X9
+D2---X10
+D2---X11
 classDef red fill:#f34
 ```
+
+#### Primer: B drevo
+vstavimo elemente v B-drevo rda 4 in Č-R drevo
 ## Rdeče-črna drevesa
 ekvivalentna 2,3,4 drevesom. so binarna. iskalna (levo<x<desno), imajo še poleg ključa barvo vozlišča (0,1). če pogledate katerokoli pot od vozlišča do lista bo št. črnih in št rdečih enaka. uravnotežena v smislu črno-rdeče. koren je vedno **Črn**, listi so vedno **črni in brez informacij.** vsakemu rdečemu vozlišču mora slediti črno.
+
+#### Primer: B drevo
+vstavimo elemente v B-drevo rda 4 in Č-R drevo
+elemente: 4,7,12,15,3,5,14
+prvi element vstavimo kot črno, drugače kot rdeče.
+```mermaid
+grapgh TD
+subgraph A
+B[4]
+B1[7]
+
+```
