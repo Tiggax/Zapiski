@@ -138,8 +138,23 @@ c) $$P(0\le x\le 1)$$
 	=\int_{0}^3\lambda e^{-\lambda t}dt=\\
 	=\int_{0}^3 e^{-\lambda}dt=\\
 	=e^{-\lambda t}|_0^3=\\
-	=1-e^{-3\lambda}
+	=1-e^{-3\lambda}\\
+	=1-e^{-\frac{3}{5}}
 	\end{align}
 	>$$
 
 	b) kasneje kot v 6 min.
+	> $$
+	\begin{align}
+	P(X>6)=\\
+	1-e^{-\frac{6}{5}}=\\
+	=e^{-\frac{1}{5}}	
+	\end{align}
+	>$$
+4. Naj bo X slučajna spremenljivka s funkcijo verjetnosti $$P(X=-1)=P(X=0)=\frac{1}{4};\ P(X=1)=\frac$$
+
+> $$
+	\begin{align}
+	
+	\end{align}
+	>$$
