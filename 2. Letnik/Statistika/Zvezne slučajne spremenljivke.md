@@ -8,6 +8,8 @@ Funkcija gostote verjetnosti  mora biti:
 >če ima sučajna spremenljivka X gostoto f, je:
 >$P(a<=X<=b)=\int(a,b)f(x)dx$
 
+nikoli ne merimo točne vrednost (P(X=x)) ker je ta vedno 0, ampak merimo na intervalih($P(X\le x)$)
+
 ---
 ## Porazdelitvena funkcija
 slučajne spr. X z gostoto f je:

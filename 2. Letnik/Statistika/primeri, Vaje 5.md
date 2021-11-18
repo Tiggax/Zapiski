@@ -110,3 +110,14 @@ c) $$P(0\le x\le 1)$$
 	\end{align}
 	>$$
 	>vidimo iz grafa da je 0,50, ker je X simetrična okoli 500.
+
+	e)
+	ne merimo po točkah ker je zvezna 
+	> P(X=500)=0
+
+	f) delež delfinov z težo vsaj 450 lb
+	> $$
+	\begin{align}
+	Z\\
+	\end{align}
+	>$$
