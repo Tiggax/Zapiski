@@ -188,3 +188,27 @@ c) kovarianca Cov(X,Y) in korelacijo (X,Y)
 ne rabmo na kolokviju baje
 \end{align}
 >$$
+
+
+## pomembni za kolokvij
+### Mlejko
+Mlekarna pakira zavitke masla, za katere velja predpis, da je masa normalno poraz-  
+deljena s parametroma μ = 250g in σ = 10g. Privzemimo, da se proizvodnja sklada s  
+predpisom.
+1. kolikšen odstotek zavitkov bo imelo maso vsaj 242g?
+> $$
+\begin{align}
+P(X\ge 242)=\\
+P(Z\ge -0,8)=\\
+1-P(Z<-0,8)=\\
+
+
+
+\end{align}
+>$$
+
+
+3. Mlekarna dnevno kontrolira zavitke tako, da s slučajno izbiro vzame kontrolni  
+vzorec s 25 zavitki, vsak zavitek stehta, iz podatkov pa izračuna vzorčno arit-  
+metično sredino. Kolikšen odstotek kontrolnih vzorcev bo imel vzorčno arit-  
+metično sredino med 248g in 252,5g?
