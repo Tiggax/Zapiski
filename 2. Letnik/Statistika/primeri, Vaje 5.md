@@ -169,8 +169,15 @@ c) $$P(0\le x\le 1)$$
 	| 1         | $\frac{3}{4}$ |
 	
 	b) pričakovana vrednost, varianca in standarndi odklon za slučajno spremenljivko Y
-> $$
+	> $$
 	\begin{align}
-	f
+	na učilnici
 	\end{align}
 	>$$
+
+c) kovarianca Cov(X,Y) in korelacijo (X,Y)
+> $$
+\begin{align}
+f
+\end{align}
+>$$
