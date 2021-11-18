@@ -214,10 +214,30 @@ metično sredino med 248g in 252,5g?
 P(248\le \overline{X}_{25}\le 252,5)\\
 =P(-1\le Z\le 1,25)=\\
 =P(Z\le 1,25)-P(Z\le -1)=\\
-=
+=0,8944-0,1587\\
+=0,7357
 \end{align}
 >$$
 
 Vzorčna aritmetična sredina #formula
 $$\overline{X}_n=\frac{\sum X_n}{n}$$
 $$\frac{\overline{X}_n-\mu}{\frac{\sigma}{\sqrt n}}\approx N(0,1)$$
+
+
+4. Predpostavimo, da je vsebnost beljakovin v mleku, ki ga mlekarna odkupuje od svojih  
+proizvajalcev, normalno porazdeljena s povprečno vrednostjo 3,15% in standardnim  
+odklonom 0,30%.  
+V kontroli kakovosti mleka mlekarna od vsakega proizvajalca vzame po 4 stekleničke  
+mleka in za vsako stekleničko ugotovi vsebnost beljakovin. Iz teh štirih števil izračuna  
+aritmetično sredino.  
+Mlekarna od proizvajalcev mleka, pri katerih je vzorčna aritmetična sredina manjša  
+od 3% odkupuje mleko po zniˇzani ceni, za mleko z vzorčno aritmetično sredino med  
+3,00% in 3,20% plačuje normalno ceno, za mleko z vzorčno aritmetično sredino nad  
+3,20% pa plačuje zvišano ceno.  
+Izračunajte od koliko % proizvajalcev bo mlekarna odkupovala mleko po zniˇzani,  
+normalni in zvišani ceni
+> $$
+\begin{align}
+\frac{\overline{X}_4}{}
+\end{align}
+>$$
