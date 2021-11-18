@@ -238,6 +238,20 @@ Izračunajte od koliko % proizvajalcev bo mlekarna odkupovala mleko po zniˇzani
 normalni in zvišani ceni
 > $$
 \begin{align}
-\frac{\overline{X}_4}{}
+\frac{\overline{X}_4-3,15}{\frac{0,3}{\sqrt4}}\approx N(0,1)\\
+\\
+P(\overline{X}_4<3)=\\
+P(Z<\frac{3-3,15}{\frac{0,3}{\sqrt4}})=\\
+P(Z<-1)=0,16
+\end{align}
+>$$
+
+> $$
+\begin{align}
+P(\overline{X}_4>3,2)=\\
+P(Z>\frac{3,2-3,15}{\frac{0,3}{\sqrt4}})=\\
+P(Z>\frac{0,05*2}{0,3})=\\
+P(Z>0,33)=\\
+=1-P(Z\f)
 \end{align}
 >$$
