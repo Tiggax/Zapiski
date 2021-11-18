@@ -105,8 +105,8 @@ c) $$P(0\le x\le 1)$$
 	d) delež delf z težo 500 ali več.$N(500,50^2)$
 	> $P(X\ge 500)$
 	> $$
-	> \begin{align}
-	> 
-	> \end{align}
-	> $$
-	> 
+	\begin{align}
+	Z=\frac{x-500}{500}\\
+	\end{align}
+	>$$
+	>vidimo iz grafa da je 0,50, ker je X simetrična okoli 500.
