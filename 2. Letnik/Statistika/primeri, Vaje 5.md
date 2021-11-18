@@ -151,10 +151,18 @@ c) $$P(0\le x\le 1)$$
 	=e^{-\frac{1}{5}}	
 	\end{align}
 	>$$
-4. Naj bo X slučajna spremenljivka s funkcijo verjetnosti $$P(X=-1)=P(X=0)=\frac{1}{4};\ P(X=1)=\frac$$
-
+4. Naj bo X slučajna spremenljivka s funkcijo verjetnosti $$P(X=-1)=P(X=0)=\frac{1}{4};\ P(X=1)=\frac{1}{2}$$
+	a) pričakovana vrednost in standardni odklon za slučajno spremenljivko X
+	> $$
+	\begin{align}
+	X:E(X)=\sum_k k*P(X=k)=\\
+	-1*\frac{1}{4}+0*\frac{1}{4}+
+	\end{align}
+	>$$
+	
+	b) pričakovana vrednost, varianca in standarndi odklon za slučajno spremenljivko Y
 > $$
 	\begin{align}
-	
+	f
 	\end{align}
 	>$$
