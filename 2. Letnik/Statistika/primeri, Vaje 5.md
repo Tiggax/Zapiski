@@ -252,6 +252,24 @@ P(\overline{X}_4>3,2)=\\
 P(Z>\frac{3,2-3,15}{\frac{0,3}{\sqrt4}})=\\
 P(Z>\frac{0,05*2}{0,3})=\\
 P(Z>0,33)=\\
-=1-P(Z\f)
+=1-P(Z\le 0,33)=\\
+=1-0,63=\\
+=0,37
 \end{align}
 >$$
+
+7. V tabeli je navedeno število prometnih nesreč na cestah v Sloveniji  
+in število smrtno ponesrečenih v teh nesrečah.  
+
+| Leto | število prometnih nesreč | število smrtno ponesrečenih | indeksi za 1996 | verižni indeksi | 
+| ---- | ------------------------ | --------------------------- | --------------- | --------------- |
+| 1992 | 5.882                    | 492                         |        126,4         |                 |
+| 1993 | 6.290                    | 493                         |                 |                 |
+| 1994 | 6.586                    | 505                         |                 |                 |
+| 1995 | 6.540                    | 415                         |                 |                 |
+| 1996 | 6.348                    | 389                         |                 |                 |
+| 1997 | 6.951                    | 358                         |                 |                 |
+| 1998 | 5.864                    | 309                         |                 |                 |
+
+Za število smrtno ponesrečenih izračunajte: indekse z osnovo 1996, verižne indekse in  
+stopnje rasti.
