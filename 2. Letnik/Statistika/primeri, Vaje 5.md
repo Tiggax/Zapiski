@@ -127,4 +127,15 @@ c) $$P(0\le x\le 1)$$
 2. Težo lahko merimo v funtih ali kilogramih. Formula s katero transfrormiramo meritve iz lb v kg je:
 >$m(kg)=m(lb)*0.45$
 >nove vrednosti bodo zato:
->$$N(500,50^2)\ =>\ N(224)$$
+>$$N(500,50^2)\ =>\ N(225,506)$$
+
+3. čas do prve mutacije celic znotraj celične kulture je eksponentno porazdeljena slučajna  spremenljivka. Recimo, da se v povprečju mutacija zgodi po 5 minutah. Izračunaj  verjetnost, da se mutacija zgodi:
+	a) prej kot v 3min.
+	> $$
+	\begin{align}
+	P(X<3)=F_X(3)=\\
+	=\int_
+	\end{align}
+	>$$
+
+	b) kasneje kot v 6 min.
