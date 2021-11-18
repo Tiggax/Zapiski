@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
+            "file": "2. Letnik/Statistika/Opisne spremenljivke.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
+                "file": "2. Letnik/Statistika/Opisne spremenljivke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,13 +113,13 @@
   },
   "active": "c9a3cfeccea9bf4a",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/Opisne spremenljivke.md",
+    "2. Letnik/Statistika/Kovarianca in korelacija.md",
+    "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Statistika/Zvezne slučajne spremenljivke.md",
     "2. Letnik/Statistika/Vzorčenje.md",
     "2. Letnik/Statistika/Strukture.md",
     "2. Letnik/Statistika/primeri, Vaje 5.md",
-    "2. Letnik/Statistika/Opisne spremenljivke.md",
-    "2. Letnik/Statistika/Kovarianca in korelacija.md",
-    "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/preskočni seznami.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md"
