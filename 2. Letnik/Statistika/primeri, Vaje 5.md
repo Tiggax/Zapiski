@@ -134,7 +134,11 @@ c) $$P(0\le x\le 1)$$
 	> $$
 	\begin{align}
 	P(X<3)=F_X(3)=\\
-	=\int_
+	=\int_{-\infty}^3\lambda e^{-\lambda t}dt= \\
+	=\int_{0}^3\lambda e^{-\lambda t}dt=\\
+	=\int_{0}^3 e^{-\lambda}dt=\\
+	=e^{-\lambda t}|_0^3=\\
+	=1-e^{-3\lambda}
 	\end{align}
 	>$$
 
