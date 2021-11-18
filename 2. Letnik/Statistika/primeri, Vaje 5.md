@@ -176,8 +176,15 @@ c) $$P(0\le x\le 1)$$
 	>$$
 
 c) kovarianca Cov(X,Y) in korelacijo (X,Y)
+
+| x   | P(X=x) |
+| --- | ------ |
+| -1  | 1/4    |
+| 0   | 1/4    |
+| 1   | 1/2    |
+
 > $$
 \begin{align}
-f
+ne rabmo na kolokviju baje
 \end{align}
 >$$
