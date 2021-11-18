@@ -156,9 +156,17 @@ c) $$P(0\le x\le 1)$$
 	> $$
 	\begin{align}
 	X:E(X)=\sum_k k*P(X=k)=\\
-	-1*\frac{1}{4}+0*\frac{1}{4}+
+	-1*\frac{1}{4}+0*\frac{1}{4}+...\\
+	=\frac{1}{4}\\
+	\\
+	\\
+	Var(X)=E(X)-E(X)^2
 	\end{align}
 	>$$
+	| $x^2$ | $P(X^2=x^2)$  |
+	| ------ | ----------------- |
+	| 0         | $\frac{1}{4}$ | 
+	| 1         | $\frac{3}{4}$ |
 	
 	b) pričakovana vrednost, varianca in standarndi odklon za slučajno spremenljivko Y
 > $$
