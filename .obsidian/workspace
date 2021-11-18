@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md",
-            "mode": "source"
+            "file": "2. Letnik/Statistika/Indeksi.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md",
+                "file": "2. Letnik/Statistika/Indeksi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "c9a3cfeccea9bf4a",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/Indeksi.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/preskočni seznami.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
@@ -121,7 +122,6 @@
     "2. Letnik/Podatkovne strukture in algoritmi/Untitled.md",
     "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Klasifikacija.md",
-    "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md",
-    "2. Letnik/Statistika/Vzorčenje.md"
+    "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md"
   ]
 }
