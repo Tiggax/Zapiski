@@ -211,10 +211,13 @@ metično sredino. Kolikšen odstotek kontrolnih vzorcev bo imel vzorčno arit-
 metično sredino med 248g in 252,5g?
 > $$
 \begin{align}
-
+P(248\le \overline{X}_{25}\le 252,5)\\
+=P(-1\le Z\le 1,25)=\\
+=P(Z\le 1,25)-P(Z\le -1)=\\
+=
 \end{align}
 >$$
 
-Vzorčna aritmetična sredina
+Vzorčna aritmetična sredina #formula
 $$\overline{X}_n=\frac{\sum X_n}{n}$$
-$$\frac{\overline{X}_n-\mu}{\frac{\sqrt}{}}$$
+$$\frac{\overline{X}_n-\mu}{\frac{\sigma}{\sqrt n}}\approx N(0,1)$$
