@@ -106,7 +106,7 @@ c) $$P(0\le x\le 1)$$
 	> $P(X\ge 500)$
 	> $$
 	\begin{align}
-	Z=\frac{x-500}{500}\\
+	Z=\frac{x-500}{500}
 	\end{align}
 	>$$
 	>vidimo iz grafa da je 0,50, ker je X simetrična okoli 500.
@@ -118,6 +118,13 @@ c) $$P(0\le x\le 1)$$
 	f) delež delfinov z težo vsaj 450 lb
 	> $$
 	\begin{align}
-	Z\\
+	P(z<-1)\\
+	1-P(Z<-1)\\
+	1-0.1597=0,8413
 	\end{align}
 	>$$
+
+2. Težo lahko merimo v funtih ali kilogramih. Formula s katero transfrormiramo meritve iz lb v kg je:
+>$m(kg)=m(lb)*0.45$
+>nove vrednosti bodo zato:
+>$$N(500,50^2)\ =>\ N(224)$$
