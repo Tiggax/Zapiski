@@ -201,14 +201,20 @@ predpisom.
 P(X\ge 242)=\\
 P(Z\ge -0,8)=\\
 1-P(Z<-0,8)=\\
-
-
-
+1-0,21=0,79
 \end{align}
 >$$
-
 
 3. Mlekarna dnevno kontrolira zavitke tako, da s slučajno izbiro vzame kontrolni  
 vzorec s 25 zavitki, vsak zavitek stehta, iz podatkov pa izračuna vzorčno arit-  
 metično sredino. Kolikšen odstotek kontrolnih vzorcev bo imel vzorčno arit-  
 metično sredino med 248g in 252,5g?
+> $$
+\begin{align}
+
+\end{align}
+>$$
+
+Vzorčna aritmetična sredina
+$$\overline{X}_n=\frac{\sum X_n}{n}$$
+$$\frac{\overline{X}_n-\mu}{\frac{\sqrt}{}}$$
