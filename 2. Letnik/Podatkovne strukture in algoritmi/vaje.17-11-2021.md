@@ -223,12 +223,48 @@ A[7č]
 A---B[4č]
 A---B1[12č]
 B---C[3r]
-B---C1[5]
+B---C1[5r]
 B1---X4
-B1---C1[15r]
+B1---C2[15r]
 C1---X5
 C1---X6
 C2---X7
 C2---X8
+classDef red fill:#f34
+```
+Vstavimo 14
+```mermaid
+graph TD
+A[7č]
+A---B[4č]
+A---B1[12č]
+B---C[3r]
+B---C1[5r]
+B1---X4
+B1---C2[15r]
+C1---X5
+C1---X6
+C2---D[14r]
+C2---X8
+D---X9
+D---X10
+classDef red fill:#f34
+```
+obrnemo:
+```mermaid
+graph TD
+A[7č]
+A---B[4č]
+A---B1[14č]
+B---C[3r]
+B---C1[5r]
+B1---C2[12r]
+B1---C3[15r]
+C1---X5
+C1---X6
+C2---X8
+C2---X7
+C3---X11
+C3---X12
 classDef red fill:#f34
 ```
