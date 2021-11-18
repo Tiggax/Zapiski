@@ -102,3 +102,11 @@ c) $$P(0\le x\le 1)$$
 	>$$x=418$$
 	>5% delfinov je lažjih od 418 lb.
 
+	d) delež delf z težo 500 ali več.$N(500,50^2)$
+	> $P(X\ge 500)$
+	> $$
+	> \begin{align}
+	> 
+	> \end{align}
+	> $$
+	> 
