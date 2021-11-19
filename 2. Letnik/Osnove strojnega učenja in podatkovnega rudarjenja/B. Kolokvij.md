@@ -70,8 +70,19 @@ series:
 
 4. Uporabite algoritem OneR za klasifikacijo primerov s poznanim razredom! Upoštevajte le atribut E. Skicirajte (eno-nivojsko) odločitveno drevo! Kolikšna je napaka tega klasifikatorja? (15 točk)  
 
-|$\\_E$
+| $\\_E^F$ | T   | F   | napaka |
+| -------- | --- | --- | ------ |
+| n        | 3   | 2   | 2      |
+| y        | 3   | 3   | 3      |
+| ---      | --- | --- | ---    |
+|          |     |     | 5      |
   
+  | $\\_E^F$ | T   | F   | napaka |
+  | -------- | --- | --- | ------ |
+  | A        | 2   | 2   | 2      |
+  | B        | 3   | 0   | 0      |
+  | C        | 1   | 3   | 1      |
+  | ---      | --- | --- | ---    |
   
 5. Uporabite algoritem Naivni Bayes za klasifikacijo primerov z neznanim razredom! Upoštevajte le atributa E in F. Pri izračunu verjetnosti uporabite Laplace-ovo oceno (25 točk)  
   
