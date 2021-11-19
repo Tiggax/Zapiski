@@ -52,19 +52,19 @@ series:
 | G4        | 14,19    | 
 
 
-  | G_d | G   | C   |     |
-  | --- | --- | --- | --- |
-  | G1  | 3   |     |     |
-  | G1  | 5   |     |     |
-  | G3  | 10  |     |     |
-  | G3  | 9   |     |     |
-  | G2  | 11  |     |     |
-  | G3  | 10  |     |     |
-  | G1  | 4   |     |     |
-  | G2  | 8   |     |     |
-  | G4  | 19  |     |     |
-  | G2  | 7   |     |     |
-  | G4  | 14  |     |     |
+  | G_d | G   |
+  | --- | --- |
+  | G1  | 3   |
+  | G1  | 5   |
+  | G3  | 10  |
+  | G3  | 9   |
+  | G2  | 11  |
+  | G3  | 10  |
+  | G1  | 4   |
+  | G2  | 8   |
+  | G4  | 19  |
+  | G2  | 7   |
+  | G4  | 14  |
 
 
 
@@ -109,4 +109,21 @@ series:
   
   
 6. Zgradite prvi nivo odločitvenega drevesa (korensko vozlišče) po metodi TDIDT (algoritem ID3) pri čemer upoštevajte le atribute E, F in G_d. Kot mero za »čistost« podmnožic uporabite informacijski prispevek (information gain). Tako dobljeno »delno« odločitveno drevo narišite ter ga uporabite za klasifikacijo primerov z neznanim razredom!
->
+
+| I   | D        | E   | F   | C   | G_d | G   |
+| --- | -------- | --- | --- | --- | --- | --- |
+| 100 | 2000,00  | N   | C   | T   | G1  | 3   |
+| 101 | 2003,328 | N   | A   | F   | G1  | 5   |
+| 102 | 2012,284 | Y   | B   | T   | G3  | 10  |
+| 103 | 2007,163 | N   | A   | T   | G3  | 9   |
+| 104 | 2002,497 | N   | C   | F   | G2  | 11  |
+| 105 | 2015,175 | Y   | C   | F   | G3  | 10  |
+| 106 | 2020,000 | Y   | C   | F   | G1  | 4   |
+| 107 | 2018,459 | Y   | A   | T   | G2  | 8   |
+| 108 | 2013,646 | Y   | B   | T   | G4  | 19  |
+| 109 | 2019,005 | N   | B   | T   | G2  | 7   |
+| 110 | 2008,205 | Y   | A   | F   | G4  | 14  |
+
+```mermaid
+A[E]-- N ---B[t,t,t]
+```
