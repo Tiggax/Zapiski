@@ -261,15 +261,15 @@ P(Z>0,33)=\\
 7. V tabeli je navedeno število prometnih nesreč na cestah v Sloveniji  
 in število smrtno ponesrečenih v teh nesrečah.  
 
-| Leto | število prometnih nesreč | število smrtno ponesrečenih | indeksi za 1996 | verižni indeksi | 
-| ---- | ------------------------ | --------------------------- | --------------- | --------------- |
-| 1992 | 5.882                    | 492                         |        126,4         |                 |
-| 1993 | 6.290                    | 493                         |                 |                 |
-| 1994 | 6.586                    | 505                         |                 |                 |
-| 1995 | 6.540                    | 415                         |                 |                 |
-| 1996 | 6.348                    | 389                         |                 |                 |
-| 1997 | 6.951                    | 358                         |                 |                 |
-| 1998 | 5.864                    | 309                         |                 |                 |
+| Leto | število prometnih nesreč | število smrtno ponesrečenih | indeksi za 1996 | verižni indeksi | $S_{t/t-1}$ |
+| ---- | ------------------------ | --------------------------- | --------------- | --------------- | ----------- |
+| 1992 | 5.882                    | 492                         | 126,5           | /               | /           |
+| 1993 | 6.290                    | 493                         | 126,7           | 100,2           | 0,2         |
+| 1994 | 6.586                    | 505                         | 129,8           | 102,4           | 2,4         |
+| 1995 | 6.540                    | 415                         | 106,7           | 82,2            | -17,8       | 
+| 1996 | 6.348                    | 389                         |                 |                 |             |
+| 1997 | 6.951                    | 358                         |                 |                 |             |
+| 1998 | 5.864                    | 309                         |                 |                 |             |
 
 Za število smrtno ponesrečenih izračunajte: indekse z osnovo 1996, verižne indekse in  
 stopnje rasti.
