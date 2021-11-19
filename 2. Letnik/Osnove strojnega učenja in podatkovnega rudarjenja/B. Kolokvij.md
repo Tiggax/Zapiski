@@ -125,5 +125,19 @@ series:
 | 110 | 2008,205 | Y   | A   | F   | G4  | 14  |
 
 ```mermaid
-A[E]-- N ---B[t,t,t]
+graph TB
+subgraph X
+	A[E]-- N ---B[t,t,t<br>n,n]
+	A-- Y ---B1[t,t,t<br>n,n,n]
+end
+subgraph b
+	C[F]-- A ---D[t,t<br>n,n]
+	C-- B ---D1[t,t,t]
+	C-- C ---D2[t<br>f,f,f]
+end
+subgraph G_d
+	E[G_d]-- G1 ---F[]
+	E[G_d]-- G2 ---F[]
+	E[G_d]-- G3 ---F[]
+	E[G_d]-- G4 ---F[]
 ```
