@@ -41,7 +41,7 @@
 type: bar
 labels: [a,b,c]
 series:
-	- title: "graf1"
+	- title: graf1
 		data: [3,4,5,7,8,9,10,10,11,14,19]
 ```
 | intervali | vrednost |
@@ -60,13 +60,18 @@ series:
   | G3  | 9   |     |     |
   | G2  | 11  |     |     |
   | G3  | 10  |     |     |
-  | G3  | 4   |     |     |
-  | G1  | 8   |     |     |
-  | G2  | 19  |     |     |
-  | G1  | 7   |     |     |
-  | G2  | 14  |     |     |
+  | G1  | 4   |     |     |
+  | G2  | 8   |     |     |
+  | G4  | 19  |     |     |
+  | G2  | 7   |     |     |
+  | G4  | 14  |     |     |
+
+
 
 4. Uporabite algoritem OneR za klasifikacijo primerov s poznanim razredom! Upoštevajte le atribut E. Skicirajte (eno-nivojsko) odločitveno drevo! Kolikšna je napaka tega klasifikatorja? (15 točk)  
+
+|$\\_E$
+  
   
 5. Uporabite algoritem Naivni Bayes za klasifikacijo primerov z neznanim razredom! Upoštevajte le atributa E in F. Pri izračunu verjetnosti uporabite Laplace-ovo oceno (25 točk)  
   
