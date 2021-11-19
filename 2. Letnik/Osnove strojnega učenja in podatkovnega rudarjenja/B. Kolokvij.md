@@ -99,8 +99,14 @@ series:
 | C       |     |     |
   
   
-  $$L('T')=E(N)*F(A)*C$$
+  200: $$L('T')=E(N)*F(A)*C$$
   $$L('T')=4/8*3/9*7/13$$
+  
+  202: $$L(T)=3/8*4/9*7/13=0,1197$$
+  $$L(F)=4/8*1/8*6/13=0,0330$$
+  
+  
   
   
 6. Zgradite prvi nivo odločitvenega drevesa (korensko vozlišče) po metodi TDIDT (algoritem ID3) pri čemer upoštevajte le atribute E, F in G_d. Kot mero za »čistost« podmnožic uporabite informacijski prispevek (information gain). Tako dobljeno »delno« odločitveno drevo narišite ter ga uporabite za klasifikacijo primerov z neznanim razredom!
+>
