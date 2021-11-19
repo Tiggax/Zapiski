@@ -126,18 +126,24 @@ series:
 
 ```mermaid
 graph TB
-subgraph X
-	A[E]-- N ---B[t,t,t<br>n,n]
-	A-- Y ---B1[t,t,t<br>n,n,n]
+subgraph Y[E]
+	A[E]-- N ---B[T,T,T<br>N,N]
+	A-- Y ---B1[T,T,T<br>N,N,N]
 end
-subgraph b
-	C[F]-- A ---D[t,t<br>n,n]
-	C-- B ---D1[t,t,t]
-	C-- C ---D2[t<br>f,f,f]
+subgraph X[F]
+	C[F]-- A ---D[t,t<br>N,N]
+	C-- B ---D1[T,T,T]
+	C-- C ---D2[T<br>F,F,F]
 end
 subgraph G_d
-	E[G_d]-- G1 ---F[]
-	E[G_d]-- G2 ---F[]
-	E[G_d]-- G3 ---F[]
-	E[G_d]-- G4 ---F[]
+	E[G_d]-- G1 ---F[T<br>F,F]
+	E-- G2 ---F1[T,T,T]
+	E-- G3 ---F2[T<br>F,F]
+	E-- G4 ---F3[<br>F]
+end
+subgraph Dr[drevo]
+	G[F]-- A ---H[T]
+	G-- B ---H1[T]
+	G-- C ---H2[F]
+end
 ```
