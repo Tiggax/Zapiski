@@ -1,17 +1,21 @@
+# Kolokvij naloga B
+
 | I   | D        | E   | F   | G_d | G   | C   |
 | --- | -------- | --- | --- | --- | --- | --- |
 | 100 | 2000,00  | N   | C   |     | 3   | T   |
 | 101 | 2003,328 | N   | A   |     | 5   | F   |
 | 102 | 2012,284 | Y   | B   |     | 10  | T   |
-| 103 |          |     | A   |     | 9   | T   |
-| 104 |          |     | C   |     | 11  | F   |
-| 105 |          |     | C   |     | 10  | F   |
-| 106 |          |     | C   |     |     | F   |
-| 107 |          |     | A   |     |     | T   |
-| 108 |          |     | B   |     |     | T   |
-| 109 |          |     | B   |     |     | T   |
-| 110 |          |     | A   |     |     | F   |
-![[Screenshot_20211119_084031 1.png]]
+| 103 | 2007,163 | N   | A   |     | 9   | T   |
+| 104 | 2002,497 | N   | C   |     | 11  | F   |
+| 105 | 2015,175 | Y   | C   |     | 10  | F   |
+| 106 | 2020,000 | Y   | C   |     | 4   | F   |
+| 107 | 2018,459 | Y   | A   |     | 8   | T   |
+| 108 | 2013,646 | Y   | B   |     | 19  | T   |
+| 109 | 2019,005 | N   | B   |     | 7   | T   |
+| 110 | 2008,205 | Y   | A   |     | 14  | F   |
+
+| I   | D(ni v KSP) | E   | F   | G_d | G   | C_nb | C_
+| --- | ----------- | --- | --- | --- | --- | ---- |
 
 1. Pretvorite vrednosti atributa D v primerih 200, 201 in 202 v KSP format (prestopno leto je odebeljeno)! Rezultat zaokrožite na tri decimalna mesta! (10 točk)  
   
