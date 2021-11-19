@@ -77,15 +77,25 @@ series:
 | ---      | --- | --- | ---    |
 |          |     |     | 5      |
   
-  | $\\_E^F$ | T   | F   | napaka |
-  | -------- | --- | --- | ------ |
-  | A        | 2   | 2   | 2      |
-  | B        | 3   | 0   | 0      |
-  | C        | 1   | 3   | 1      |
-  | ---      | --- | --- | ---    |
-  |          |     |     | 3      |
+| $\\_E^F$ | T   | F   | napaka |
+| -------- | --- | --- | ------ |
+| A        | 2   | 2   | 2      |
+| B        | 3   | 0   | 0      |
+| C        | 1   | 3   | 1      |
+| ---      | --- | --- | ---    |
+|          |     |     | 3      |
+
+  
   
   
 5. Uporabite algoritem Naivni Bayes za klasifikacijo primerov z neznanim razredom! Upoštevajte le atributa E in F. Pri izračunu verjetnosti uporabite Laplace-ovo oceno (25 točk)  
+| stolpec | T   | F   |
+| ------- | --- | --- |
+| E       |     |     |
+| F       |     |     |
+| C       |     |     |
+  
+
+  
   
 6. Zgradite prvi nivo odločitvenega drevesa (korensko vozlišče) po metodi TDIDT (algoritem ID3) pri čemer upoštevajte le atribute E, F in G_d. Kot mero za »čistost« podmnožic uporabite informacijski prispevek (information gain). Tako dobljeno »delno« odločitveno drevo narišite ter ga uporabite za klasifikacijo primerov z neznanim razredom!
