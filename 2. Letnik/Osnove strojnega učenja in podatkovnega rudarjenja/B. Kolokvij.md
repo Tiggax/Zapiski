@@ -26,6 +26,8 @@
 2. Skicirajte box-plot za vrednosti atributa G (upoštevajte le primere z zaporedno številko med vključno  
 100 ter vključno 110)! (10 točk)  
 >po vrsti: 3,4,5,7,8,9,10,10,11,14,19
+>Mediana: 9 = $(n+1)+0.5$
+>
   
 3. Diskretizirajte atribut G na 4 enako visoke intervale (upoštevajte le primere z zaporedno številko med vključno 100 ter vključno 110)! Nov atribut G_d naj ima vrednosti G1, G2, G3 in G4. Skicirajte histogram! (10 točk)  
   
