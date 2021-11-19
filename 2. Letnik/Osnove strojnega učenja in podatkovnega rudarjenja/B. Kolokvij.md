@@ -141,9 +141,13 @@ subgraph G_d
 	E-- G3 ---F2[T<br>F,F]
 	E-- G4 ---F3[<br>F]
 end
+```
+```mermaid
+graph TD
 subgraph Dr[drevo]
 	G[F]-- A ---H[T]
 	G-- B ---H1[T]
 	G-- C ---H2[F]
 end
 ```
+information gain: $$IBS=\frac{5}{11}\log_2\frac{5}{11}-\log_2 \frac{6}{11}0,994$$
