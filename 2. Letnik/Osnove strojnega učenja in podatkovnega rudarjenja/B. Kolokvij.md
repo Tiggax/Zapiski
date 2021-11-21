@@ -150,4 +150,4 @@ subgraph Dr[drevo]
 	G-- C ---H2[F]
 end
 ```
-information gain: $$IBS=\frac{5}{11}\log_2\frac{5}{11}-\log_2 \frac{6}{11}0,994$$
+information gain: $$IBS=\frac{5}{11}\log_2\frac{5}{11}-\frac{6}{11}\log_2 \frac{6}{11}=0,994$$
