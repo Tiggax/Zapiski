@@ -20,4 +20,11 @@ za njih uporabimo **hitogram** ali **tortni diagram**
 ## Komulativna frekvenca
 $$F_j=\#(X\le a_j)$$ sum prejšnih razredov
 ## Relatvina komulativna frekvenca
-$$$$
+$$F_j\%=100*\frac{F_j}{\sum_{i=1}^{K}f_j}$$
+lahko prikažemo z **ogivo**
+## Tabela
+dodamo spodnjo in zgornjo mejo, da je zgornja prejšnega = spodnji naslednjega
+$x_{i,max}=x_{i+1,min}$
+**d** = širina razeda
+$g_i=\frac{f_j}{d_i}$ gostota razreda
+$x_i=\frac{x_{i,max}+x_{i+1,min}}{2}$ sredina razreda
