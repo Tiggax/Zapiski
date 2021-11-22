@@ -33,4 +33,7 @@ $$x_1\le x_2\le ... \le x_n$$
 elementi $x_i$ so **Vrstilne statistike**
 ### Rang
 je položaj vrednosti po vrsti $R(x)=n, n+1,...$
-če ima vrednost več rangov ji določimo **vezani rang** $$R(x)=\frac{min(R(x))+MAX(R(x))}$$
+#### Vezani rang
+če ima vrednost več rangov ji določimo **vezani rang** $$R(x)=\frac{min(R(x))+MAX(R(x))}{2}$$
+#### Kvartilni rang
+$$r(x)=\frac{R(x)-\frac{1}{2}}{n}$$
