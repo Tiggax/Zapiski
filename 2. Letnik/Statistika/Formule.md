@@ -12,4 +12,5 @@ end
 ```
 # Strukture
 ## Frekvenca
-$$f_i^$$
+$$f_i=\#(x)$$ v neki skupini
+$$f_i°=\frac{f_i}{\sum_{i=1}^{K}f_i}$$
