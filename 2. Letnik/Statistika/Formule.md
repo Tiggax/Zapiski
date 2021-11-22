@@ -29,6 +29,8 @@ $x_{i,max}=x_{i+1,min}$
 $g_i=\frac{f_j}{d_i}$ gostota razreda
 $x_i=\frac{x_{i,max}+x_{i+1,min}}{2}$ sredina razreda
 ## Ranžirna vrsta
+določimo jih lahko tudi frekvencam
+
 $$x_1\le x_2\le ... \le x_n$$
 elementi $x_i$ so **Vrstilne statistike**
 ### Rang
@@ -37,3 +39,6 @@ je položaj vrednosti po vrsti $R(x)=n, n+1,...$
 če ima vrednost več rangov ji določimo **vezani rang** $$R(x)=\frac{min(R(x))+MAX(R(x))}{2}$$
 #### Kvartilni rang
 $$r(x)=\frac{R(x)-\frac{1}{2}}{n}$$
+## Kvantili
+### Mediana
+$$Me=Q_{0.5}=$$
