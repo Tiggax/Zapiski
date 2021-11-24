@@ -185,3 +185,16 @@ drug način je pa da ločimo funkciji $h_1$ in $h_2$ v dve tabeli:
 |     |     |     | 1   |     |     | 1   | 1   |     |     |
 
 
+Primer: 3-terice DNK -> kodoni
+
+|                   | prostor | Find   | Insert | Delete |
+| ----------------- | ------- | ------ | ------ | ------ |
+| seznam            | $n+rn$  | $O(n)$ | $O(n)$       |        |
+| urejen seznam     | $n+rn$  |        |        |        |
+| binarno drevo     | $n+2rn$ |        |        |        |
+| AVL drevo         | $n+2rn$ |        |        |        |
+| B drevo           | $n+brn$ |        |        |        |
+| RB drevo          | $n+2rn$ |        |        |        |
+| ---               | ---     | ---    | ---    | ---    |
+| preskočna vrsta   | $n+?rn$ |        |        |        |
+| razpršilna tabela | $n+?rn$ |        |        |        |
