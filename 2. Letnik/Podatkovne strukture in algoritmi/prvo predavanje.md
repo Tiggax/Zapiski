@@ -64,4 +64,15 @@ s tem zagotovimo da bo v $\frac{1}{n^k}$
 
 $|U|=$-m- M
 $|S|=m=c*n$
+### Razpršilna funkcija
 
+![[Screenshot_20211124_131850.png]]
+
+če so ključi k naključna realna števila enakomerno prazdeljena na intervalu $[0,1)$. potem funkcija: $$h(k)=k*m$$ zadošča zgornjem pogoju. *funkcija razpršuje*
+
+### Zgoščevalna funkcija
+
+kaj nardimo če je k Celo število?
+če je celo število rešimo z Modulom velikosti tabele.** ta funkcija deluje po metodi deljenja.**
+primer:
+17
