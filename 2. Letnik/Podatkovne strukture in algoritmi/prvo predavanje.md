@@ -113,3 +113,9 @@ kaj pa če je tabela polna?
 - če je polje $i$ polno, potem je verjetnost da ključ pride v $i+1$ enako $\frac{(1+i)}{n}$
 
 ##### Kvadratično naslavljanje
+$$h'=h(x,0);\ c_1,c_2 \ne 0$$
+$$h(k,i)=(h'(k)+c_1i^2+c_2i)mod\ m$$
+
+x dobi 3, ta ni na voljo->
+
+v praksi ne ker je potrebno preverjati celo tabelo
