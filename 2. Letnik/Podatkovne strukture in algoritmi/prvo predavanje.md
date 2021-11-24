@@ -147,3 +147,8 @@ poiskal bo šel bo$k^2$ do mesta videl da je prazen, zato vedel da ga ni več. n
 | preskočna vrsta   | $O(\log_b n)$ | $O(\log_b n)$ | $O(\log_b n)$ |
 | razpršilna tabela | $O(1)$        | $O(1)$        | $O(1)$        |
 
+**rojstnodnevni paradox** na podlagi paradoksa naredimo funkcijo dvostopenjsko
+vzamemo prvo razpršilno funkcijo in naredimo ---- potem neki,neki,neki...
+
+**Kako zmanjšati prostor a ohraniti časovno kompleksnost**
+### Nenatančni slovar
