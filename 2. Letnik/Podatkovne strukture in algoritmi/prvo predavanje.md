@@ -62,7 +62,7 @@ kakšna je vrjetnost da jih 5 pade v isti predal?
 s tem zagotovimo da bo v $\frac{1}{n^k}$
 
 
-$|U|=$-m- M
+$|U|=$_m_ M
 $|S|=m=c*n$
 ### Razpršilna funkcija
 
@@ -122,6 +122,22 @@ v praksi ne ker je potrebno preverjati celo tabelo
 
 ##### Dvojno naslavljanje(double hashing)
 uporaba linearne in kvadratne funkcije
-k se je vstavil, je blo poln
+
+k se je vstavil, je blo polno šel na naslednje
+
 | k   | $k^1$ | $k^2$ | $k^3$ | $k^4$ | 
 | --- | ----- | ----- | ----- | ----- |
+
+če hočemo najdi $k^2$, a je bil ta zbrisan:
+
+| k   | $k^1$ | -   | $k^3$ | $k^4$ |
+| --- | ----- | --- | ----- | ----- |
+
+poiskal bo šel bo$k^2$ do mesta videl da je prazen, zato vedel da ga ni več. neki v tej smeri je šou, nisem poslušu neki.
+
+##### Zahtevnost
+| x             | Find   | Insert | Delete |
+| ------------- | ------ | ------ | ------ |
+| seznam        | $O(n)$ | $O(1)$ | $O(n)$ |
+| urejen seznam | $O(n)$ | $O(n)$ | $O(n)$ |
+| binarno drevo | $O(n)$ | $O(n)$ | $O(n)$       |
