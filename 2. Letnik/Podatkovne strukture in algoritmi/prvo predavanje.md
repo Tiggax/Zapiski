@@ -151,4 +151,11 @@ poiskal bo šel bo$k^2$ do mesta videl da je prazen, zato vedel da ga ni več. n
 vzamemo prvo razpršilno funkcijo in naredimo ---- potem neki,neki,neki...
 
 **Kako zmanjšati prostor a ohraniti časovno kompleksnost**
-### Nenatančni slovar
+
+## Nenatančni slovar
+imamo slovar S nekakšnih elementov. s tem slovarjem želimo:
+- **iskanje**
+	Find(S,x) -> y v slovarju poiščemo element x rezultat y je Boolean
+- **dodajanje**
+	Insert(S,x) -> y iz slovaarja S dodamo element x
+	
