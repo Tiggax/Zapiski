@@ -33,4 +33,13 @@ funkcija h je določena v naprej -> neizpodbitno obsojena na samo injektivnost, 
 ta problem moramo rešiti:
 kako rešiti problem sovpadanja?
 neka anologija z avtobusom pa sedeži
-se nekam hoče zi
+se nekam hoče zint, če je zaseden gre na naslednje mesto, in ponavlja...
+ta način je linearen (največ n-krat ponovitev)
+tu nas bo rešila naključnost
+
+Temu se reče **naslavljanje**
+
+### veriženje
+dodaš pomožne node ali "stolčke", kjer dobimo na koncu največ n- pomožnih "stolčkov"
+je podobno linearna za(največ k-krat; k=št stolčkov)
+
