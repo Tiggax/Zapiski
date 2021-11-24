@@ -211,3 +211,9 @@ kakšna je bila verjetnost da je bila 0 vstavljena? $1/m^n$
 za lažno pozitivo aka: da dobimo k enic pa velja:
 $$f\approx (1-p)^k = (1-e^{\frac{-kn}{m}})^k$$
 
+Časovna zahtevnost: O(k); O(dm)=O(n) bitov->
+pokaže da :$d=\log(\log n)$ z zelo veliko verjetnostjo dovolj.
+
+### Operacije nad BF
+Slovarja predstavljena z Bloomovim filtroma $S_1$ in $S_2$  in naj so $h_{1,i}()=h_{2,i}()$
+- unija neštevnih slovarjev
