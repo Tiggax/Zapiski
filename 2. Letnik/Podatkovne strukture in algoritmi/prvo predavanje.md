@@ -104,3 +104,12 @@ kaj pa če je tabela polna?
 
 
 ##### Linearno naslavljanje
+če x ni na voljo-> preverim naslednjega -> preverim naslednjega ...
+**Dobro:**
+- Đorđe lahko najde sedež(lahko vstavljanje)
+
+**Slabo**
+- če je polje $i$ prazno, potem je verjetnost da ključ pride v $i+1$ enako $\frac{1}{n}$
+- če je polje $i$ polno, potem je verjetnost da ključ pride v $i+1$ enako $\frac{(1+i)}{n}$
+
+##### Kvadratično naslavljanje
