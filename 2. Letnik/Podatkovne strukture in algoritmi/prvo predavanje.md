@@ -71,8 +71,19 @@ $|S|=m=c*n$
 če so ključi k naključna realna števila enakomerno prazdeljena na intervalu $[0,1)$. potem funkcija: $$h(k)=k*m$$ zadošča zgornjem pogoju. *funkcija razpršuje*
 
 ### Zgoščevalna funkcija
+#### deljenje
 
 kaj nardimo če je k Celo število?
 če je celo število rešimo z Modulom velikosti tabele.** ta funkcija deluje po metodi deljenja.**
 primer:
-17
+1769 mod 256= 11 bitov
+$$h(k)=k*mod\ m$$
+če sta si števili tuji, potem vsi
+
+če je m dovolj veliko praštevilo, je tuje glede na k
+
+Primer:
+2000 ključev, je za dolžina 3
+
+#### množenje
+$$h(k)= (k*p)\ mod\ m$$
