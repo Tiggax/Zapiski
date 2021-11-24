@@ -99,3 +99,8 @@ zgoščevalna funkcija ne slika več iz U v S
 sedaj slika: $$h:U\times \{0,1,...,m-1\} \to \{0,1,...,m-1\}$$
 
 kaj pa če je tabela polna?
+
+**deamortizacija** z neko konstanto prestavljaš elemente iz ene tabele v drugo v korakih skozi čas. s tem prišparaš na delu.
+
+
+##### Linearno naslavljanje
