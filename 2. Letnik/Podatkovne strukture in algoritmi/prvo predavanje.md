@@ -87,3 +87,12 @@ Primer:
 
 #### množenje
 $$h(k)= (k*p)\ mod\ m$$
+kjer je $p$ neka konstanta.
+- vrednost m ni kritična
+
+lahko jo zapišemo tudi kot: $$h(k)=m(kA\ mod\ 1)$$; kjer je 0<A<1 in x mod 1 pomeni dec del x. v tem primeru je Knuth A$\approx\frac{(\sqrt{5} -1)}{2}=0.6180339887...$
+
+#### naslavljanje
+ko pride đorđe na avtobus more pregledat vse stole da so prazni. drugače bi mislil da je avtobus poln in čaka naslednjega. hočemo najti čim prej najti prosto mesto.
+
+zgoščevalna funkcija ne slika več iz U v S 
