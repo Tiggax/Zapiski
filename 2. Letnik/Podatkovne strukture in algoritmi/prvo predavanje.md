@@ -42,4 +42,7 @@ Temu se reče **naslavljanje**
 ### veriženje
 dodaš pomožne node ali "stolčke", kjer dobimo na koncu največ n- pomožnih "stolčkov"
 je podobno linearna za(največ k-krat; k=št stolčkov)
+#neurejen-seznam 
 
+veriženje ali "chaining" je veriženje novega slovarja. je postopek pri katerem rešujemo soupadanje z novim seznamom, v katerega vstavimo elemente, ki sovpadajo s tem elementom. 
+![[Screenshot_20211124_125259.png]]
