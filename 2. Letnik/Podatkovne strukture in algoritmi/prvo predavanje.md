@@ -187,14 +187,21 @@ drug način je pa da ločimo funkciji $h_1$ in $h_2$ v dve tabeli:
 
 Primer: 3-terice DNK -> kodoni
 
-|                   | prostor | Find   | Insert | Delete |
-| ----------------- | ------- | ------ | ------ | ------ |
-| seznam            | $n+rn$  | $O(n)$ | $O(n)$       |        |
-| urejen seznam     | $n+rn$  |        |        |        |
-| binarno drevo     | $n+2rn$ |        |        |        |
-| AVL drevo         | $n+2rn$ |        |        |        |
-| B drevo           | $n+brn$ |        |        |        |
-| RB drevo          | $n+2rn$ |        |        |        |
-| ---               | ---     | ---    | ---    | ---    |
-| preskočna vrsta   | $n+?rn$ |        |        |        |
-| razpršilna tabela | $n+?rn$ |        |        |        |
+|                   | prostor | Find         | Insert       | Delete       |
+| ----------------- | ------- | ------------ | ------------ | ------------ |
+| seznam            | $n+rn$  | $O(n)$       | $O(1)$       | $O(n)$       |
+| urejen seznam     | $n+rn$  | $O(n)$       | $O(n)$       | $O(n)$       |
+| binarno drevo     | $n+2rn$ | $O(n)$       | $O(n)$       | $O(n)$       |
+| AVL drevo         | $n+2rn$ | $O(lg\ n)$   | $O(lg\ n)$   | $O(lg\ n)$   |
+| B drevo           | $n+brn$ | $O(\log_bn)$ | $O(\log_bn)$ | $O(\log_bn)$ |
+| RB drevo          | $n+2rn$ | $O(lg\ n)$   | $O(lg\ n)$   | $O(lg\ n)$   |
+| ---               | ---     | ---          | ---          | ---          |
+| preskočna vrsta   | $n+?rn$ | $O(\log_bn)$ | $O(\log_bn)$ | $O(\log_bn)$ |
+| razpršilna tabela | $n+?rn$ | $O(1)$       | $O(1)$       | $O(1)$       |
+
+
+### verjetnost False-pozitive
+$$p'=(1-\frac{1}{m})^{kn}\approx e^{\frac{-kn}{m}}=p$$
+
+da je na i-tem mestu funkcije je verjetnost za k dogodkov $p^k$
+kakšna je bila verjet
