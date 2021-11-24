@@ -201,7 +201,13 @@ Primer: 3-terice DNK -> kodoni
 
 
 ### verjetnost False-pozitive
+verjetnost da je na i-tem mestu nula enaka
+
 $$p'=(1-\frac{1}{m})^{kn}\approx e^{\frac{-kn}{m}}=p$$
 
 da je na i-tem mestu funkcije je verjetnost za k dogodkov $p^k$
-kakšna je bila verjet
+kakšna je bila verjetnost da je bila 0 vstavljena? $1/m^n$
+
+za lažno pozitivo aka: da dobimo k enic pa velja:
+$$f\approx (1-p)^k = (1-e^{\frac{-kn}{m}})^k$$
+
