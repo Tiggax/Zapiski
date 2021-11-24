@@ -159,3 +159,15 @@ imamo slovar S nekakšnih elementov. s tem slovarjem želimo:
 - **dodajanje**
 	Insert(S,x) -> y iz slovaarja S dodamo element x
 	
+	|     |     |     | 0   | 1   |     | 1   |     | 1   |     |
+	| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+	|     |     |     | l   | i   |     | j   | k   |     |     |
+
+y: $h(y)=i$; $h(y)=k$
+x: $h(x)=i$;$h(x)=j$
+
+Find(z): $h(z)=i$;$h(z)=l$-> ni notri ker oba nista 1
+Find(t):$h(t)=j$;$h(y)=k$-> false pozitive
+
+**Bloomov filter**
+namesto da je le 0 ali 1 delamo prištevke
