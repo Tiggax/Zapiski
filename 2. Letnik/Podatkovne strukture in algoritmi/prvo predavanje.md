@@ -170,4 +170,18 @@ Find(z): $h(z)=i$;$h(z)=l$-> ni notri ker oba nista 1
 Find(t):$h(t)=j$;$h(y)=k$-> false pozitive
 
 **Bloomov filter**
-namesto da je le 0 ali 1 delamo prištevke
+namesto da je le 0 ali 1 delamo prištevke:
+
+|     |     |     | 1   | 3   |     | 1   |     | 1   |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     | l   | i   |     | j   | k   |     |     |
+
+
+drug način je pa da ločimo funkciji $h_1$ in $h_2$ v dve tabeli:
+
+|     |     |     | l   | i   |     | j   | k   |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     | 3   |     |     |     |     |     |
+|     |     |     | 1   |     |     | 1   | 1   |     |     |
+
+
