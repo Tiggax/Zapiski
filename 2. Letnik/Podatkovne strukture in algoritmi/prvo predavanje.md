@@ -46,3 +46,14 @@ je podobno linearna za(največ k-krat; k=št stolčkov)
 
 veriženje ali "chaining" je veriženje novega slovarja. je postopek pri katerem rešujemo soupadanje z novim seznamom, v katerega vstavimo elemente, ki sovpadajo s tem elementom. 
 ![[Screenshot_20211124_125259.png]]
+
+v najslabšem primeru $\theta(n)$
+do pričakovane pridemo z upoštevanjem naključnosti. 
+
+primer golobnjaka:
+mečemo fnikulo v predalčke
+P(1)=$\frac{1}{n}$
+P(2)=$\frac{1}{n}$
+			...
+če je metanje frnikule naključno je verjetnost da pade v vsakega $\frac{1}{n}$
+kakšna je vrjetnost da jih 5 pade v isti predal?
