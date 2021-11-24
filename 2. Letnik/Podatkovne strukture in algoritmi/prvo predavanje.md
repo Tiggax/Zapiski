@@ -216,4 +216,24 @@ pokaže da :$d=\log(\log n)$ z zelo veliko verjetnostjo dovolj.
 
 ### Operacije nad BF
 Slovarja predstavljena z Bloomovim filtroma $S_1$ in $S_2$  in naj so $h_{1,i}()=h_{2,i}()$
-- unija neštevnih slovarjev
+- unija neštevnih slovarjev $S_1 \bigcup S_2$
+
+
+
+
+dobimo nov dodatek: (pazi črta med bloomovim in ostalimi)
+
+|                   | prostor            | Find         | Insert       | Delete       |
+| ----------------- | ------------------ | ------------ | ------------ | ------------ |
+| seznam            | $n+rn$             | $O(n)$       | $O(1)$       | $O(n)$       |
+| urejen seznam     | $n+rn$             | $O(n)$       | $O(n)$       | $O(n)$       |
+| binarno drevo     | $n+2rn$            | $O(n)$       | $O(n)$       | $O(n)$       |
+| AVL drevo         | $n+2rn$            | $O(lg\ n)$   | $O(lg\ n)$   | $O(lg\ n)$   |
+| B drevo           | $n+brn$            | $O(\log_bn)$ | $O(\log_bn)$ | $O(\log_bn)$ |
+| RB drevo          | $n+2rn$            | $O(lg\ n)$   | $O(lg\ n)$   | $O(lg\ n)$   |
+| ---               | ---                | ---          | ---          | ---          |
+| preskočna vrsta   | $n+?rn$            | $O(\log_bn)$ | $O(\log_bn)$ | $O(\log_bn)$ |
+| razpršilna tabela | $n+?rn$            | $O(1)$       | $O(1)$       | $O(1)$       |
+| ---               | ---                | ---          | ---          | ---          |
+| Bloomov filter    | $\frac{cn}{lg\ n}$ | $O(1)$       | $O(1)$       | ???          |
+
