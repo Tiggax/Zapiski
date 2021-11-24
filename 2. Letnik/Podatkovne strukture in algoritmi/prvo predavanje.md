@@ -57,3 +57,5 @@ P(2)=$\frac{1}{n}$
 			...
 če je metanje frnikule naključno je verjetnost da pade v vsakega $\frac{1}{n}$
 kakšna je vrjetnost da jih 5 pade v isti predal?
+
+s tem zagotovimo da bo v $\frac{1}{n^k}$
