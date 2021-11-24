@@ -28,3 +28,9 @@ tabela veliksti U ima U bitov
 - zgoščevalno funkcijo ...
 
 ![[Screenshot_20211124_123336.png]]
+
+funkcija h je določena v naprej -> neizpodbitno obsojena na samo injektivnost, ker slika iz večje v manjšo bo zih slikala dva ključa v isti element![[Screenshot_20211124_124131.png]]
+ta problem moramo rešiti:
+kako rešiti problem sovpadanja?
+neka anologija z avtobusom pa sedeži
+se nekam hoče zi
