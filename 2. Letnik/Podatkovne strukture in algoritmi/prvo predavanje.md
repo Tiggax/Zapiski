@@ -6,10 +6,10 @@
 - neskončni seznam (vklučuje random vrednosti)
 
 
-| kakšen?                              | čas | T        | P           |
-| ------------------------------------ | --- | -------- | ----------- |
-| linearno drevo<br>binarno<br>B drevo |     | $\log_n$ |             |
-| neskončni seznam                     |     |          | naključnost | 
+| kakšen?                              | čas | T        | P           | S    |
+| ------------------------------------ | --- | -------- | ----------- | ---- |
+| linearno drevo<br>binarno<br>B drevo |     | $\log_n$ |             | O(n) |
+| neskončni seznam                     |     |          | naključnost |      |
 
 
 
@@ -21,4 +21,9 @@ tabela veliksti U ima U bitov
 - tabela je velika sorazmerno z univerzalno množico.
 - uporabimo naključnost?
 - velikost bo v odvisnosti od n elementov
-- 
+- izvedejo se v konstantnem času
+	- S zmanjšamo na 
+
+- dodamo razpršilno funkcijo $S(H(x))$-> H razprši neki neki...
+- zgoščevalno funkcijo ...
+
