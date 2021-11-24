@@ -119,3 +119,9 @@ $$h(k,i)=(h'(k)+c_1i^2+c_2i)mod\ m$$
 x dobi 3, ta ni na voljo->
 
 v praksi ne ker je potrebno preverjati celo tabelo
+
+##### Dvojno naslavljanje(double hashing)
+uporaba linearne in kvadratne funkcije
+k se je vstavil, je blo poln
+| k   | $k^1$ | $k^2$ | $k^3$ | $k^4$ | 
+| --- | ----- | ----- | ----- | ----- |
