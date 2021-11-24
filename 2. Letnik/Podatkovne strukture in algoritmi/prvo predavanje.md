@@ -136,8 +136,14 @@ k se je vstavil, je blo polno šel na naslednje
 poiskal bo šel bo$k^2$ do mesta videl da je prazen, zato vedel da ga ni več. neki v tej smeri je šou, nisem poslušu neki.
 
 ##### Zahtevnost
-| x             | Find   | Insert | Delete |
-| ------------- | ------ | ------ | ------ |
-| seznam        | $O(n)$ | $O(1)$ | $O(n)$ |
-| urejen seznam | $O(n)$ | $O(n)$ | $O(n)$ |
-| binarno drevo | $O(n)$ | $O(n)$ | $O(n)$       |
+| x                 | Find          | Insert        | Delete        |
+| ----------------- | ------------- | ------------- | ------------- |
+| seznam            | $O(n)$        | $O(1)$        | $O(n)$        |
+| urejen seznam     | $O(n)$        | $O(n)$        | $O(n)$        |
+| binarno drevo     | $O(n)$        | $O(n)$        | $O(n)$        |
+| AVL drevo         | $O(lg\ n)$    | $O(lg\ n)$    | $O(lg\ n)$    |
+| B drevo           | $O(\log_b n)$ | $O(\log_b n)$ | $O(\log_b n)$ |
+| RB drevo          | $O(lg\ n)$    | $O(lg\ n)$    | $O(lg\ n)$    |
+| preskočna vrsta   | $O(\log_b n)$ | $O(\log_b n)$ | $O(\log_b n)$ |
+| razpršilna tabela | $O(1)$        | $O(1)$        | $O(1)$        |
+
