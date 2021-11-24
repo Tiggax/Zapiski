@@ -96,3 +96,6 @@ lahko jo zapišemo tudi kot: $$h(k)=m(kA\ mod\ 1)$$; kjer je 0<A<1 in x mod 1 po
 ko pride đorđe na avtobus more pregledat vse stole da so prazni. drugače bi mislil da je avtobus poln in čaka naslednjega. hočemo najti čim prej najti prosto mesto.
 
 zgoščevalna funkcija ne slika več iz U v S 
+sedaj slika: $$h:U\times \{0,1,...,m-1\} \to \{0,1,...,m-1\}$$
+
+kaj pa če je tabela polna?
