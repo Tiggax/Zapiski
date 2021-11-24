@@ -6,10 +6,11 @@
 - neskončni seznam (vklučuje random vrednosti)
 
 
-| kakšen?                              | čas | T        | P           | S    |
-| ------------------------------------ | --- | -------- | ----------- | ---- |
-| linearno drevo<br>binarno<br>B drevo |     | $\log_n$ |             | O(n) |
-| neskončni seznam                     |     |          | naključnost |      |
+| kakšen?                              | čas | T           | P           | S    |
+| ------------------------------------ | --- | ----------- | ----------- | ---- |
+| linearno drevo<br>binarno<br>B drevo |     | $O(\log_n)$ |             | O(n) |
+| neskončni seznam                     |     | $O(\log_n)$ | naključnost | O(n) |
+| razp tabela                          |     | O(1)        | -//-        | O(n) | 
 
 
 
@@ -59,3 +60,8 @@ P(2)=$\frac{1}{n}$
 kakšna je vrjetnost da jih 5 pade v isti predal?
 
 s tem zagotovimo da bo v $\frac{1}{n^k}$
+
+
+$|U|=$-m- M
+$|S|=m=c*n$
+
