@@ -17,3 +17,4 @@ Pri stopnji značilnosti α ničelno hipotezo $H_0 : μ = μ^∗$ zavrnemo
 	
 	Prag zavrnitve razberemo iz tabele (Table of critical values for Student's t distributions)
 	
+	če so vzorci veliki (recimo n>50), potem 
