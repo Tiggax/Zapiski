@@ -17,4 +17,19 @@ Pri stopnji značilnosti α ničelno hipotezo $H_0 : μ = μ^∗$ zavrnemo
 	
 	Prag zavrnitve razberemo iz tabele (Table of critical values for Student's t distributions)
 	
-	če so vzorci veliki (recimo n>50), potem 
+	če so vzorci veliki (recimo n>50), potem t-test da praktično enake p-vrednosti kot z-test
+	
+```ad-note
+	collapse: T
+title: Primer:
+	
+Višina štiriletnih deklic je normalno porazdeljena s pričakovano vrednostjo μ in standardnim odklonom σ = 5 cm. Naključno izbran vzorec devetih deklic nam da višine:
+| 101 | 91  | 93  | 103 | 91  | 101 | 103 | 95  | 95  | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |	
+
+Pri stopni značilnosti $\alpha=0.1$ testirajmo ničelno hipotezo
+$H_0:\mu = 100cm$
+
+od zadnjič vemo:
+- $\overline x =$
+```
