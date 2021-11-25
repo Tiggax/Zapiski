@@ -24,6 +24,7 @@ collapse: T
 title: Primer:
 	
 Višina štiriletnih deklic je normalno porazdeljena s pričakovano vrednostjo μ in standardnim odklonom σ = 5 cm. Naključno izbran vzorec devetih deklic nam da višine:
+
 | 101 | 91  | 93  | 103 | 91  | 101 | 103 | 95  | 95  | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |	
 
@@ -85,6 +86,23 @@ collapse: T
 title: Primer:
 Rezultati obeh kolokvijev Statistike za skupino sedmih študentov so dani v naslednji tabel:
 
+| 1.Kolokvij(X) | 2.Kolokvij(Y) | D=X-Y |
+| ------------- | ------------- | ----- |
+| 72            | 57            | 15    |
+| 61            | 47            | 14    |
+| 52            | 71            | -19   |
+| 48            | 52            | -4    |
+| 92            | 77            | 15    |
+| 69            | 81            | -12   |
+| 56            | 49            | 7     | 
 
+Pri stopnji značilnosti α = 0.05 testirajmo ničelno hipotezo, da je povprečje točk na 1. kolokviju enako kot povprečje točk na 2. kolokviju.
+
+---
+
+$H_0:\mu_x-\mu_y=0$
+$H_1:\mu_x-\mu_y\ne0$
+Testna statistika je:
+$t=\frac{(\overline x-\overline)}{}$
 
 ```
