@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
-            "mode": "preview"
+            "file": "2. Letnik/Statistika/2.kolokvij/T-test.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
+                "file": "2. Letnik/Statistika/2.kolokvij/T-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "501447aa3f9f83f8",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/2.kolokvij/T-test.md",
     "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
     "2. Letnik/Statistika/2.kolokvij/Intervalsko ocenjevanje in testiranje statističnih domnev.md",
     "Predefined.md",
@@ -121,7 +122,6 @@
     "2. Letnik/Statistika/1.kolokvij/Indeksi.md",
     "2. Letnik/Statistika/1.kolokvij/Formule.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/prvo predavanje.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md"
+    "2. Letnik/Podatkovne strukture in algoritmi/prvo predavanje.md"
   ]
 }
