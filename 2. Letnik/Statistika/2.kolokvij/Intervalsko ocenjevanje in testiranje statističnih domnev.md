@@ -31,7 +31,32 @@ $$Z=\frac{\overline X -\mu ^*}{\frac{\sigma}{\sqrt{n}}}=\frac{97-100}{\frac{5}{\
 
 ---
 
-kaj vzamemo v alteranativno domnevo?
+## kaj vzamemo v alteranativno domnevo?
 - najprej testiramo proti dvostranski domnevi:
-$H_1:\mu$
+$H_1:\mu\ne 100cm$
+Prag zavrnitve $H_0$ proti $H_1$ je $Z_{0.975} = 1.96$. Ker $|Z|< 1.96$, ničelne  
+hipoteze ne zavrnemo. Rečemo, da odstopanja niso **statistično  
+značilna**
+
+---
+
+## Ničelno domnevo sedaj testirajmo proti alternativni domnevi  
+$H_1^+ : μ > 100 cm$.  
+Testno statistiko moramo sedaj primerjati z vrednostjo $z_{0.95} = 1.65$,  
+kar pomeni da $H_0$ seveda ne zavrnemo (odstopanja v desno ne  
+morejo biti statistično značilna, če povprečje od ničelne hipoteze  
+odstopa v levo).
+
+#TODO 
+
+Ni ˇcelno domnevo testirajmo ˇse proti alternativni domnevi  
+H−1 : μ < 100 cm.  
+Testno statistiko moramo sedaj primerjati z vrednostjo  
+−z0.95 = −1.65, kar pomeni da H0 zavrnemo v korist alternativne  
+hipoteze H−1 . Odstopanja so statisti ˇcno zna ˇcilna.  
+⋄ Vzemimo sedaj α = 0.01 in ni ˇcelno domnevo testirajmo proti  
+alternativni domnevi  
+H−1 : μ < 100 cm.  
+Testno statistiko moramo sedaj primerjati z vrednostjo  
+−z0.99 = −2.33, kar pomeni da H0 ne moremo zavrniti v korist H−1 .
 ```
