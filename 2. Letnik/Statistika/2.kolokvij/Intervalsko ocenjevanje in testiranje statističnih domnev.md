@@ -4,7 +4,7 @@ $$H_0 : \mu =\mu^*$$
 **$H_0$** imenujemo **ničelna domneva**
 
 pri $n$ je velikost vzorca in $\overline x$ povprečje naključnega vzorca. vrednost testne statistike je: $$Z=\frac{\overline X -\mu ^*}{\frac{\sigma}{\sqrt{n}}}$$
-če $\overline x$ preveč odstopa od $\mu^*$(testna statistika se preveč oddali od 0)potem $H_0$ zavrnemo. preveč pomeni odvisno od:
+če $\overline x$ preveč odstopa od $\mu^*$(testna statistika se preveč oddali od 0)potem $H_0$ zavrnemo. preveč pomeni odvisno od: ^b989ba
 - **alternativne hipoteze**
 	![[Screenshot_20211125_084408.png]]
 - **stopnje značilnosti** $\alpha$
