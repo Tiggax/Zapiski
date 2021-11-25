@@ -20,7 +20,7 @@ Pri stopnji značilnosti α ničelno hipotezo $H_0 : μ = μ^∗$ zavrnemo
 	če so vzorci veliki (recimo n>50), potem t-test da praktično enake p-vrednosti kot z-test
 	
 ```ad-note
-	collapse: T
+collapse: T
 title: Primer:
 	
 Višina štiriletnih deklic je normalno porazdeljena s pričakovano vrednostjo μ in standardnim odklonom σ = 5 cm. Naključno izbran vzorec devetih deklic nam da višine:
@@ -46,4 +46,13 @@ od zadnjič vemo:
 	
 
 ## Ali se zadnji sklep spremeni, če α = 0.05?
+Za:
+- $H_1^- :\mu < 100$
+- $\alpha =0.05$
+razberemo prag zavrnitve $-t_{0.95}=-1.86$. V tem primeru odstopanja niso statistično značilna.
 ```
+
+---
+
+**IZ**  za $\mu$ pri dani stopnju zaupanja $0<\beta<1$ je sedaj:
+$$(\mu_{min},\mu_{max})=(\overline x -\frac{s}{\sqrt n}t_{\frac{1+\beta}{2}}\ ,\ \overline x +\frac{s}{\sqrt n}t_{\frac{1+\beta}{2}})$$---
