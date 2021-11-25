@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
+            "file": "2. Letnik/Statistika/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
+                "file": "2. Letnik/Statistika/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "10c18413a36c2f5f",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/Untitled.md",
+    "2. Letnik/Statistika/primeri, Vaje 5.md",
+    "2. Letnik/Statistika/kolokvij.md",
+    "2. Letnik/Statistika/Indeksi.md",
+    "2. Letnik/Statistika/Formule.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/prvo predavanje.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Untitled Diagram.svg",
-    "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
-    "2. Letnik/Statistika/Formule.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md",
-    "2. Letnik/Statistika/kolokvij.md",
-    "2. Letnik/Statistika/Indeksi.md",
-    "2. Letnik/Statistika/Kovarianca in korelacija.md"
+    "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md"
   ]
 }
