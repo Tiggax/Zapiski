@@ -55,4 +55,36 @@ razberemo prag zavrnitve $-t_{0.95}=-1.86$. V tem primeru odstopanja niso statis
 ---
 
 **IZ**  za $\mu$ pri dani stopnju zaupanja $0<\beta<1$ je sedaj:
-$$(\mu_{min},\mu_{max})=(\overline x -\frac{s}{\sqrt n}t_{\frac{1+\beta}{2}}\ ,\ \overline x +\frac{s}{\sqrt n}t_{\frac{1+\beta}{2}})$$---
+$$(\mu_{min},\mu_{max})=(\overline x -\frac{s}{\sqrt n}t_{\frac{1+\beta}{2}}\ ,\ \overline x +\frac{s}{\sqrt n}t_{\frac{1+\beta}{2}})$$
+
+```ad-note
+collapse: T
+title:Primer:
+## Za prejšni primer je za $\beta=0.95$
+$\mu_{min}=93.9$
+$\mu_{max}=100.1$
+
+torej je 95% interval zaupanja za $\mu$ interval $(93.9,100.1)$ 
+```
+## Primerjava povprečij dveh spremenljivk na istih enotah
+#TODO
+Denimo, da na eni populaciji preu ˇcujemo dve intervalski spremenljivki, X  
+in Y. Naj bo μX pri ˇcakovana vrednost prve, μY pa pri ˇcakovana vrednost  
+druge spremenljivke v celotni populaciji.  
+Testiramo ni ˇcelno hipotezo  
+H0 : μX = μy  
+proti eni od alternativnih hipotez: dvostranski (H1 : μX ,μy ), enostranski  
+v korist X (H+  
+1 : μX > μy ) ali enostranski v korist Y (H−1 : μX < μy ).  
+Test enakosti povpre ˇcij se v tem primeru prevede na Z- ali t- test za  
+spremenljivko X −Y .
+(glej Statistika P716/18)
+
+```ad-note
+collapse: T
+title: Primer:
+Rezultati obeh kolokvijev Statistike za skupino sedmih študentov so dani v naslednji tabel:
+
+
+
+```
