@@ -113,7 +113,7 @@ $s=14.02$
 
 Sledi:
 $$t=\frac{2.3}{\frac{14.02}{\sqrt 7}}=0.43$$
-
+#TODO
 Ker je df = 6, za α = 0.05 dobimo prag zavrnitve ±2.447. H0 torej ne  
 zavrnemo (odstopanja niso statisti ˇcno zna ˇcilna
 
