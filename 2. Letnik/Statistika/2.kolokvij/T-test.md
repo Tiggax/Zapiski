@@ -7,8 +7,13 @@ preizkušanje domnev o $\mu$ kadar $\sigma$ ni poznan
 Testna statistika je sedaj: $$T=\frac{\overline x-\mu^*}{\frac{s}{\sqrt n}}$$
 
 Naj bo $t_p (df)$ p-kvantil Studentove porazdelitve pri stopnji prostosti $df$ .  
-Pri stopnji značilnosti α ni ˇcelno hipotezo H0 : μ = μ∗ zavrnemo  
-⋄ v korist alternativne hipoteze H+  
-1 : μ > μ∗ kadar T > t1−α(df )  
-⋄ v korist alternativne hipoteze H−1 : μ < μ∗ kadar T < −t1−α(df )  
-⋄ v korist alternativne hipoteze H1 : μ ,μ∗ kadar |T |> t1−α/2(df)
+Pri stopnji značilnosti α ničelno hipotezo $H_0 : μ = μ^∗$ zavrnemo  
+- v korist alternativne hipoteze 
+	$H_1^+ : μ > μ^∗$ kadar $T > t_{1−α}(df)$  
+- v korist alternativne hipoteze 
+	$H_1^- : μ < μ^∗$ kadar $T < −t_{1−α}(df )$  
+- v korist alternativne hipoteze 
+	$H_1 : μ ,μ∗$ kadar $|T |> t_{\frac{1−α}{2}}(df)$
+	
+	Prag zavrnitve razberemo iz tabele (Table of critical values for Student's t distributions)
+	
