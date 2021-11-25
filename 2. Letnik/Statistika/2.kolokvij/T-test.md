@@ -103,6 +103,18 @@ Pri stopnji značilnosti α = 0.05 testirajmo ničelno hipotezo, da je povprečj
 $H_0:\mu_x-\mu_y=0$
 $H_1:\mu_x-\mu_y\ne0$
 Testna statistika je:
-$t=\frac{(\overline x-\overline)}{}$
+$$t=\frac{(\overline x-\overline y)-(\mu_x^*-\mu_y^*)}{\frac{s}{\sqrt n}}=\frac{\overline d}{\frac{s}{\sqrt n}}$$
+
+kjer je $\overline d = \overline x - \overline y$, po ničelni hipotezi pa je $\mu_x^*-\mu_y^*=0$
+imamo $\overline d=2.3$ in
+$s^2= 196.6$
+torej
+$s=14.02$
+
+Sledi:
+$$t=\frac{2.3}{\frac{14.02}{\sqrt 7}}=0.43$$
+
+Ker je df = 6, za α = 0.05 dobimo prag zavrnitve ±2.447. H0 torej ne  
+zavrnemo (odstopanja niso statisti ˇcno zna ˇcilna
 
 ```
