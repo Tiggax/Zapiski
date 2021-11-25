@@ -60,3 +60,6 @@ H−1 : μ < 100 cm.
 Testno statistiko moramo sedaj primerjati z vrednostjo  
 −z0.99 = −2.33, kar pomeni da H0 ne moremo zavrniti v korist H−1 .
 ```
+
+^328325
+

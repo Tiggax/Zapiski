@@ -31,5 +31,19 @@ Pri stopni značilnosti $\alpha=0.1$ testirajmo ničelno hipotezo
 $H_0:\mu = 100cm$
 
 od zadnjič vemo:
-- $\overline x =$
+- $\overline x =97cm$
+- $s =5cm$
+- testna statistika je: $t=-1.8$ (glej [[Intervalsko ocenjevanje in testiranje statističnih domnev#^328325]])
+
+- stopnja prostosti je $df=n-1=8$
+
+---
+
+- $H_1 : μ\ne 100$  
+	Iz tabele razberemo prag zavrnitve t0.95 = 1.86. H0 torej ne zavrnemo v korist $H_1$ (odstopanja niso statistično značilna).  
+- $H_1^- : μ < 100$  
+	Prag zavrnitve je sedaj −t0.9 = −1.397. H0 torej zavrnemo v korist $H_1$ (odstopanja so statistično značilna)
+	
+
+## Ali se zadnji sklep spremeni, če α = 0.05?
 ```
