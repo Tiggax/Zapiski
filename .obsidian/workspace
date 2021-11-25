@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/2.kolokvij/vaje-25-11-2021.md",
+            "file": "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/B. Kolokvij.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/2.kolokvij/vaje-25-11-2021.md",
+                "file": "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/B. Kolokvij.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "501447aa3f9f83f8",
   "lastOpenFiles": [
+    "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/B. Kolokvij.md",
     "2. Letnik/Statistika/2.kolokvij/vaje-25-11-2021.md",
     "2. Letnik/Statistika/2.kolokvij/T-test.md",
     "2. Letnik/Statistika/2.kolokvij/Untitled.md",
@@ -121,7 +122,6 @@
     "Predefined.md",
     "2. Letnik/Statistika/1.kolokvij/primeri, Vaje 5.md",
     "2. Letnik/Statistika/1.kolokvij/kolokvij.md",
-    "2. Letnik/Statistika/1.kolokvij/Indeksi.md",
-    "2. Letnik/Statistika/1.kolokvij/Formule.md"
+    "2. Letnik/Statistika/1.kolokvij/Indeksi.md"
   ]
 }
