@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "10c18413a36c2f5f",
+        "id": "501447aa3f9f83f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -111,9 +111,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10c18413a36c2f5f",
+  "active": "501447aa3f9f83f8",
   "lastOpenFiles": [
     "2. Letnik/Statistika/2.kolokvij/Intervalsko ocenjevanje in testiranje statističnih domnev.md",
+    "Predefined.md",
     "2. Letnik/Statistika/1.kolokvij/primeri, Vaje 5.md",
     "2. Letnik/Statistika/1.kolokvij/kolokvij.md",
     "2. Letnik/Statistika/1.kolokvij/Indeksi.md",
@@ -121,7 +122,6 @@
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/prvo predavanje.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/Untitled Diagram.svg",
-    "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md"
+    "2. Letnik/Podatkovne strukture in algoritmi/Untitled Diagram.svg"
   ]
 }
