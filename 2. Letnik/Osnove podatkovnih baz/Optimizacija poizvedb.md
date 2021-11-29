@@ -23,6 +23,18 @@ Drevo iteratorjev:
 - na rezultatih otrok operacija izvaja svojo kodo
 - rezultate pošilja staršem(zapis po zapis ali blok zapisov)
 
-
-## Drevo operacij RA (brez algoritmov)
+S tem dobim **drevesno strukturiran cevovod** po katerem se pretakajo n-terice
+	- na nekaterih mestih pretok začasno ustavi zaradi materializacije tabel.
+### Drevo operacij RA (brez algoritmov)
 ![[Screenshot_20211129_084025.png]]
+### Drevo operacij RA (z izbranimi algoritmi)
+![[Screenshot_20211129_084834.png]]
+
+## Optimizacija drevesa operacij
+kako?
+**logična:**
+**Fizična:**
+## Prevajanje SQL v relacijsko algebro
+Dekompozicija poizvedbe v bloke
+- celoten SQL stavek se razdeli v bloke
+- zakl
