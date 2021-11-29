@@ -37,4 +37,15 @@ kako?
 ## Prevajanje SQL v relacijsko algebro
 Dekompozicija poizvedbe v bloke
 - celoten SQL stavek se razdeli v bloke
-- zakl
+- zaključeni SQL bloki se obravnavajo kot procedure
+- **posledica:** vgnezdeni bloki se kličejo ob vsaki iteraciji v nadrejenem bloku.
+
+## Ocena plana izvajanja
+Rezultat je vedno približek!
+Statistika shranjena v sistemskih katalogih
+- za oceno hitrosti izvajanja plana izvedbe
+- za oceno velikosti vmesnih rezultatov
+Cene posameznih operacij smo si ogledali na  prejšnem predavanju
+- sekvenčni pregled, indeksnu pregled, stuik z zanko, stik z indeksom, i.t.d.
+
+Pri oceni se uporabi cena CPU in I/O
