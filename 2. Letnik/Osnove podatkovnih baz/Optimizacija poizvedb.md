@@ -49,3 +49,5 @@ Cene posameznih operacij smo si ogledali na  prejšnem predavanju
 - sekvenčni pregled, indeksnu pregled, stuik z zanko, stik z indeksom, i.t.d.
 
 Pri oceni se uporabi cena CPU in I/O
+- v naših ocenah delamo samo s številom diskovnih blokov
+- v zadnjih letih je vedno več procesiranja podatkov v RAM
