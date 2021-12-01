@@ -166,4 +166,7 @@ end
 
 # Naloga 3
 dobra zgoščevalna funkcija 
-$$\forall k \in U$$
+$$(\forall k \in U)(\forall i\in\{0,...,m-1\}:P(h(k)=i))=\frac{1}{m}$$
+peter zamuda je našel funkcijo $Zmelji(k)$, ki vzame celo število $k$ in ga preslika na celoštevilski interval od 0 do $m$ $[0,m)$. Poleg tega ve da je $Zmelji(k)$ dobra zgoščevalna funkcija.
+
+1.	Peter želi uporabiti $Zmelji(k)$ za implementacijo slovarja na polju $A[0,...,n-1]$ predpostavi da je n=m. problem je **soupadanje**. Zapiši pseudokodo za vstavljanje in iskanje z uporaba
