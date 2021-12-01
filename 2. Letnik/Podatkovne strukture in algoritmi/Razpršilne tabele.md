@@ -19,8 +19,24 @@ Kako lahko tabelo(polje) podamo kot slovar?
  
  
  # naloga 1
- vstavi ključe v razpršilno tabelo dolžine $m=5$ z uporabo verišenja, pri čemer je razpršilna funkcija $h(k)=(13k)\ mod\ m$
- 
+ vstavi ključe v razpršilno tabelo dolžine $m=5$ z uporabo verišenja, pri čemer je razpršilna funkcija $h(k)=(13k)\ mod\ m$. 
+  
  | 10  | 22  | 31  | 4   | 15  | 28  | 17  | 88  | 59  | 
  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+>$$h(10)=\ 130\ mod\ 5$$
+>$$h(10)=0$$
+
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10  |     |     |     |     |     |     |     |     |     |     |
+
+>$$h(22)=13*22\ mod 5$$
+>$$h(22)=1$$
+>$h()=$
+
+Poišči absolutno in povprečno število dostopov do P.S. 
+>
+
+Poišči min in MAX števolo dostopov pri vstavljanju nekega ključa.
+>
