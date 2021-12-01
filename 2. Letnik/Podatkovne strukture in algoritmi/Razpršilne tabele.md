@@ -163,3 +163,7 @@ end
 | 19                         | 1,9       | 1   | 5   | 
 5. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
 	$h''(k)=1+(k\ mod\ (m-1)$
+
+# Naloga 3
+dobra zgoščevalna funkcija 
+$$\forall k \in U$$
