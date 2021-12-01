@@ -147,16 +147,19 @@ end
 subgraph b[<br>]
 00-->22
 01
-02
+02-->88
 03-->17
 04-->4
 05
 06-->28
-07
+07-->59
 08-->15
 09-->31
 10-->010[10]
 end
 ```
+| absolutno število dostopov | povprečno | min | MAX |
+| -------------------------- | --------- | --- | --- |
+| 19                         | 1,9       | 1   | 5   | 
 5. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
 	$h''(k)=1+(k\ mod\ (m-1)$
