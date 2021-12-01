@@ -108,8 +108,13 @@ subgraph b[<br>]
 10-->010[10]
 end
 ```
+| absolutno število dostopov | povprečno | min | MAX |
+| -------------------------- | --------- | --- | --- |
+| 16                         | 1,7       | 1   | 5   | 
 
-
+pri brisanju: npr briši(15)
+>izračunaš, dobiš 4 greš tje ga ni. grem naslednji. je 15 brišem. potrebujemo še povedati da sem na tem polju brisal
+>ob vstavljanu potem vemo da je bilo zafilano in zato prej poiščem še naprej če je element že vsebovan.
 3. kvadratično naslavljanje: $h(k,i)=(h'(k)+i+3i^2)\ mod\ m$
 4. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
 	$h''(k)=1+(k\ mod\ (m-1)$
