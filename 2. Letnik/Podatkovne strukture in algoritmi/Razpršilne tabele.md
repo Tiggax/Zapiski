@@ -47,7 +47,7 @@ subgraph a[hash table]
 3
 4
 end
-subgraph b[<di>vrednosti]
+subgraph b[<br>]
 0-->10-->15
 1-->22-->17
 2-->04-->59
@@ -57,7 +57,8 @@ end
 ```
 
 Poišči absolutno in povprečno število dostopov do P.S. 
->
+> absolutno je 13 dostopov
+> povprečno pa je $\frac{13}{9}=1,4$
 
 Poišči min in MAX števolo dostopov pri vstavljanju nekega ključa.
->
+> minimalno je 1 dostop maksimalno pa je 2.
