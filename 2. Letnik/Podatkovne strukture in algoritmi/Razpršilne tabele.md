@@ -18,6 +18,7 @@ Kako lahko tabelo(polje) podamo kot slovar?
  To rešujemo z **Veriženjem** in **naslavljanjem**.
  
  
+ 
  # naloga 1
  vstavi ključe v razpršilno tabelo dolžine $m=5$ z uporabo verišenja, pri čemer je razpršilna funkcija $h(k)=(13k)\ mod\ m$. 
   
@@ -114,7 +115,11 @@ end
 
 pri brisanju: npr briši(15)
 >izračunaš, dobiš 4 greš tje ga ni. grem naslednji. je 15 brišem. potrebujemo še povedati da sem na tem polju brisal
->ob vstavljanu potem vemo da je bilo zafilano in zato prej poiščem še naprej če je element že vsebovan.
+>ob vstavljanu potem vemo da je bilo zafilano in zato prej poiščem še naprej če je element že vsebovan. v ta namen je dobro dodati neko polje recimo isDeleted ki vsebuje 0 ali 1 / true ali false i.t.d. da vemo ali smo na tem polju kdaj imeli elemente -> se nek drug element ni mogel vstaviti.
+
+ko iščemo:
+> iščemo samo do prvega praznega polja, kjer nato vemo da elementa ni.
+
 3. kvadratično naslavljanje: $h(k,i)=(h'(k)+i+3i^2)\ mod\ m$
 4. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
 	$h''(k)=1+(k\ mod\ (m-1)$
