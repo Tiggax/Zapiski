@@ -188,4 +188,7 @@ return false
 $Zmelji(k)$
 >$$(\forall k\in \mathbb{Z})(\forall i\in\{0,...,m-1\}:P(Zmelji(k)=i))=\frac{1}{m}$$
 >$$h'(k)=\frac{Zmelji(k)}{m}*n$$
->P()
+>$$P(h'(k))=i=P(Zmelji(k)*\frac{n}{m})$$
+>$$=P(Zmelji(k)\frac{n}{m}=i)$$
+>$$=P(Zmelji(k)=\frac{1}{m}*\frac{m}{n})$$
+>$$=P(Zmelji(k)=\frac{1}{-m-}*\frac{-m-}{n})$$
