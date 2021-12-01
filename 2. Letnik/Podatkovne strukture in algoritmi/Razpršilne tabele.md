@@ -121,5 +121,42 @@ ko iščemo:
 > iščemo samo do prvega praznega polja, kjer nato vemo da elementa ni.
 
 3. kvadratično naslavljanje: $h(k,i)=(h'(k)+i+3i^2)\ mod\ m$
-4. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
+
+>h(10,0)=10
+>h(22,0)=0
+>...
+>h(15,0)-> zafilan
+>gremo iskat za i=1
+>h(15,1)=8
+
+```mermaid
+graph TD
+subgraph a[hashtable]
+00
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+end
+subgraph b[<br>]
+00-->22
+01
+02
+03-->17
+04-->4
+05
+06-->28
+07
+08-->15
+09-->31
+10-->010[10]
+end
+```
+5. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
 	$h''(k)=1+(k\ mod\ (m-1)$
