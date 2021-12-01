@@ -54,6 +54,7 @@ subgraph b[<br>]
 3-->31
 4-->28-->88
 end
+
 ```
 
 Poišči absolutno in povprečno število dostopov do P.S. 
@@ -62,3 +63,12 @@ Poišči absolutno in povprečno število dostopov do P.S.
 
 Poišči min in MAX števolo dostopov pri vstavljanju nekega ključa.
 > minimalno je 1 dostop maksimalno pa je 2.
+
+# naloga 2
+vstavi ključ v razpršilno tabelo dolžine $m=11$. z uporabo odprtega naslavljanja z funkcijo $h'(k)=k$
+
+ | 10  | 22  | 31  | 4   | 15  | 28  | 17  | 88  | 59  | 
+ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+1. linearno naslavljanje: $h(k,i)=(h'(k)+1)\mod m$
+2. kvadratično naslavljanje: $h($
