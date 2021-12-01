@@ -70,5 +70,37 @@ vstavi ključ v razpršilno tabelo dolžine $m=11$. z uporabo odprtega naslavlja
  | 10  | 22  | 31  | 4   | 15  | 28  | 17  | 88  | 59  | 
  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-1. linearno naslavljanje: $h(k,i)=(h'(k)+1)\mod m$
-2. kvadratično naslavljanje: $h($
+$(i=0,...,m-1)$
+1. linearno naslavljanje: $h(k,i)=(h'(k)+1)\mod\ m$
+```mermaid
+graph TD
+subgraph a[hash table]
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+end
+subgraph b[<br>]
+0-->
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10-->010
+end
+```
+3. kvadratično naslavljanje: $h(k,i)=(h'(k)+i+3i^2)\ mod\ m$
+4. Dvojno naslavljanje:  $h(k,i)=(h'(k)+i+h''(k))\ mod\ m$
+	$h''(k)=1+(k\ mod\ (m-1)$
