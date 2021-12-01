@@ -33,7 +33,28 @@ Kako lahko tabelo(polje) podamo kot slovar?
 
 >$$h(22)=13*22\ mod 5$$
 >$$h(22)=1$$
->$h()=$
+>$h(31)=3$
+>$h(4)=2$
+>$h(15)=0$
+> . . . 
+
+```mermaid
+graph TD
+subgraph a[hash table]
+0
+1
+2
+3
+4
+end
+subgraph b[vrednosti]
+0-->10---15
+1-->22---17
+2-->04-->59
+3-->31
+4-->28-->88
+end
+```
 
 Poišči absolutno in povprečno število dostopov do P.S. 
 >
