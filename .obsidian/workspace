@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "2. Letnik/Statistika/2.kolokvij/vaje-02-12-2021.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -103,12 +103,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "501447aa3f9f83f8",
   "lastOpenFiles": [
