@@ -133,7 +133,7 @@ k se je vstavil, je blo polno šel na naslednje
 | k   | $k^1$ | -   | $k^3$ | $k^4$ |
 | --- | ----- | --- | ----- | ----- |
 
-poiskal bo šel bo$k^2$ do mesta videl da je prazen, zato vedel da ga ni več. neki v tej smeri je šou, nisem poslušu neki.
+poiskal bo šel bo $k^2$ do mesta videl da je prazen, zato vedel da ga ni več. neki v tej smeri je šou, nisem poslušu neki.
 
 ##### Zahtevnost
 | x                 | Find          | Insert        | Delete        |
@@ -169,7 +169,7 @@ x: $h(x)=i$;$h(x)=j$
 Find(z): $h(z)=i$;$h(z)=l$-> ni notri ker oba nista 1
 Find(t):$h(t)=j$;$h(y)=k$-> false pozitive
 
-**Bloomov filter**
+# **Bloomov filter**
 namesto da je le 0 ali 1 delamo prištevke:
 
 |     |     |     | 1   | 3   |     | 1   |     | 1   |     |
