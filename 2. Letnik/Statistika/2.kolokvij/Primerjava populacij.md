@@ -34,4 +34,11 @@ $$T =\frac{(\overline X_1-\overline X_2)-(\mu_1-\mu_2)}{s_{skupni} \sqrt{(\frac{
 je studentova porazdelitev s stopnjami prostosti $$df= n_1+n_2-2$$
 
 ne razlikujeta se preveč kadar konkretno:
-$$\frac{max(s_1-)}{}$$
+$$\frac{max(s_1^2,s_2^2)}{min(s_1^2,s_2^2)}<2$$
+če je večje od 2:
+potem nista enaki in uporabimo studentovo porazdelitev:
+>$$T=\frac{(\overline X_1-\overline X_2)-(\mu_1-\mu_2)}{ \sqrt{(\frac{s_1^2}{n_1}+\frac{s_2^2}{n_2})}}$$
+>ki ima stopnjo prostosti:
+>$$df=min(n_1 -1, n_2-1)$$
+
+## Primerjava Bernulijevih verjetnosti
