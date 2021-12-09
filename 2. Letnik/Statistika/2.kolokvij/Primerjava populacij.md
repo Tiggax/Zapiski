@@ -29,4 +29,9 @@ kadar populacijskih varianc ne poznamo, ju je potrebno	oceniti iz vzorcev:
 
 če se vzorčni varianci ne razlikoujeta preveč, lahko domnevamo, da sta populacijski varianci enaki in vzorčni varianci zamenjamo z povprečno (skupno) varianco:
 $$s_{skupna}^2=\frac{s_1^2+s_2^2}{2}$$
-prav tako:
+potem sledi:
+$$T =\frac{(\overline X_1-\overline X_2)-(\mu_1-\mu_2)}{s_{skupni} \sqrt{(\frac{1}{n_1}+\frac{1}{n_2})}}$$
+je studentova porazdelitev s stopnjami prostosti $$df= n_1+n_2-2$$
+
+ne razlikujeta se preveč kadar konkretno:
+$$\frac{max(s_1-)}{}$$
