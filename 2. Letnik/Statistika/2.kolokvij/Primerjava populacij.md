@@ -42,3 +42,12 @@ potem nista enaki in uporabimo studentovo porazdelitev:
 >$$df=min(n_1 -1, n_2-1)$$
 
 ## Primerjava Bernulijevih verjetnosti
+Sedaj ˇzelimo primerjati verjetnost nekega dogodka v dveh populacijah  
+(t.j. vrednosti Bernoullijevih verjetnosti), npr.  
+- verjetnost kalitve dveh sort  
+- odstotek uˇcinkovitosti zdravila pri moˇskih in ˇzenskah  
+- itd
+![[Screenshot_20211209_091209.png]]
+![[Screenshot_20211209_091236.png]]
+![[Screenshot_20211209_091319.png]]
+![[Screenshot_20211209_091350.png]]
