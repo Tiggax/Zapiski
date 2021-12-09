@@ -61,3 +61,4 @@ Npr.:
 - primerjamo teˇzo pred in po dieti  
 - itd.
 
+![[Screenshot_20211209_094100.png]]
