@@ -21,4 +21,7 @@ $$\overline X_1 - \overline X_2 \approx N(\mu_1-\mu_2,\sigma^2(\frac{1}{n_1}+\fr
 >in torej:
 >$$Z=\frac{(\overline X_1-\overline X_2)-(\mu_1-\mu_2)}{\sigma \sqrt{(\frac{1}{n_1}+\frac{1}{n_2})}}\approx N(0,1)$$
 
-kadar populacijskih varianc ne poznamo, ju je potrebno	
+kadar populacijskih varianc ne poznamo, ju je potrebno	oceniti iz vzorcev:
+>naj bodo $x_{1,1},x_{1,2},...,x_{1,n_1}$ vrednosti naključnega vzorca velikosti $n_1$ iz prve populacije in $\overline x_1$ vzorčno povprečje.
+>**Nepristranska ocena za varianco** prve populacije je:
+>$$s_1^2=\frac{}{}$$
