@@ -51,3 +51,13 @@ Sedaj ˇzelimo primerjati verjetnost nekega dogodka v dveh populacijah
 ![[Screenshot_20211209_091236.png]]
 ![[Screenshot_20211209_091319.png]]
 ![[Screenshot_20211209_091350.png]]
+
+# Odvisna vzorca
+Pri neodvisnih vzorcih informacija prvega vzorca ni povezana z drugim  
+vzorcem. Sedaj obravnavamo primer odvisnih vzorcev, ko je vsaka enota  
+iz prve populacije v paru z enoto iz druge populacije.  
+Npr.:  
+- primerjamo znanje angleˇskega jezika ˇstudentov pred in po teˇcaju  
+- primerjamo teˇzo pred in po dieti  
+- itd.
+
