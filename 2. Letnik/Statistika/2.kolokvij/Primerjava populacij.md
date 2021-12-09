@@ -24,4 +24,9 @@ $$\overline X_1 - \overline X_2 \approx N(\mu_1-\mu_2,\sigma^2(\frac{1}{n_1}+\fr
 kadar populacijskih varianc ne poznamo, ju je potrebno	oceniti iz vzorcev:
 >naj bodo $x_{1,1},x_{1,2},...,x_{1,n_1}$ vrednosti naključnega vzorca velikosti $n_1$ iz prve populacije in $\overline x_1$ vzorčno povprečje.
 >**Nepristranska ocena za varianco** prve populacije je:
->$$s_1^2=\frac{}{}$$
+>$$s_1^2=\frac{1}{n_1-1}\sum_{j=1}^{n_1}(x_{1,j}-\overline x_1)^2$$
+>podobno za drugo naredimo. 
+
+če se vzorčni varianci ne razlikoujeta preveč, lahko domnevamo, da sta populacijski varianci enaki in vzorčni varianci zamenjamo z povprečno (skupno) varianco:
+$$s_{skupna}^2=\frac{s_1^2+s_2^2}{2}$$
+prav tako:
