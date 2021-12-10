@@ -23,3 +23,4 @@ gradnja pravila:
 ```
 
 # Prekrivni algoritem
+
