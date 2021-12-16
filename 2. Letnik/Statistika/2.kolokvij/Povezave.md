@@ -34,9 +34,16 @@ predstavimo jo z $\ovearched Y= a + bX$
 ### Kvocient determinacije
 regresijski modeli različno dobro zajemajo dane podatke. ena od mer kvalitete regresijskega modela je **kvocient determinacije**. pišemo $y_i-\overline y=(\overarch y_i - \overline y)+(\overline y - \overarch y_i)$
 >prvi del je odstopanje podatka $y_i$ od povprečja, drugi del pa je odstopanje napovedi vrednosti od povprečja, ttretji del pa je odstopanje $y_i$ od napovedi z regresijsko premico.
+
+$$\sum_{i=1}^n(y_i-\overline y)^2=\sum_{i=1}^n(\overarch y_i - \overline y)^2+\sum_{i=1}^n(\overline y - \overarch y_i)^2$$
+**Kvocient determinacije** je razmerje:
+>$$r^2=\frac{\sum_{i=1}^n(\overarch y_i - \overline y)^2}{\sum_{i=1}^n(y_i-\overline y)^2}=\frac{\sum_{i=1}^n\overarch y_i^2 - n\overline y^2}{\sum_{i=1}^n(y_i-\overline y)^2}$$
+
+
 ![[Screenshot_20211216_090059.png]]
->Koeficient determinacije izraˇza deleˇz variabilnosti odvisne spremenljivke,  
+>Koeficient determinacije izraža delež variabilnosti odvisne spremenljivke,  
 ki je pojasnjen z regresijskim modelom.
+
 
 
 
