@@ -32,7 +32,12 @@ predstavimo jo z $\ovearched Y= a + bX$
  intepretacija podatkov regresijske premice
 
 ### Kvocient determinacije
-regresijski modeli različno dobro zajemajo dane podate
+regresijski modeli različno dobro zajemajo dane podatke. ena od mer kvalitete regresijskega modela je **kvocient determinacije**. pišemo $y_i-\overline y=(\overarch y_i - \overline y)+(\overline y - \overarch y_i)$
+>prvi del je odstopanje podatka $y_i$ od povprečja, drugi del pa je odstopanje napovedi vrednosti od povprečja, ttretji del pa je odstopanje $y_i$ od napovedi z regresijsko premico.
+![[Screenshot_20211216_090059.png]]
+>Koeficient determinacije izraˇza deleˇz variabilnosti odvisne spremenljivke,  
+ki je pojasnjen z regresijskim modelom.
+
 
 
 
