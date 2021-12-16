@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 15-12-2021.md",
+            "file": "2. Letnik/Statistika/2.kolokvij/Povezaver.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 15-12-2021.md",
+                "file": "2. Letnik/Statistika/2.kolokvij/Povezaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "16d4ef76e7774ff8",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/2.kolokvij/Povezaver.md",
+    "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
+    "2. Letnik/Podatkovne strukture in algoritmi/Untitledbb.md",
+    "2. Letnik/Statistika/2.kolokvij/vaje-02-12-2021.md",
+    "2. Letnik/Statistika/2.kolokvij/vaje-25-11-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 15-12-2021.md",
     "Untitled Diagram.svg",
     "2. Letnik/Statistika/1.kolokvij/Vzorčenje.md",
     "2. Letnik/Podatkovne strukture in algoritmi/Predavanje.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/preskočni seznami.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
-    "2. Letnik/Osnove podatkovnih baz/2. domača naloga.md",
-    "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
-    "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Klasifikacijski algoritmi - Odločitvena pravila.md",
-    "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/Wekatime.md"
+    "2. Letnik/Podatkovne strukture in algoritmi/preskočni seznami.md"
   ]
 }
