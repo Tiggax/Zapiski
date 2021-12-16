@@ -16,7 +16,9 @@ series:
 - title: "y"
 data: [3,4,5,6,7,8,8]
 ```
+predstavimo jo z $\ovearched Y= a + bX$
 
+ s tem iščemo **regresijsko premico** $$\overarch Y=a+bX$$, ki se najbolje prilega podatkom. to pomeni, da morajo biti odkloni $y_i-\overarch Y$ od premice čim manjši. ker so +- je smiselno pogledati kvadrirane odklone, in premico dloločimo tako, da je **vsota kvadriranih odklon**
 
 
 
