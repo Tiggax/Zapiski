@@ -4,8 +4,9 @@
 # Pearsonov
 par slučajnih spremenljivk $(X,Y)$, ki je porazdeljen po **dvorasežni normalni porazdelitivi** $$N(\mu_x,\mu_y,\sigma_x,\sigma_y,\rho)$$
 ima funkcijo gostote:
-$$f(x,y)=$$#TODO 11/3sld
+![[Screenshot_20211223_092257.png]]
 
+število $\rho$ je **koeficient korelacije**. zanj velja:
 
 # Spearmanov
 temelji na šibkejši predpostavki o monotoni povezavi.
