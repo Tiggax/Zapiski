@@ -7,6 +7,7 @@ ima funkcijo gostote:
 $$f(x,y)=$$#TODO 11/3sld
 
 
+# Spearmanov
+temelji na šibkejši predpostavki o monotoni povezavi.
 
-
-
+**Ideja:** podatke nadomestimo z njihovimi rangi, in izračunamo Pearsonov koficient korelacije na rangih.
