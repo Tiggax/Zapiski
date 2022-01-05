@@ -69,8 +69,27 @@ HAVING E.dno=22
 ```
 >```sql
 SELECT AVG (E.sal)  
-FROM Employee E  
-GROUP BY E.dno  
-HAVING E.dno=22
+FROM Employee E   
+WHERE E.dno=22
 
+6.
+sid je tuj ključ relacije Reserves, ki kaže na relacijo Sailors:  
+```sql
+SELECT S.sid  
+FROM Sailors S, Reserves R  
+WHERE S.sid=R.sid
+```
+>```sql
+SELECT R.sid  
+FROM Reserves R  
+WHERE R.sid
+
+X.
+Na voljo ni nobenega indeksa:    
+```sql
+```
+>```sql
+SELECT AVG (E.sal)  
+FROM Employee E   
+WHERE E.dno=22
 
