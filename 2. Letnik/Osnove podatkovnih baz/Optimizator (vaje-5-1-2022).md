@@ -82,14 +82,4 @@ WHERE S.sid=R.sid
 >```sql
 SELECT R.sid  
 FROM Reserves R  
-WHERE R.sid
-
-X.
-Na voljo ni nobenega indeksa:    
-```sql
-```
->```sql
-SELECT AVG (E.sal)  
-FROM Employee E   
-WHERE E.dno=22
-
+WHERE R.sid IS NOT NULL;
