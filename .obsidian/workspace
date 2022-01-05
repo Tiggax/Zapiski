@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "16d4ef76e7774ff8",
+        "id": "75c89a078c075e40",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,9 +113,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "16d4ef76e7774ff8",
+  "active": "75c89a078c075e40",
   "lastOpenFiles": [
     "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
+    "2. Letnik/Osnove podatkovnih baz/Untitled.md",
     "2. Letnik/Osnove podatkovnih baz/2. domača naloga.md",
     "2. Letnik/Osnove podatkovnih baz/Draft.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 22-12-2021.md",
@@ -123,7 +124,6 @@
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 8-12-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
     "2. Letnik/Statistika/2.kolokvij/Korelacija.md",
-    "2. Letnik/Statistika/2.kolokvij/Povezave.md",
-    "2. Letnik/Statistika/2.kolokvij/Intervalsko ocenjevanje in testiranje statističnih domnev.md"
+    "2. Letnik/Statistika/2.kolokvij/Povezave.md"
   ]
 }
