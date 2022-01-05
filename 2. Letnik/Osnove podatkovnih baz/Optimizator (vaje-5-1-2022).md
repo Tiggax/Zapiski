@@ -40,7 +40,37 @@ WHERE E.age BETWEEN 11 AND 19:
 Indeks je na voljo na atributu age:  
 ```sql
 SELECT E.eIno  
-FROM Enlployee E  
+FROM Employee E  
 WHERE 2*E.age<20
 ```
-> 
+> ```sql
+SELECT E.dno  
+FROM Enployee E  
+WHERE 2*E.age<10;
+> ```
+
+4.
+Na voljo ni nobenega indeksa:  
+```sql
+SELECT DISTINCT *  
+FROM Employee
+```
+>```sql
+SELECT  *  
+FROM Employee
+
+5.
+Na voljo ni nobenega indeksa:    
+```sql
+SELECT AVG (E.sal)  
+FROM Employee E  
+GROUP BY E.dno  
+HAVING E.dno=22
+```
+>```sql
+SELECT AVG (E.sal)  
+FROM Employee E  
+GROUP BY E.dno  
+HAVING E.dno=22
+
+
