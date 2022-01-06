@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
+            "file": "2. Letnik/Statistika/2.kolokvij/vaje-5-1-2022.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
+                "file": "2. Letnik/Statistika/2.kolokvij/vaje-5-1-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "75c89a078c075e40",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/2.kolokvij/vaje-5-1-2022.md",
+    "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
     "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
     "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/B. Kolokvij.md",
@@ -122,8 +124,6 @@
     "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
     "2. Letnik/Osnove podatkovnih baz/Untitled.md",
     "2. Letnik/Osnove podatkovnih baz/2. domača naloga.md",
-    "2. Letnik/Osnove podatkovnih baz/Draft.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 22-12-2021.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 15-12-2021.md"
+    "2. Letnik/Osnove podatkovnih baz/Draft.md"
   ]
 }
