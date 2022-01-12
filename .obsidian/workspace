@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75c89a078c075e40",
+        "id": "96c6a41c670c4d47",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -111,7 +111,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "75c89a078c075e40",
+  "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 12-1-2022.md",
     "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
