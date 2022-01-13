@@ -13,7 +13,7 @@
   "foldersIncluded": "",
   "sortOrder": "asc",
   "addSquareBrackets": true,
-  "embedSubIndex": false,
+  "embedSubIndex": true,
   "templateFile": "",
   "frontMatterSeparator": "---"
 }
