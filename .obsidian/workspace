@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/2.kolokvij/_Index_of_2.kolokvij.md",
-            "mode": "preview",
+            "file": "2. Letnik/Osnove podatkovnih baz/Untitled.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/2.kolokvij/_Index_of_2.kolokvij.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,16 +103,25 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2c64de4b8c666bdc",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
+    "2. Letnik/Osnove podatkovnih baz/Untitled.md",
     "2. Letnik/Statistika/2.kolokvij/_Index_of_2.kolokvij.md",
     "_Index_of_Zapiski.md",
     "2. Letnik/Statistika/_Index_of_Statistika.md",
@@ -121,7 +130,6 @@
     "Excalidraw/_Index_of_Excalidraw.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md",
     "index.md",
-    "2. Letnik/Osnove podatkovnih baz/_Index_of_Osnove podatkovnih baz.md",
-    "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md"
+    "2. Letnik/Osnove podatkovnih baz/_Index_of_Osnove podatkovnih baz.md"
   ]
 }
