@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 12-1-2022.md",
+            "file": "2. Letnik/Statistika/2.kolokvij/Povezanost intervalske in imenske  spremenljivke.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 12-1-2022.md",
+                "file": "2. Letnik/Statistika/2.kolokvij/Povezanost intervalske in imenske  spremenljivke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
   },
   "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
+    "2. Letnik/Statistika/2.kolokvij/Povezanost intervalske in imenske  spremenljivke.md",
+    "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 12-1-2022.md",
     "2. Letnik/Podatkovne strukture in algoritmi/1. Domača naloga.md",
     "2. Letnik/Osnove podatkovnih baz/3. Domača Naloga.md",
     "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "2. Letnik/Statistika/2.kolokvij/vaje-5-1-2022.md",
-    "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
     "2. Letnik/Osnove strojnega učenja in podatkovnega rudarjenja/B. Kolokvij.md",
-    "2. Letnik/Osnove podatkovnih baz/Optimizator (vaje-5-1-2022).md",
-    "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md"
+    "2. Letnik/Osnove podatkovnih baz/Optimizator (vaje-5-1-2022).md"
   ]
 }
