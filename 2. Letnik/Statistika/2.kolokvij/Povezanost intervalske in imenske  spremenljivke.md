@@ -7,4 +7,10 @@ $$\overline\mu_i=\frac{x_{i1}+...+x_{in_i}}{n_i}$$
 aritmetične sredine po posameeznih skupinah
 
 Aritmetično sredino celotne množice lahko sedaj zapišemo kot tehtano povprečje aritmetičnih sredin skupin:
-$$\overline\mu=\frac{n_1}{n}\overline\mu_1+...+\frac{n_1}{n}\overline\mu_k$$
+$$\overline\mu=\frac{n_1}{n}\overline\mu_1+...+\frac{n_k}{n}\overline\mu_k$$
+	slide 5-> kdaj bo $\upeta ^2=0 \Rightarrow \sigma^2_B=0$
+	
+	
+
+
+	
