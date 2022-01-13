@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
+    "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
+    "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
+    "2. Letnik/Statistika/2.kolokvij/vaje-5-1-2022.md",
     "Index.md",
     "2. Letnik/Osnove podatkovnih baz/2. domača naloga.md",
     "2. Letnik/Osnove podatkovnih baz/3. Domača Naloga.md",
     "2. Letnik/Osnove podatkovnih baz/1. Domača naloga.md",
     "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
     "Predefined.md",
-    "2. Letnik/Statistika/2.kolokvij/Povezanost intervalske in imenske  spremenljivke.md",
-    "Untitled Diagram.svg",
-    "Untitled Diagram 1.svg",
-    "2. Letnik/Statistika/2.kolokvij/Interval zaupanja.md"
+    "2. Letnik/Statistika/2.kolokvij/Povezanost intervalske in imenske  spremenljivke.md"
   ]
 }

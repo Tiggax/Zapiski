@@ -11,4 +11,4 @@
 - [[Optimizator (vaje-5-1-2022)]]
 - [[Pojmi]]
 - [[2. Letnik/Osnove podatkovnih baz/Untitled|Untitled]]
-- [[vaje]]
+- [[2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022|vaje 5-1-2022]]
