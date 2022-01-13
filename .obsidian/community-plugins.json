@@ -9,5 +9,9 @@
   "obsidian-nomnoml-diagram",
   "drawio-obsidian",
   "obsidian-pandoc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "quick-latex",
+  "zoottelkeeper-obsidian-plugin",
+  "folder-note-plugin"
 ]
