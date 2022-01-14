@@ -133,6 +133,10 @@ $k=3$
 | 300 |     | -   | o   | y   | NE  | 
 evklidska razdalja
 $\sqrt{(A_{2_i}-A_{2_j})^2+(A_{3_i}-A_{3_j})^2+(A_{4_i}-A_{4_j})^2+(R_i-R_j)^2}$
+od podatko gre po vrsti razdalja:
+> $1,0,2,\sqrt{2},\sqrt{2},\sqrt{3},\sqrt{3},\sqrt{2},2,\sqrt{2},1$
 
+vzamemo: $100,101 in 110$
+$$\frac{2000,00+2004,151+2008,635}{3}=2004,262$$
 
 # 5 naloga
