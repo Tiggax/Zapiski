@@ -60,12 +60,22 @@ if(A4 == n) and
 ```
 if(A4 == n) and (A3 == x) AND
 ```
-| A2     | +   |     |
+
+| A2     | +   | 1/3 |
 | ------ | --- | --- |
-| A2     | -   |     |
-| skupaj | --- | 2/4 | 
+| A2     | -   | 1/1 | 
+| skupaj | --- | 2/4 |
 
+```
+if(A4 == n) and (A3 == x) AND (A2 == -) then: NE
+```
 
+---
+
+lahko se zgodi da sta dve izbiri enaki dobri, takrat je vseeno katerga damo
 # 3 naloga
+## clustering
+razvrščanje v skupine
+
 # 4 naloga
 # 5 naloga
