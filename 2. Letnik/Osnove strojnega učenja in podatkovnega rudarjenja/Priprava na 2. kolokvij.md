@@ -88,6 +88,7 @@ tabela razdalj:
 | 4   |     |     |     | 0   | 1   |
 | 5   |     |     |     |     | 0   |
 
+RAZLIKA= 1
 po pravilu popolne povezanosti vzamemo večje od obeh
 
 |     | 1   | 2   | 3   | 4,5 |
@@ -97,19 +98,31 @@ po pravilu popolne povezanosti vzamemo večje od obeh
 | 3   |     |     | 0   | 3   |
 | 4,5 |     |     |     | 0   |
 
+RAZLIKA= 1
+
 |     | 1,2 | 3   | 4,5 |
 | --- | --- | --- | --- |
 | 1,2 | 0   | 6   | 8   |
 | 3   |     | 0   | 3   | 
 | 4,5 |     |     | 0   |
 
+RAZLIKA= 5
+
 |       | 1,2 | 3,4,5 |
 | ----- | --- | ----- |
 | 1,2   | 0   | 8     | 
 | 3,4,5 |     | 0     |
 
+Narišemo dendrogram glede na to, y=do 8,
+x so e1:5
+se jih poveže po glede na razdaljo
 
+### b) stevilo skupin + skupina
+2 skupini (iz dendrograma)
+>$\{e_1,e_2\}\ \ \{e_3,e_4,e_5\}$
 
+---
+pri single linkgake vedno vzamemo manjšo r
 # 4 naloga
 
 # 5 naloga
