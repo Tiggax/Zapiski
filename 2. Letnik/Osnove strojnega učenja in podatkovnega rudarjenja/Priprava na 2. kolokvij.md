@@ -122,7 +122,17 @@ se jih poveže po glede na razdaljo
 >$\{e_1,e_2\}\ \ \{e_3,e_4,e_5\}$
 
 ---
-pri single linkgake vedno vzamemo manjšo r
+pri single linkgake vedno vzamemo manjšo razdaljo
+lahko se zgodi da sta enaka razmaka, takrat se sami odločimo
 # 4 naloga
+K-NN algoritem
+za ta primer je A1 razred (in ne R)
+$k=3$ 
+| ID  | A1  | A2  | A3  | A4  | R   |
+| --- | --- | --- | --- | --- | --- |
+| 300 |     | -   | o   | y   | NE  | 
+evklidska razdalja
+$\sqrt{(A_{2_i}-A_{2_j})^2+(A_{3_i}-A_{3_j})^2+(A_{4_i}-A_{4_j})^2+(R_i-R_j)^2}$
+
 
 # 5 naloga
