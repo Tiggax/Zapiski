@@ -139,16 +139,23 @@ od podatko gre po vrsti razdalja:
 vzamemo: $100,101 in 110$
 $$\frac{2000,00+2004,151+2008,635}{3}=2004,262$$
 
-| 1-terke | 2-terke     |
-| ------- | ----------- |
-| A       | AB   BF     |
-| B       | AC   "BG"   |
-| C       | AF   CF     |
-| F       | AG   "CG"   |
-| G       | "BC"   "FG" | 
-| ------- | -------     |
-| 5       | 6           |
 # 5 naloga
 ASOCIACIJSKA PRAVILA
 ## a) minimalna podpora= 60% -> 3 košarice ali več (min-sup)
+
+| 1-terke | 2-terke   | 3-terke       | 4-terke |
+| ------- | --------- | ------------- | ------- |
+| A       | AB   BF   | ABC     AFG   | J       |
+| B       | AC   "BG" | ABF     "BCF" | I       |
+| C       | AF   CF   | "ABG"   "BCG" | H       |
+| F       | AG   "CG" | ACF     "BFG" |         |
+| G       | "BC" "FG" | "ACG"   "CFG" | N       |
+| ------- | -------   | ------------- | I       |
+| 5       | 6         | 2             | 0       | 
+
+sum terk= $5+6+2=13$
+
+## b) kok asociacijski pravil iz teh n-terk?
+greš po pravilu $2^{n-2;}n je terka pravila$
+$0*5+ 2*6 + 6*2$
 
