@@ -35,14 +35,36 @@ v tem primeru odčrtamo 110 stran ker ga pokriva
 
 računamo p/t (pokriti proti nepokritim) 
 
-| A2     | +   | 2/5 |
+| A2     | +   | 2/5  |                 |
+| ------ | --- | ---- | --------------- |
+| A2     | -   | 3/5  |                 |
+| A3     | o   | 2/5  |                 |
+| A3     | x   | 3/5  |                 |
+| A4     | y   | 1/3  |                 |
+| A4     | n   | 3/7  | TA JE NAJBOLJŠI |
+| skupaj | --- | 4/10 |                 |
+
+```
+if(A4 == n) and 
+```
+
+ | A2     | +   | 2/5 |
+ | ------ | --- | --- |
+ | A2     | -   | 1/2 |
+ | A3     | o   | 1/3 |
+ | A3     | x   | 2/4 |
+ | skupaj | --- | 3/7 |
+
+"-" in "x" imata enak ulomek, a "x" pokrije več primeroz zato vzamemo tega
+
+```
+if(A4 == n) and (A3 == x) AND
+```
+| A2     | +   |     |
 | ------ | --- | --- |
-| A2     | -   | 3/5 |
-| A3     | o   | 2/5 |
-| A3     | x   | 3/5 |
-| A4     | y   | 1/3 |
-| A4     | n   | 3/7 | 
-| skupaj | --- |     |
+| A2     | -   |     |
+| skupaj | --- | 2/4 | 
+
 
 # 3 naloga
 # 4 naloga
