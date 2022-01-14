@@ -27,8 +27,22 @@ A02-- "+" ---j[1*7]
 # 2 naloga
 odločitvena pravila
 ```
-if(A2==+)
+if(A2==+) and (A3== o) and (A4 == y) then: NE
 ```
+najdimo drugo pravilo:
+(prism dela po vrsti, drugo pravilo bo pol po tem kar ni blo z tem dobljen)
+v tem primeru odčrtamo 110 stran ker ga pokriva
+
+računamo p/t (pokriti proti nepokritim) 
+
+| A2     | +   | 2/5 |
+| ------ | --- | --- |
+| A2     | -   | 3/5 |
+| A3     | o   | 2/5 |
+| A3     | x   | 3/5 |
+| A4     | y   | 1/3 |
+| A4     | n   | 3/7 | 
+| skupaj | --- |     |
 
 # 3 naloga
 # 4 naloga
