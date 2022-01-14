@@ -2,7 +2,8 @@
   "triggerChar": "\\",
   "sidePaneSideLeft": false,
   "savedColors": [
-    "#ff0000"
+    "#ff0000",
+    "#59ff00"
   ],
   "aviabileRegions": [
     "textEdit",
@@ -36,12 +37,12 @@
     {
       "name": "greekLetters",
       "active": true,
-      "visible": false
+      "visible": true
     },
     {
       "name": "colors",
       "active": true,
-      "visible": false
+      "visible": true
     }
   ]
 }
