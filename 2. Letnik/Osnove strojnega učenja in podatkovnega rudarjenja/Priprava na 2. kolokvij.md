@@ -139,5 +139,16 @@ od podatko gre po vrsti razdalja:
 vzamemo: $100,101 in 110$
 $$\frac{2000,00+2004,151+2008,635}{3}=2004,262$$
 
+| 1-terke | 2-terke     |
+| ------- | ----------- |
+| A       | AB   BF     |
+| B       | AC   "BG"   |
+| C       | AF   CF     |
+| F       | AG   "CG"   |
+| G       | "BC"   "FG" | 
+| ------- | -------     |
+| 5       | 6           |
 # 5 naloga
-||
+ASOCIACIJSKA PRAVILA
+## a) minimalna podpora= 60% -> 3 košarice ali več (min-sup)
+
