@@ -76,6 +76,16 @@ lahko se zgodi da sta dve izbiri enaki dobri, takrat je vseeno katerga damo
 # 3 naloga
 ## clustering
 razvrščanje v skupine
+### a) popolna povezanost (complete linkage)
+![[Screenshot_20220114_090418.png]]
+tabela razdalj:
+|     | 1   | 2   | 3   | 4   | 5   |
+| --- | --- | --- | --- | --- | --- |
+| 1   | 0   | 2   | 6   | 8   | 7   | 
+| 2   |     | 0   |     |     |     |
+| 3   |     |     | 0   |     |     |
+| 4   |     |     |     | 0   |     |
+| 5   |     |     |     |     | 0   |
 
 # 4 naloga
 # 5 naloga
