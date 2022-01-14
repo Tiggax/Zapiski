@@ -21,8 +21,14 @@ A02-- "+" ---j[1*7]
 >$p(DA)=\frac{\frac{\frac{\frac{8}{15}1}{8}+7}{15}3}{7}=\frac{4}{15}$
 
 201:
-	>$p(DA)=5/20*$
+>$p(DA)=(\frac{5}{20})*\frac{6}{5}+ \frac{15}{20}* \frac{1}{8}= \frac{47}{160}=0.29$
+>$p(NE)= \frac{5}{20} \frac{1}{5}+ \frac{15}{20} \frac{7}{8}=0.71$
+
 # 2 naloga
+odločitvena pravila
+```
+if(A2==+)
+```
 
 # 3 naloga
 # 4 naloga
