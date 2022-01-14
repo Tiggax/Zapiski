@@ -157,5 +157,17 @@ sum terk= $5+6+2=13$
 
 ## b) kok asociacijski pravil iz teh n-terk?
 greš po pravilu $2^{n-2;}n je terka pravila$
-$0*5+ 2*6 + 6*2$
+$0*5+ 2*6 + 6*2=26$ pravil
+## c) 
+$\{A,B,F\}$, minConf=80%
+
+$c(A\to B)=\frac{s(AB)}{s}$
+
+| A   | ->  | BF  | 3/5 |
+| --- | --- | --- | --- |
+| B   | ->  | AF  | 3/3 |
+| F   | ->  | AB  | 3/4 |
+| BF  | ->  | A   | 3/3 |
+| AF  | ->  | B   | 3/4 |
+| AB  | ->  | F   | 3/3 | 
 
