@@ -1,0 +1,1 @@
+bodi $f=f(x_1,...,x_n);n\in \mathds{Z}$   
