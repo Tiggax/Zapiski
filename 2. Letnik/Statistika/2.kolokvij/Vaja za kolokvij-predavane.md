@@ -46,4 +46,33 @@ $t=0.5$
 stopnja prostosti: n-1=6
 iz tabele:
 $t_{0.975}(6)=2.447$
-ker pade v interval $(-2.447,2.447)$ => $H_0$
+ker pade v interval $(-2.447,2.447)$ => $H_{0}$ obdržimo
+
+# 4
+
+| izvedbe | prof | student |
+| ------- | ---- | ------- |
+| 1       | 2    | 4       |
+| 2       | 6    | 1       |
+| 3       | 3    | 3       |
+| 4       | 8    | 5       |
+| 5       | 4    | 8       |
+| 6       | 7    | 6       |
+| 7       | 5    | 2       |
+| 8       | 1    | 7       | 
+
+$H_{0}:$ oceni prof in studenta nista povezani
+$H_1:$ -//- sta povezani
+
+spearmanov test
+
+
+
+
+
+
+
+
+
+
+
