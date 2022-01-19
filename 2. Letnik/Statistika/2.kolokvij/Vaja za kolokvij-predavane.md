@@ -101,3 +101,7 @@ $t_{0.95}(60)=1.671$
 
 $t_{0.95}(49)\in (1.671,1.684)$
 ker t<$t_{0.95}$ => $H_{0}$ obdržimo
+
+# 6
+ni se mi dal  več.
+honestly  ze tko prekinja pa se mi honestly ne da več rešitve so itak objavlene
