@@ -41,4 +41,9 @@ $H_1:$$\mu_{x2}-\mu_{x1}\ne1$
 testna statistika :
 $$t=\frac{\overline d-\mu_0}{\frac{s_0}{\sqrt n}}$$
 
-$$s_D^2=$$
+$$s_D^2=2.02$$
+$t=0.5$
+stopnja prostosti: n-1=6
+iz tabele:
+$t_{0.975}(6)=2.447$
+ker pade v interval $(-2.447,2.447)$ => $H_0$
