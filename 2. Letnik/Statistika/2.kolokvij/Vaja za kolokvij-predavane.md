@@ -78,10 +78,20 @@ iz tabele: 0.738
 ker je $|r_s|<0.738$ , $H_{0}$ obdrim.
 
 # 5
+| razpon  | $f_i$ |
+| ------- | ----- |
+| 180-189 | 9     |
+| 190-199 | 11    |
+| 200-209 | 14    |
+| 210-219 | 10    |
+| 220-229 | 6     | 
 
+$H_{0}:$ $\mu_x=202cm$
+$H_{1}:$ $\mu_x>202cm$
 
+T-test
+$t= \frac{\overline x-\mu_{x}}{\frac{s}{\sqrt n}}$
 
-
-
+$\overline x= $
 
 
