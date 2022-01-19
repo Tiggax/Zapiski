@@ -50,25 +50,34 @@ ker pade v interval $(-2.447,2.447)$ => $H_{0}$ obdržimo
 
 # 4
 
-| izvedbe | prof | student |
-| ------- | ---- | ------- |
-| 1       | 2    | 4       |
-| 2       | 6    | 1       |
-| 3       | 3    | 3       |
-| 4       | 8    | 5       |
-| 5       | 4    | 8       |
-| 6       | 7    | 6       |
-| 7       | 5    | 2       |
-| 8       | 1    | 7       | 
+| izvedbe | prof(x) | student(y) | 
+| ------- | ------- | ---------- |
+| 1       | 2       | 4          |
+| 2       | 6       | 1          |
+| 3       | 3       | 3          |
+| 4       | 8       | 5          |
+| 5       | 4       | 8          |
+| 6       | 7       | 6          |
+| 7       | 5       | 2          |
+| 8       | 1       | 7          |
 
 $H_{0}:$ oceni prof in studenta nista povezani
 $H_1:$ -//- sta povezani
 
 spearmanov test
+![[Screenshot_20220119_083152.png]]
 
+$\overline x= 4.5$
+$\overline y= 4.5$
 
+$$\sum_{i=1}^8 x_iy_i=154$$
+$$r_s=-0.19$$
+pogledamo krit vrednost iz tabelce
+n=8, $\alpha=0.05$ 
+iz tabele: 0.738
+ker je $|r_s|<0.738$ , $H_{0}$ obdrim.
 
-
+# 5
 
 
 
