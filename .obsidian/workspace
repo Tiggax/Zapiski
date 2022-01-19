@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Statistika/2.kolokvij/Vaja za kolokvij-predavane.md",
+            "file": "2. Letnik/Osnove podatkovnih baz/vaje 19-1-2022.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Statistika/2.kolokvij/Vaja za kolokvij-predavane.md",
+                "file": "2. Letnik/Osnove podatkovnih baz/vaje 19-1-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +122,15 @@
   },
   "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
-    "2. Letnik/Statistika/2.kolokvij/Vaja za kolokvij-predavane.md",
+    "2. Letnik/Osnove podatkovnih baz/vaje 19-1-2022.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 12-1-2022.md",
+    "2. Letnik/Osnove podatkovnih baz/3. Domača Naloga.md",
+    "2. Letnik/Statistika/2.kolokvij/Vaja za kolokvij-predavane.md",
     "2. Letnik/Analiza 3/Gradient funkcije.md",
     "2. Letnik/Osnove podatkovnih baz/_Index_of_Osnove podatkovnih baz.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 22-12-2021.md",
     "2. Letnik/Podatkovne strukture in algoritmi/vaje 8-12-2021.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 15-12-2021.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 24-11-2021.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje.17-11-2021.md"
+    "2. Letnik/Podatkovne strukture in algoritmi/vaje 15-12-2021.md"
   ]
 }
