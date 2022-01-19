@@ -92,6 +92,10 @@ $H_{1}:$ $\mu_x>202cm$
 T-test
 $t= \frac{\overline x-\mu_{x}}{\frac{s}{\sqrt n}}$
 
-$\overline x= $
-
+$\overline x= 203.1$
+$s^2=163.3$
+$t=0.61$
+stopnja prostosti: n-1 = 49
+$t_{0.95}(40)=1.684$
+$t_{0.95}(60)=1.671$
 
