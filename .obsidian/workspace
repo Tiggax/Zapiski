@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
-            "mode": "source",
+            "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
+                "file": "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,8 @@
   },
   "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
+    "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
+    "2. Letnik/Podatkovne strukture in algoritmi/_Index_of_Podatkovne strukture in algoritmi.md",
     "2. Letnik/Osnove podatkovnih baz/vaje 5-1-2022.md",
     "2. Letnik/Osnove podatkovnih baz/Pojmi.md",
     "2. Letnik/Osnove podatkovnih baz/Optimizator (vaje-5-1-2022).md",
@@ -129,8 +131,6 @@
     "2. Letnik/Osnove podatkovnih baz/Draft.md",
     "2. Letnik/_Index_of_2. Letnik.md",
     "2. Letnik/Statistika/2.kolokvij/2. kolokvij.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 22-12-2021.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 5-1-2022.md",
-    "2. Letnik/Podatkovne strukture in algoritmi/vaje 12-1-2022.md"
+    "2. Letnik/Podatkovne strukture in algoritmi/vaje 22-12-2021.md"
   ]
 }
