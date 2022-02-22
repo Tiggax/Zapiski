@@ -2,4 +2,6 @@
 - vaje **obvezne**
 - končni izpit ali dba delna izpita 70%
 
-www.bioinfbook.org
+# Učni načrt
+- biološke podatkovne zbirke
+- Globalna/lokalna poravnava zaporedji
