@@ -5,3 +5,7 @@
 # Učni načrt
 - biološke podatkovne zbirke
 - Globalna/lokalna poravnava zaporedji
+
+
+# Razvoj Bioinformatike
+
