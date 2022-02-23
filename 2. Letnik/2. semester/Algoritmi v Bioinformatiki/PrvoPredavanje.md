@@ -20,12 +20,14 @@ preobdelava:
 - HMM(Hidden Markov Model)
 
 # Martinov del
-## Poravnava
-vezana na [[#^a88243|lehenštajn]]
+## Poravnava dveh osebkov
+- vezana na [[#^a88243|lehenštajn]]
+- z vrzeli
+- sorodnost osebkov
 
 ## Gručenje
 združevanje osebkov v gruče
-## Primerjava več osebkov
+## Primerjava več osebkov 
 ## Rekonstrukcija zaporedja
 - debruinovi grafi
 
