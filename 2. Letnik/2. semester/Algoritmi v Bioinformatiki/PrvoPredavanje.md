@@ -22,3 +22,11 @@ preobdelava:
 # Martinov del
 ## Poravnava
 vezana na [[#^a88243|lehenštajn]]
+
+## Gručenje
+združevanje osebkov v gruče
+## Primerjava več osebkov
+## Rekonstrukcija zaporedja
+- debruinovi grafi
+
+## Filogenetska drevesa
