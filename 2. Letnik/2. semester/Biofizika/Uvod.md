@@ -1,5 +1,6 @@
 # Predmet
-- Gibanje
-- dimenzije, enote
+- Gibanje, dimenzije, enote
 - tekočine, plini, tlak, atmosfra onsenazenje
-- t
+- toplota, svetloba, elektromagnetno valovanje
+- zvok, ekolokacija
+- difuzija, osmoza
