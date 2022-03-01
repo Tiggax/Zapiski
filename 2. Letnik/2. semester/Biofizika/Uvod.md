@@ -4,3 +4,6 @@
 - toplota, svetloba, elektromagnetno valovanje
 - zvok, ekolokacija
 - difuzija, osmoza
+
+
+
