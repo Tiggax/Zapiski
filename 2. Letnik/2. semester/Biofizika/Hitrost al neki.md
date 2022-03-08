@@ -8,3 +8,6 @@ v-v_{0}&=a(t-t_{0})\\
 v=v_{0}+a(t-t_{0})\\
 \end{align}$$
 
+
+## vevrca al nek9i
+## Prosti pad
