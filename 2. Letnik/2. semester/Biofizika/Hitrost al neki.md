@@ -10,4 +10,9 @@ v=v_{0}+a(t-t_{0})\\
 
 
 ## vevrca al nek9i
-## Prosti pad
+### Prosti pad
+$F_{upora}=kV$
+$F_{upora}=kV^2$
+
+$\rho_{zraka}$
+
