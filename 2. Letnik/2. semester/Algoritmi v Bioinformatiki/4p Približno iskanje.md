@@ -111,13 +111,16 @@ Kje v genomu je takšen del?
 vprašanje **Goljufiva Igralnica**:
 - V igralncii mečejo kovanec
 - igralci lahko stavijo na cifro(C) ali grb(G)
-- če je kovanec ki ga mečem pravičen, potem je $p(C)=p(G)$
-- poleg tega ima pokvarjen kovanec, za katerega velja:
-	- $p(C)=\frac{1}{4};p(G)=\frac{3}{4}$
+- če je kovanec ki ga mečem pravičen (E), potem je $p_{E}(C)=p_{E}(G)$
+- poleg tega ima pokvarjen kovanec (F), za katerega velja:
+	- $p_{F}(C)=\frac{1}{4};p_{F}(G)=\frac{3}{4}$
 - kovanca občasno zamenjajo.
 - naredijo zamenjavo z verjetnostjo $\frac{1}{10}$
 
-naj $\pi=\pi_{1},\pi_{2},...,\pi_{n}$ pomeni 
+naj $\Pi=\pi_{1},\pi_{2},...,\pi_{n}:\pi_{i}=E/F$ 
+$M=m_{1},m_{2},...,m_{n}:m_i=C/G$ 
+$v:CGCGGGCGCCG$
+
 $$\begin{align}
 
 \end{align}$$
