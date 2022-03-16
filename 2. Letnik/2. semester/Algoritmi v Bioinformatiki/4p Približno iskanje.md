@@ -120,6 +120,14 @@ vprašanje **Goljufiva Igralnica**:
 naj $\Pi=\pi_{1},\pi_{2},...,\pi_{n}:\pi_{i}=E/F$ 
 $M=m_{1},m_{2},...,m_{n}:m_i=C/G$ 
 $v:CGCGGGCGCCG$
+$$\begin{align}
+v:&CGCGGGCGCCG\\
+\pi:&EEEFFFFFEEE\\
+p(v)=&\frac{1}{2}\frac{1}{2}\frac{1}{2}\frac{3}{4}\frac{3}{4}\frac{3}{4}\frac{1}{4}\frac{3}{4}\frac{1}{2}\frac{1}{2}\frac{1}{2}\\
+\end{align}$$
+kakšna je verjetnost da je zgornja napoved točna?
+- Verjetnost, da smo dobili $v$, če imamo $\pi$ je :
+	- 
 
 $$\begin{align}
 
