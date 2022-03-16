@@ -82,9 +82,26 @@ p:A&&G&&C&&C&&T&&T\\
 \end{align}$$
 Ali lahko najdemo $k$-terico, kjer je 1 napaka v ujemanju?
 
-$$$\begin{matrix}
+$$\begin{matrix}
+ &A&G&C&C&T&T\\
+A&+& & & & & \\
+T& &+& & & &\\
+G& & &+&+& &\\
+C& & &+&+& &\\
+A& & & & & &\\
+T& & & & & &\\
 
-\end{matrix}$$$
+\end{matrix}$$
+
+```
+vzamemo c=p[i...k-1]
+for c':d(c',c)\le f
+	c=GCCT:
+	c'\in{GCCT,ACCT,
+		  CCCT,TCCT,
+		  GACT,GGCT,
+		  CTCT,...,GCAT,...}
+```
 $$\begin{align}
 
 \end{align}$$
