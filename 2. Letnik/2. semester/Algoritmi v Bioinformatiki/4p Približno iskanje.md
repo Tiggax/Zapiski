@@ -72,6 +72,19 @@ rešuje vstavljanje presledka
 
 
 # 3 če primerjamo
+$ATGCATACA...$
+$p:AGCCTT$
+
+$$\begin{align}
+AT&&G&&C&&A&&T&&A&CA...\\
+&&|&&|&&ł&&|\\
+p:A&&G&&C&&C&&T&&T\\
+\end{align}$$
+Ali lahko najdemo $k$-terico, kjer je 1 napaka v ujemanju?
+
+$$$\begin{matrix}
+
+\end{matrix}$$$
 $$\begin{align}
 
 \end{align}$$
