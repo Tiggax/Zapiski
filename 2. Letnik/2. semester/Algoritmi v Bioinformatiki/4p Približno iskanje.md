@@ -108,7 +108,16 @@ for c':d(c',c)\le f
 # Segmentacija genoma na dele
 Dinukleotid $CG$ je v genomu manj pogost, razen v določenih delih.
 Kje v genomu je takšen del?
+vprašanje **Goljufiva Igralnica**:
+- V igralncii mečejo kovanec
+- igralci lahko stavijo na cifro(C) ali grb(G)
+- če je kovanec ki ga mečem pravičen, potem je $p(C)=p(G)$
+- poleg tega ima pokvarjen kovanec, za katerega velja:
+	- $p(C)=\frac{1}{4};p(G)=\frac{3}{4}$
+- kovanca občasno zamenjajo.
+- naredijo zamenjavo z verjetnostjo $\frac{1}{10}$
 
+naj $\pi=\pi_{1},\pi_{2},...,\pi_{n}$ pomeni 
 $$\begin{align}
 
 \end{align}$$
