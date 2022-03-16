@@ -156,12 +156,14 @@ E-- 9/10 --->E
 ```
 
 
-
-
-
+![[20220316_135549.jpg]]
 
 $$\begin{align}
-
+p_{n}(E)=
+	\begin{cases}
+	max(p_{n-1}(F)* \frac{1}{10}* \frac{1}{2}\right) n>1\\
+	
+	\end{cases}
 \end{align}$$
 
 
