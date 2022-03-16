@@ -33,7 +33,7 @@ G&&&&&&\\
 za vsako diagonalo $l$ imamo števec, ki jih ustrezno za vsako $*$ povečamo.
 
 - $d[l]:-n\le l\le m$
-- $\all c \in \Sigma$  imamo seznam indeksov, kjer se $c$ pojavi v $t$:
+- $\forall c \in \Sigma$  imamo seznam indeksov, kjer se $c$ pojavi v $t$:
 > $$\begin{align}
 u[A]:1,5,7,9\\
 u[C]:\\
@@ -105,6 +105,9 @@ for c':d(c',c)\le f
 		  CTCT,...,GCAT,...}
 ```
 
+# Segmentacija genoma na dele
+Dinukleotid $CG$ je v genomu manj pogost, razen v določenih delih.
+Kje v genomu je takšen del?
 
 $$\begin{align}
 
