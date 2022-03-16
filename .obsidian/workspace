@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4p Približno iskanje.md",
+            "file": "2. Letnik/2. semester/Algoritmi v Bioinformatiki/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4p Približno iskanje.md",
+                "file": "2. Letnik/2. semester/Algoritmi v Bioinformatiki/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "96c6a41c670c4d47",
   "lastOpenFiles": [
+    "2. Letnik/2. semester/Algoritmi v Bioinformatiki/Untitled.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4p Približno iskanje.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/TLDR.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/3.p Stiskanje podatkov.md",
@@ -129,7 +130,6 @@
     "2. Letnik/2. semester/Uvod v Bioinformatiko/Drugo Predavanje.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/1.p Nedeterminizem.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/_Index_of_Algoritmi v Bioinformatiki.md",
-    "2. Letnik/2. semester/Biofizika/Hitrost al neki.md",
-    "2. Letnik/2. semester/Biofizika/Uvod.md"
+    "2. Letnik/2. semester/Biofizika/Hitrost al neki.md"
   ]
 }
