@@ -30,9 +30,17 @@ T\\
 C\\
 G\\
 \end{matrix}$$
-**Časovna zahtevnost:** $$
+**Časovna zahtevnost:** 
+- velikost matrike je $n*m$
+	- za vpis $*$ potrebujemo $O(n*m)$
+- število diagonal je $n+m$
+	- na vrednosti diagonal vplivajo samo $*$ 
+	- -> če pogledamo stvar potrebujemo samo pregledati število pik 
+		- -> $O(\#*=\textcolor{green}{\pi})$
+Želimo algoritem ki ima časovno zahtevnost $O(\pi)$ in prostorsko zahtevnost $O(n+m)$
+za vsako diagonalo $L$ imamo števec, ki jih ustrezno za vsako $*$ povečamo.
 
-
+$d[l]$
 $$\begin{align}
 
 \end{align}$$
