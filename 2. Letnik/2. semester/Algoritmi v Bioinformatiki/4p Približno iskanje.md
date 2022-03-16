@@ -161,9 +161,10 @@ E-- 9/10 --->E
 $$\begin{align}
 p_{n}(E)=
 	\begin{cases}
-	max(p_{n-1}(F)* \frac{1}{10}* \frac{1}{2}\right) n>1\\
+	max(&\frac{1}{2}* \frac{1}{4},\\& \frac{1}{2}* \frac{1}{2}) & \quad \text{n=1}\\
 	
+	max(&p_{n-1}(F)* \frac{1}{10}* \frac{1}{2},\\&p_{n-1}(E)* \frac{9}{10}* \frac{1}{2}) & \quad \text{n>1}\\
 	\end{cases}
 \end{align}$$
 
-
+**pomnenje** -> dinamično programiranje -> Viterbijev algoritem 
