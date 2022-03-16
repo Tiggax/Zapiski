@@ -6,29 +6,20 @@ Imamo besedilo $t:ATGCATACATCG$ in vzorec $p: AGAGACA$. ali obstaja $d(t[i...j],
 - iz vprašanja $t$ izločimo/ zmanjšamo problem iz problema (kandidati) in 
 - nato $d_{L}$ 
 
-$$\begin{align}
-&&A&&G&&A&&G&&A&&C&&A\\
-&A\\
-&T\\
-&G\\
-&C\\
-&A\\
-&T\\
-\end{align}$$
 $$\begin{matrix}
 &A&G&A&A&C&A\\
-A\\
-T\\
-G\\
-C\\
-A\\
-T\\
-A\\
-C\\
-A\\
-T\\
-C\\
-G\\
+A&&&&&&\\
+T&&&&&&\\
+G&&&&&&\\
+C&&&&&&\\
+A&&&&&&\\
+T&&&&&&\\
+A&&&&&&\\
+C&&&&&&\\
+A&&&&&&\\
+T&&&&&&\\
+C&&&&&&\\
+G&&&&&&\\
 \end{matrix}$$
 **Časovna zahtevnost:** 
 - velikost matrike je $n*m$
@@ -38,9 +29,20 @@ G\\
 	- -> če pogledamo stvar potrebujemo samo pregledati število pik 
 		- -> $O(\#*=\textcolor{green}{\pi})$
 Želimo algoritem ki ima časovno zahtevnost $O(\pi)$ in prostorsko zahtevnost $O(n+m)$
-za vsako diagonalo $L$ imamo števec, ki jih ustrezno za vsako $*$ povečamo.
+za vsako diagonalo $l$ imamo števec, ki jih ustrezno za vsako $*$ povečamo.
 
-$d[l]$
+- $d[l]:-n\le l\le m$
+- $\all c \in \Sigma$  imamo seznam indeksov, kjer se $c$ pojavi v $t$:
+> $$\begin{align}
+u[A]:1,5,7,9\\
+u[C]:\\
+u[G]:\\
+u[T]:\\
+\end{align}$$
+```
+
+```
+
 $$\begin{align}
 
 \end{align}$$
