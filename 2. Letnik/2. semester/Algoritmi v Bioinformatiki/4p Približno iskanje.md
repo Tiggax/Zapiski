@@ -15,6 +15,24 @@ $$\begin{align}
 &A\\
 &T\\
 \end{align}$$
+$$\begin{matrix}
+&A&G&A&A&C&A\\
+A\\
+T\\
+G\\
+C\\
+A\\
+T\\
+A\\
+C\\
+A\\
+T\\
+C\\
+G\\
+\end{matrix}$$
+**Časovna zahtevnost:** $$
+
+
 $$\begin{align}
 
 \end{align}$$
