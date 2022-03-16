@@ -55,8 +55,12 @@ $$\begin{align}
 &&ATGCATA
 \end{align}$$
 
-- Namesto ujemanja **posamznih črk**, iščemo ujemanje $k$-teric
+Namesto ujemanja **posamznih črk**, iščemo ujemanje $k$-teric.
 
+## 2 
+$p=AGAGACA$
+$t_{1}=ATGAGCACATT$
+$t_{2}=GATATACATT$
 $$\begin{align}
 
 \end{align}$$
