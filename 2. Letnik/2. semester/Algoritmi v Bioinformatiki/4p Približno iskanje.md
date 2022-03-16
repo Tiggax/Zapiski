@@ -8,13 +8,13 @@ Imamo besedilo $t:ATGCATACATCG$ in vzorec $p: AGAGACA$. ali obstaja $d(t[i...j],
 
 $$\begin{matrix}
 &A&G&A&A&C&A\\
-A&*& & *&*&&*\\
-T&&&&&&\\
-G&&&&&&\\
-C&&&&&&\\
-A&&&&&&\\
-T&&&&&&\\
-A&&&&&&\\
+A&*& & *&*& &*\\
+T& & & & & & \\
+G& & & & & & \\
+C& & & & & &\\
+A& & & & & &\\
+T& & & & & &\\
+A& & & & & &\\
 C&&&&&&\\
 A&&&&&&\\
 T&&&&&&\\
@@ -47,7 +47,15 @@ for i=1...m:
 poiščemo najpop. diagonalo
 ```
 
+$$\begin{align}
+&3:&AGAGACA\\
+&&ATGCA\\
+\\
+&3:&AGAGACA\\
+&&ATGCATA
+\end{align}$$
 
+- Namesto ujemanja **posamznih črk**, iščemo ujemanje $k$-teric
 
 $$\begin{align}
 
