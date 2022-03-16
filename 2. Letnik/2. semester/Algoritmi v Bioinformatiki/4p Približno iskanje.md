@@ -8,7 +8,7 @@ Imamo besedilo $t:ATGCATACATCG$ in vzorec $p: AGAGACA$. ali obstaja $d(t[i...j],
 
 $$\begin{matrix}
 &A&G&A&A&C&A\\
-A&&&&&&\\
+A&*& & *&*&&*\\
 T&&&&&&\\
 G&&&&&&\\
 C&&&&&&\\
@@ -39,9 +39,15 @@ u[C]:\\
 u[G]:\\
 u[T]:\\
 \end{align}$$
-```
 
 ```
+for i=1...m:
+	c=p[i]
+	povečamo d[l],kjer je l izračunan in u[c] in i
+poiščemo najpop. diagonalo
+```
+
+
 
 $$\begin{align}
 
