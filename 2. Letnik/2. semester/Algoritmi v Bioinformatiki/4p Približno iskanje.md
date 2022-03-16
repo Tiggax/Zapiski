@@ -21,6 +21,7 @@ T&&&&&&\\
 C&&&&&&\\
 G&&&&&&\\
 \end{matrix}$$
+![[20220316_124730.jpg]]
 **Časovna zahtevnost:** 
 - velikost matrike je $n*m$
 	- za vpis $*$ potrebujemo $O(n*m)$
@@ -61,6 +62,16 @@ Namesto ujemanja **posamznih črk**, iščemo ujemanje $k$-teric.
 $p=AGAGACA$
 $t_{1}=ATGAGCACATT$
 $t_{2}=GATATACATT$
+
+
+
+## algoritem FASTA
+#slika
+![[20220316_124746.jpg]]
+rešuje vstavljanje presledka
+
+
+# 3 če primerjamo
 $$\begin{align}
 
 \end{align}$$
