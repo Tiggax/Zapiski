@@ -104,6 +104,8 @@ for c':d(c',c)\le f
 		  GACT,GGCT,
 		  CTCT,...,GCAT,...}
 ```
+
+
 $$\begin{align}
 
 \end{align}$$
