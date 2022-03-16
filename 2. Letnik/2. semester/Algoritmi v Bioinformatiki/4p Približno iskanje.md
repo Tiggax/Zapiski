@@ -85,14 +85,16 @@ Ali lahko najdemo $k$-terico, kjer je 1 napaka v ujemanju?
 $$\begin{matrix}
  &A&G&C&C&T&T\\
 A&+& & & & & \\
-T& &+& & & &\\
-G& & &+&+& &\\
+T& & & & &+&+\\
+G& &+& & & &\\
 C& & &+&+& &\\
-A& & & & & &\\
-T& & & & & &\\
-
+A&+& & & & &\\
+T& & & & &+&+\\
+A&+& & & & &\\
+C& & &+&+& &\\
+A&+& & & & &\\
 \end{matrix}$$
-
+![[20220316_130241.jpg]]
 ```
 vzamemo c=p[i...k-1]
 for c':d(c',c)\le f
