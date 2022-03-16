@@ -124,11 +124,16 @@ $$\begin{align}
 v:&CGCGGGCGCCG\\
 \pi:&EEEFFFFFEEE\\
 p(v)=&\frac{1}{2}\frac{1}{2}\frac{1}{2}\frac{3}{4}\frac{3}{4}\frac{3}{4}\frac{1}{4}\frac{3}{4}\frac{1}{2}\frac{1}{2}\frac{1}{2}\\
+&\frac{9}{10}
 \end{align}$$
 kakšna je verjetnost da je zgornja napoved točna?
 - Verjetnost, da smo dobili $v$, če imamo $\pi$ je :
-	- 
-
+	- $\frac{1}{2}* \frac{9}{10}* \frac{1}{2}* ...$
+- v primeru da je vedno bil pravičen (E)
+	- $\frac{1}{2}^{11}* \frac{9}{10}^{10}$
+- v primeru da je vedno napačen (F)
+	- $\frac{1}{4}^{5}* \frac{3}{4}^{6} * \frac{9}{10}^{10}$
+- 
 $$\begin{align}
 
 \end{align}$$
