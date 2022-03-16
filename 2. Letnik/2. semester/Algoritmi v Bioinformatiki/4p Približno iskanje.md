@@ -168,3 +168,7 @@ p_{n}(E)=
 \end{align}$$
 
 **pomnenje** -> dinamično programiranje -> Viterbijev algoritem 
+
+če beležimo katerega izbira (RD ali ZE) je doko večjo vrednost, lahko za dani $v$ rekonstrukoriramo $\pi$ 
+
+ker je log monotono naraščajoča, veljam da je max produktovi "enak" max logaritmov produktov -> z logaritmi 
