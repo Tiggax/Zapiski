@@ -133,7 +133,29 @@ kakšna je verjetnost da je zgornja napoved točna?
 	- $\frac{1}{2}^{11}* \frac{9}{10}^{10}$
 - v primeru da je vedno napačen (F)
 	- $\frac{1}{4}^{5}* \frac{3}{4}^{6} * \frac{9}{10}^{10}$
-- 
+- ostale permutacije...
+Časovna zahtevnost: $O(2^n*n)$
+
+## Skriti model Markov
+
+```mermaid
+graph TD
+
+E-- 1/4 --->EC((C))
+E-- 3/4 --->EG((G))
+
+F-- 1/4 --->FC((C))
+F-- 3/4 --->FG((G))
+
+F-- 1/10 --->E
+E-- 1/10 --->F
+
+F-- 9/10 --->F
+E-- 9/10 --->E
+
+```
+
+
 $$\begin{align}
 
 \end{align}$$
