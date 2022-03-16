@@ -1,0 +1,1 @@
+Imamo besedilo $t:ATG$ 
