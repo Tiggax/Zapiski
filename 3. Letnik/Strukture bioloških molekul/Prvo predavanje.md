@@ -53,3 +53,5 @@ can form **mycele** (LUV)
 
 ## RNA
 miRNa 
+
+## Proteins
