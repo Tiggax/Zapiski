@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "80c20ba614e36827",
+        "id": "b05d35fefea1812c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -121,8 +121,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0538a707ed2d108a",
+  "active": "b05d35fefea1812c",
   "lastOpenFiles": [
+    "3. Letnik/Evolucijska biologija/Untitled.md",
+    "3. Letnik/Evolucijska biologija/1.Sv.md",
     "3. Letnik/Strukture bioloških molekul/Questions 1.md",
     "3. Letnik/Strukture bioloških molekul/Prvo predavanje.md",
     "3. Letnik/Evolucijska in populacijska genomika/Prvo Predavanje.md",
@@ -130,8 +132,6 @@
     "2. Letnik/2. semester/Uvod v Bioinformatiko/Untitled.md",
     "2. Letnik/2. semester/Analiza nukleotidnih zaporedij/Prvo predavanje.md",
     "2. Letnik/2. semester/Analiza nukleotidnih zaporedij/1. predavanje.md",
-    "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4.v poravna parov zaporedij.md",
-    "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4.p Približno iskanje.md",
-    "2. Letnik/2. semester/Algoritmi v Bioinformatiki/TLDR.md"
+    "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4.v poravna parov zaporedij.md"
   ]
 }
