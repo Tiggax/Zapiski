@@ -1,2 +1,5 @@
 # Uvodna predstavitev
-asistenta [Aja Bončina](aja.boncina@famnit.upr.si) in [Luka Duniš](luka.dunis@famnit.upr.si)
+asistenta [Aja Bončina](mail://aja.boncina@famnit.upr.si) in [Luka Duniš](mail://luka.dunis@famnit.upr.si)
+- ukvarjata se z monitoringom.  monitoring živali, dvoživk, divjadi
+- MHC(major histocompatability complex) gamsov
+- 
