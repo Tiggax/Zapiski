@@ -29,3 +29,5 @@ Opišite in pojasnite kako vaši rezultati podpriajo upravljavske strategije.
 Seminarsko delo (predstavitev + pisni izdelek) je **pogoj** za pristop h izpitu.
 	seminarji morajo vsebovati ročno določene analize, metodologijo, razlage, 
 	**nepopolne seminarje NE sprejemamo**
+
+Začetek [Predavanja](Podatkovne_Baze)
