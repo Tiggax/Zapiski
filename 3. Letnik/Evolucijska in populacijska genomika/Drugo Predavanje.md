@@ -23,5 +23,10 @@ asistenta [Aja Bončina](mail://aja.boncina@famnit.upr.si) in [Luka Duniš](mail
 predstavitev seminarja.
 ali set prišli do istih rezultatov?
 Tazložite zakaj ja/ne
-Ali lahko skleneee kakšen varstbeni ali upravjišli sklep?
-Opišite in pojasnitze kako vašei rezzltati podpriajo uprav
+Ali lahko sklene kakšen varstveni ali upravjišli sklep?
+Opišite in pojasnite kako vaši rezultati podpriajo upravljavske strategije.
+## Ocenjevanje
+Seminarsko delo (predstavitev + pisni izdelek) je **pogoj** za pristop h izpitu.
+	seminarji morajo vsebovati ročno določene analize, metodologijo, razlage, 
+	**nepopolne seminarje NE sprejemamo**
+	
