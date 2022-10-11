@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b05d35fefea1812c",
+        "id": "bc71c457ad60bdaf",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -121,8 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b36d7c3d780757d",
+  "active": "bc71c457ad60bdaf",
   "lastOpenFiles": [
+    "3. Letnik/Evolucijska in populacijska genomika/aja.boncina@famnit.upr.si.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Drugo Predavanje.md",
     "3. Letnik/Evolucijska in populacijska genomika/Prvo Predavanje.md",
     "3. Letnik/Evolucijska in populacijska genomika/_Index_of_Evolucijska in populacijska genomika.md",
     "Excalidraw/Drawing 2022-10-11 08.32.31.excalidraw.md",
@@ -130,8 +131,6 @@
     "3. Letnik/Evolucijska biologija/Untitled.md",
     "3. Letnik/Strukture bioloških molekul/Questions 1.md",
     "3. Letnik/Strukture bioloških molekul/Prvo predavanje.md",
-    "2. Letnik/2. semester/Uvod v Bioinformatiko/Prvo Predavanje.md",
-    "2. Letnik/2. semester/Uvod v Bioinformatiko/Untitled.md",
-    "2. Letnik/2. semester/Analiza nukleotidnih zaporedij/Prvo predavanje.md"
+    "2. Letnik/2. semester/Uvod v Bioinformatiko/Prvo Predavanje.md"
   ]
 }
