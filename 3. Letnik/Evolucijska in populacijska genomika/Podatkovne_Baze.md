@@ -19,3 +19,6 @@ DNK → RNK → Protein
 	- en repozitorij za številne projekte
 	- Prostodostopno → kjerkoli kadarkoli
 	- Dostop do velike količine podatov, ki ji ponavadi ne moremo deliti.
+
+Anotacija genoma
+
