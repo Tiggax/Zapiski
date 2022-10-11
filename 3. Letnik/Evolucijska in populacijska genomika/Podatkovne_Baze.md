@@ -20,5 +20,7 @@ DNK → RNK → Protein
 	- Prostodostopno → kjerkoli kadarkoli
 	- Dostop do velike količine podatov, ki ji ponavadi ne moremo deliti.
 
-Anotacija genoma
+Anotacija genoma - proces iskanja in designacije lokacij induvidualnih genov in ostalih lastnosti DNK sekvence. anotacija doda pomen sekvenci, in omogoča lažje nadaljno študijo.
 
+# Baze
+## GeneBank
