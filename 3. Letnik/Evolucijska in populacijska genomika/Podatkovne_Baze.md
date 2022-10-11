@@ -12,4 +12,10 @@
 - 2008 Pričetek uporabe NGS
 
 # Centralna dogma molekularne biologije
-DNK $\to$ 
+DNK → RNK → Protein
+
+# Zakaj podatkovne baze?
+- Dostopnost
+	- en repozitorij za številne projekte
+	- Prostodostopno → kjerkoli kadarkoli
+	- Dostop do velike količine podatov, ki ji ponavadi ne moremo deliti.
