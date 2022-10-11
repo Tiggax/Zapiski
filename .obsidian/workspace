@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Letnik/Evolucijska biologija/1.Sv.md",
+            "file": "3. Letnik/Evolucijska in populacijska genomika/Drugo Predavanje.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/Evolucijska biologija/1.Sv.md",
+                "file": "3. Letnik/Evolucijska in populacijska genomika/Drugo Predavanje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "2c64de4b8c666bdc",
+            "id": "2b36d7c3d780757d",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -114,24 +114,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b05d35fefea1812c",
+  "active": "2b36d7c3d780757d",
   "lastOpenFiles": [
-    "3. Letnik/Evolucijska biologija/Untitled.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Prvo Predavanje.md",
+    "3. Letnik/Evolucijska in populacijska genomika/_Index_of_Evolucijska in populacijska genomika.md",
+    "Excalidraw/Drawing 2022-10-11 08.32.31.excalidraw.md",
     "3. Letnik/Evolucijska biologija/1.Sv.md",
+    "3. Letnik/Evolucijska biologija/Untitled.md",
     "3. Letnik/Strukture bioloških molekul/Questions 1.md",
     "3. Letnik/Strukture bioloških molekul/Prvo predavanje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Prvo Predavanje.md",
     "2. Letnik/2. semester/Uvod v Bioinformatiko/Prvo Predavanje.md",
     "2. Letnik/2. semester/Uvod v Bioinformatiko/Untitled.md",
-    "2. Letnik/2. semester/Analiza nukleotidnih zaporedij/Prvo predavanje.md",
-    "2. Letnik/2. semester/Analiza nukleotidnih zaporedij/1. predavanje.md",
-    "2. Letnik/2. semester/Algoritmi v Bioinformatiki/4.v poravna parov zaporedij.md"
+    "2. Letnik/2. semester/Analiza nukleotidnih zaporedij/Prvo predavanje.md"
   ]
 }
