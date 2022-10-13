@@ -16,7 +16,7 @@ prišlo do križanja z arhajočno vrsto (neandrtalci) z neafriško populacijo.
 *read Epsko potovanje genov*
 
 ### Intogresija genov
-## 
+
 
 
 [Praktično delo](prak_2)
