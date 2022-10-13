@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Letnik/Evolucijska in populacijska genomika/Drugo_Predavanje.md",
+            "file": "3. Letnik/Evolucijska in populacijska genomika/Uvod.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/Evolucijska in populacijska genomika/Drugo_Predavanje.md",
+                "file": "3. Letnik/Evolucijska in populacijska genomika/Uvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "48e9094308a8fb89",
   "lastOpenFiles": [
-    "3. Letnik/Evolucijska in populacijska genomika/Prve Vaje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Untitled 1.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Prvo Predavanje.md",
-    "3. Letnik/Sistemi_3/Django.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Prvo_Predavanje.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Prve_Vaje.md",
     "3. Letnik/Evolucijska in populacijska genomika/Podatkovne_Baze.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Druga.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Uvod.md",
+    "3. Letnik/Evolucijska in populacijska genomika/Drugo_Predavanje.md",
+    "3. Letnik/Sistemi_3/Django.md",
     "README.md",
     "3..md",
-    "3. Letnik/Evolucijska in populacijska genomika/Podatkovne.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Drugo_Predavanje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/aja.boncina@famnit.upr.si.md"
+    "3. Letnik/Evolucijska in populacijska genomika/Podatkovne.md"
   ]
 }
