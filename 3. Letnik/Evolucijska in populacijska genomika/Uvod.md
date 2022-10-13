@@ -1,7 +1,5 @@
 # Uvod
 
-
-
 # Predavanja
 nosilec predmeta [Elena Bužan](mail://elena.buzan@gmail.com).
 
@@ -10,4 +8,5 @@ nosilec predmeta [Elena Bužan](mail://elena.buzan@gmail.com).
 # Vaje
 - [Uvod](Uvod_Vaje)
 - [prve](Prve_Vaje)
-	- 
+	- [podatkovne baze](Podatkovne_Baze)
+- 
