@@ -1,6 +1,6 @@
 → [Home](Uvod)
 ←[Predavanje](Drugo_Predavanje)
-
+https://www.nature.com/articles/ncomms16046
 1. f
 2. Ali se mtDNA in nDNA ujemata?
 	1. ne ujemasta sta pri denisovec/človek/neandrtal
