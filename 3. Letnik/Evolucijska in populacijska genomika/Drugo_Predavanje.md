@@ -10,6 +10,12 @@
 **Diplotip** dva tipa → kromosomski par
 
 ## Y kromosom
+## Genom
+čez vsako ozko grlo ko gre je vse manjša gentska variabilnost
+prišlo do križanja z arhajočno vrsto (neandrtalci) z neafriško populacijo.
+*read Epsko potovanje genov*
+
+### Intogresija genov
 
 
 
