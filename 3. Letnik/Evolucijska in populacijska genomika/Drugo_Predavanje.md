@@ -1,3 +1,5 @@
+# TABLE
+-> [Home](Uvod)
 ## Molekulski markerji
 **Polimorfizmi** več različnih variacij 
 

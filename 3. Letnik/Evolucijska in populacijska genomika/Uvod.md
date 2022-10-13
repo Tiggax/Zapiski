@@ -3,6 +3,11 @@
 
 
 # Predavanja
-- [Prvo_Predavanje](Prvo)
-- - [Drugo_Predavanje](Druga)
+nosilec predmeta [Elena Bužan](mail://elena.buzan@gmail.com).
+
+- [Prvo](Prvo_Predavanje)
+- [Drugo](Drugo_Predavanje)
 # Vaje
+- [Uvod](Uvod_Vaje)
+- [prve](Prve_Vaje)
+	- 

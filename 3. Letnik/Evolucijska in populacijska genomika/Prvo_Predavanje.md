@@ -1,6 +1,4 @@
-# Uvod
-nosilec predmeta ![Elena Bužan](mail://elena.buzan@gmail.com).
-
+-> [Home](Uvod)
 # Mitohondriji
 $\color{red}{is\ the\ powerhouse\ of\ the\ cell}$
 
