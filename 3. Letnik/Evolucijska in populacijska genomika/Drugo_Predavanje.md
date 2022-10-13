@@ -15,6 +15,7 @@
 prišlo do križanja z arhajočno vrsto (neandrtalci) z neafriško populacijo.
 *read Epsko potovanje genov*
 
+**dihotomija** cepitev na dve vrsti
 ### Intogresija genov
 
 ## Genomske študije
