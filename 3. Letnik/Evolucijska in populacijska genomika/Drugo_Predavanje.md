@@ -10,3 +10,7 @@
 **Diplotip** dva tipa → kromosomski par
 
 ## Y kromosom
+
+
+
+[Praktično delo](prak_2)
