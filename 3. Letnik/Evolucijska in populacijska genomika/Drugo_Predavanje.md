@@ -17,6 +17,8 @@ prišlo do križanja z arhajočno vrsto (neandrtalci) z neafriško populacijo.
 
 ### Intogresija genov
 
+## Genomske študije
+
 
 
 [Praktično delo](prak_2)
