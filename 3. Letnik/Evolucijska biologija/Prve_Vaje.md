@@ -28,3 +28,5 @@ Isopods :))
 Bumba izbruhal sonce, sonce izhlapevalo vodo → nastali oblaki relief itd.
 izbruhal je tudi luno.
 Izbruhal živali ki so nato ustvarile ostale živali.
+#### Tahitijski mit
+
