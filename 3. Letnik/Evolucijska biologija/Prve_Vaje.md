@@ -40,3 +40,4 @@ Izbruhal živali ki so nato ustvarile ostale živali.
 **mimikrija** upodabljanje enega organizma nek drug organizem/ okolje
 
 ### Znanstveni dokazi
+#### Teorija spontane generacije
