@@ -30,3 +30,8 @@ izbruhal je tudi luno.
 Izbruhal živali ki so nato ustvarile ostale živali.
 #### Tahitijski mit
 
+### Osnovni elementi stvarjenja
+**rojstvo** predstavlja novo življenje
+**element matere in očeta** niso nujno vedno povezani z stvarjenjem
+
+### Kako je nastala
