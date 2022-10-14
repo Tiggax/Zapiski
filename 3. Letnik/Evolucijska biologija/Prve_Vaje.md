@@ -38,3 +38,5 @@ Izbruhal živali ki so nato ustvarile ostale živali.
 #### Prilagoditev vrst na okolje
 
 **mimikrija** upodabljanje enega organizma nek drug organizem/ okolje
+
+### Znanstveni dokazi
