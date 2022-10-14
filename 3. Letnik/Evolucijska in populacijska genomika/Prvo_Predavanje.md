@@ -1,4 +1,4 @@
--> [Home](Uvod)
+-> [Home](3.%20Letnik/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
 # Mitohondriji
 $\color{red}{is\ the\ powerhouse\ of\ the\ cell}$
 
