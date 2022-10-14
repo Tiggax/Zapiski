@@ -36,3 +36,5 @@ Izbruhal živali ki so nato ustvarile ostale živali.
 
 ### Kako je nastala biodiverziteta kot jo poznamo danes?
 #### Prilagoditev vrst na okolje
+
+**mimikrija** upodabljanje enega organi
