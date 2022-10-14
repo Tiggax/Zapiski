@@ -34,4 +34,5 @@ Izbruhal živali ki so nato ustvarile ostale živali.
 **rojstvo** predstavlja novo življenje
 **element matere in očeta** niso nujno vedno povezani z stvarjenjem
 
-### Kako je nastala
+### Kako je nastala biodiverziteta kot jo poznamo danes?
+#### Prilagoditev vrst na okolje
