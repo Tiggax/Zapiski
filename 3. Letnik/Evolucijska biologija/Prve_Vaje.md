@@ -5,13 +5,20 @@ Razlage o izvoru iz zgodb -> miti
 	različne vrste/oblike organizmov.
 	variabilmost glede na:
 	- skupine
-		- 
 	- okolje
 	- prilagoditve
 	- morfološke oblike
 - Kaj je variabilnost življenja?
 	raznolikost življenja, različne oblike/prilagojenost 
 - Zakaj imamo variabilne organizme?
+Za prilagoditev na okolje, da se s spreminjanjem okolja organizem prilagodi okolju.
 - Kaj je vodilo variabilnosti?
 
 Isopods :))
+
+## Biodiverziteta
+1. Ekosistemska raznolikost
+2. Genetska raznolikost
+3. Vrstna raznolikost
+
+## Razlage:
