@@ -42,3 +42,6 @@ Izbruhal živali ki so nato ustvarile ostale živali.
 ### Znanstveni dokazi
 #### Teorija spontane generacije
 razlike med miti in znanstvenimi teorijami.
+
+
+## Domača naloga
