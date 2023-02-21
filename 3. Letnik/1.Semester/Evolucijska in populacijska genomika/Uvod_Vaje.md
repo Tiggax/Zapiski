@@ -1,4 +1,4 @@
--> [Home](3.%20Letnik/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
+-> [Home](3.%20Letnik/1.Semester/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
 # Uvodna predstavitev
 asistenta [Aja Bončina](mail://aja.boncina@famnit.upr.si) in [Luka Duniš](mail://luka.dunis@famnit.upr.si)
 - ukvarjata se z monitoringom.  monitoring živali, dvoživk, divjadi

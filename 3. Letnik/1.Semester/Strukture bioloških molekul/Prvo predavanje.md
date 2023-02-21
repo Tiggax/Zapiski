@@ -49,7 +49,7 @@ non soluble biomoleculs.
 ## Fats and oils
 can form **mycele** (LUV)
 
-#TODO wasnt listnening
+[[TODO]] wasnt listnening
 
 ## RNA
 miRNa 

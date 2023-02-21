@@ -32,7 +32,7 @@ od spodaj navzgor
 	> formula za izračun entropije: $$entropija(p_1,p_2,...,p_n)=-p_1\log _2p_1-p_2\log _2p_2 ... -p_n\log _2p_n$$
 
 ### zaželjene lasnosti mere "čistosti"
-#TODO
+[[TODO]]
 
 
 ```mermaid

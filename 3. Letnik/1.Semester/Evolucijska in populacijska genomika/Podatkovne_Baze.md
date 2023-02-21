@@ -1,4 +1,4 @@
--> [Home](3.%20Letnik/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
+-> [Home](3.%20Letnik/1.Semester/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
 # Zgodovina sekveniranja
 - 1970 razvoj Needleman - Wunsch algoritma
 - 1977 Sanger sekvenciranje

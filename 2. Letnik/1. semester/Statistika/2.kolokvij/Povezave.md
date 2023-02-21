@@ -37,7 +37,7 @@ regresijski modeli različno dobro zajemajo dane podatke. ena od mer kvalitete r
 
 $$\sum_{i=1}^n(y_i-\overline y)^2=\sum_{i=1}^n(\overarch y_i - \overline y)^2+\sum_{i=1}^n(\overline y - \overarch y_i)^2$$
 **Kvocient determinacije** je razmerje:
->$$r^2=\frac{\sum_{i=1}^n(\overarch y_i - \overline y)^2}{\sum_{i=1}^n(y_i-\overline y)^2}=\frac{\sum_{i=1}^n\overarch y_i^2 - n\overline y^2}{\sum_{i=1}^n(y_i-\overline y)^2}$$ #TODO 
+>$$r^2=\frac{\sum_{i=1}^n(\overarch y_i - \overline y)^2}{\sum_{i=1}^n(y_i-\overline y)^2}=\frac{\sum_{i=1}^n\overarch y_i^2 - n\overline y^2}{\sum_{i=1}^n(y_i-\overline y)^2}$$ [[TODO]] 
 
 
 ![[Screenshot_20211216_090059.png]]

@@ -47,7 +47,7 @@ kar pomeni da $H_0$ seveda ne zavrnemo (odstopanja v desno ne
 morejo biti statistično značilna, če povprečje od ničelne hipoteze  
 odstopa v levo).
 
-#TODO 
+[[TODO]] 
 
 Ni ˇcelno domnevo testirajmo ˇse proti alternativni domnevi  
 H−1 : μ < 100 cm.  

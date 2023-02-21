@@ -219,7 +219,7 @@ P(248\le \overline{X}_{25}\le 252,5)\\
 \end{align}
 >$$
 
-Vzorčna aritmetična sredina #formula
+Vzorčna aritmetična sredina [[formula]]
 $$\overline{X}_n=\frac{\sum X_n}{n}$$
 $$\frac{\overline{X}_n-\mu}{\frac{\sigma}{\sqrt n}}\approx N(0,1)$$
 

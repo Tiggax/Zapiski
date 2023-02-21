@@ -1,4 +1,4 @@
--> [Home](3.%20Letnik/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
+-> [Home](3.%20Letnik/1.Semester/Evolucijska%20in%20populacijska%20genomika/Uvod.md)
 ## Molekulski markerji
 **Polimorfizmi** več različnih variacij 
 
@@ -22,4 +22,4 @@ prišlo do križanja z arhajočno vrsto (neandrtalci) z neafriško populacijo.
 
 
 
-[Praktično delo](prak_2)
+[Praktično delo](prak_2.md)

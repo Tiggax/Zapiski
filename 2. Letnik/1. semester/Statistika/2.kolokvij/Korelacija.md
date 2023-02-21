@@ -16,7 +16,7 @@ $$r=\frac{\sum_{i=1}^nx_iy_i-n\overline x\overline y}{sqrt{(\sum_{i=1}^n x_j^2-n
 vrednost je med -1 in 1. če je r > 0 govorimo o **pozitivni** povezanosti spremenljivk, če je pa 
 r < 0 pa govorimo o **negativni**.
 ![[Screenshot_20211223_093138.png]]
-#TODO prd11/sljd6
+[[TODO]] prd11/sljd6
 
 # Spearmanov
 temelji na šibkejši predpostavki o monotoni povezavi.

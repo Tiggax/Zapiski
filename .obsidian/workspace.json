@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48e9094308a8fb89",
+            "id": "5ae115ec852ae553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/Evolucijska biologija/Prve_Vaje.md",
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/Evolucijska biologija/Prve_Vaje.md",
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,17 +139,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "48e9094308a8fb89",
+  "active": "5ae115ec852ae553",
   "lastOpenFiles": [
-    "3. Letnik/Evolucijska biologija/Uvod.md",
-    "3. Letnik/Evolucijska biologija/Prve_Vaje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Prve_Vaje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/prak_2.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Drugo_Predavanje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Uvod.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Podatkovne_Baze.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Uvod_Vaje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Prvo_Predavanje.md",
-    "3. Letnik/Evolucijska in populacijska genomika/Preve_Vaje.md"
+    "3. Letnik/3. Letnik.md",
+    "_Index_of_Zapiski.md",
+    "3. Letnik/_Index_of_3. Letnik.md",
+    "3. Letnik/1.Semester/Evolucijska biologija/Evolucijska biologija.md",
+    "3. Letnik/1.Semester/Evolucijska biologija/Prve_Vaje.md",
+    "3. Letnik/1.Semester/Evolucijska biologija/Uvod.md",
+    "3. Letnik/1.Semester/Evolucijska in populacijska genomika/Prve_Vaje.md",
+    "3. Letnik/1.Semester/Evolucijska in populacijska genomika/prak_2.md",
+    "3. Letnik/1.Semester/Evolucijska in populacijska genomika/Drugo_Predavanje.md",
+    "3. Letnik/1.Semester/Evolucijska in populacijska genomika/Uvod.md"
   ]
 }

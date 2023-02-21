@@ -68,7 +68,7 @@ $\mu_{max}=100.1$
 torej je 95% interval zaupanja za $\mu$ interval $(93.9,100.1)$ 
 ```
 ## Primerjava povprečij dveh spremenljivk na istih enotah
-#TODO
+[[TODO]]
 Denimo, da na eni populaciji preu ˇcujemo dve intervalski spremenljivki, X  
 in Y. Naj bo μX pri ˇcakovana vrednost prve, μY pa pri ˇcakovana vrednost  
 druge spremenljivke v celotni populaciji.  
@@ -113,7 +113,7 @@ $s=14.02$
 
 Sledi:
 $$t=\frac{2.3}{\frac{14.02}{\sqrt 7}}=0.43$$
-#TODO
+[[TODO]]
 Ker je df = 6, za α = 0.05 dobimo prag zavrnitve ±2.447. H0 torej ne  
 zavrnemo (odstopanja niso statisti ˇcno zna ˇcilna
 
