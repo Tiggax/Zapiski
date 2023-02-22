@@ -21,6 +21,3 @@ Se bo menjalo
 			- 14.apr
 			- 26.maj
 		- Izpit
-
-## Komunikacija
-
