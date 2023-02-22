@@ -20,7 +20,8 @@ less than 30 sitations
 
 # presentation
 search: 
-`(("homo sapiens"[Organism]) AND "high throughput sequencing"[Platform Technology Type]) AND "expression profiling by high throughput sequencing"[DataSet Type]`
+`("mus musculus"[Organism] AND "high throughput sequencing"[Platform Technology Type]) AND "expression profiling by high throughput sequencing"[DataSet Type] AND ("6"[n_samples] : "30"[n_samples])`
+
 
 their results
 your results
