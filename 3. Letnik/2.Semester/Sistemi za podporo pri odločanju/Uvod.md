@@ -1,10 +1,10 @@
-**Predavanja:** 
+## **Predavanja:** 
 - Srede ob 13:00
 - Petki ob 16:00
 - Petki ob 17:00
 Se bo menjalo
 
-**Vaje**: 
+## **Vaje**: 
 - 3h na teden.
 
 **Ocenjevanje**:
@@ -18,3 +18,4 @@ Se bo menjalo
 			- 14.apr
 			- 26.maj
 		- Izpit
+
