@@ -6,7 +6,9 @@ Se bo menjalo
 
 ## **Vaje**: 
 - 3h na teden.
-- Četrt
+- Četrtki :
+	- 12:30 - 14:30
+	- 16:30 - 18:00
 
 ## **Ocenjevanje**:
 - Ni več seminarjev
