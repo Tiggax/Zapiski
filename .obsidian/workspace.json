@@ -121,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3be421e733cfc960",
+  "active": "e4dd6dd6269a7b89",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Matematično_modeliranje/Red difenecialne enačbe.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",

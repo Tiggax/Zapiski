@@ -4,3 +4,4 @@ kjer je $F$ dana funkcija.
 
 Osredotočimo se na diferencialne enačbe 1. [[Red difenecialne enačbe|reda]] oblike:
 $$y'=f(x,y)$$
+Funkcija $\phi$ 
