@@ -4,4 +4,4 @@ kjer je $F$ dana funkcija.
 
 Osredotočimo se na diferencialne enačbe 1. [[Red difenecialne enačbe|reda]] oblike:
 $$y'=f(x,y)$$
-Funkcija $\phi$ 
+Funkcija $\phi:D\subseteq\mathbb{R}\to\mathbb{R}$  je rešitev enačbe (1) na množici $D$
