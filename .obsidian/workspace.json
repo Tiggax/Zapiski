@@ -11,11 +11,28 @@
             "id": "781a8c51213abedc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0de10803f9f0083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,14 +153,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "781a8c51213abedc",
+  "active": "c0de10803f9f0083",
   "lastOpenFiles": [
+    "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
     "Excalidraw/Drawing 2023-02-22 09.12.08.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 09.11.57.excalidraw.md",
     "3. Letnik/2.Semester/bio_v_ang/Untitled.canvas",
     "3. Letnik/2.Semester/bio_v_ang/_Index_of_bio_v_ang.md",
     "3. Letnik/2.Semester/bio_v_ang/Uvod.md",
-    "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
     "3. Letnik/3. Letnik.md",
     "_Index_of_Zapiski.md",
     "3. Letnik/_Index_of_3. Letnik.md",
