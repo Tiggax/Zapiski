@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d532935f06b6ee1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
+                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "894ad673599cd927",
+  "active": "d532935f06b6ee1c",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
