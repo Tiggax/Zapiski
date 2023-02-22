@@ -6,6 +6,7 @@ Se bo menjalo
 
 ## **Vaje**: 
 - 3h na teden.
+- Četrt
 
 ## **Ocenjevanje**:
 - Ni več seminarjev
