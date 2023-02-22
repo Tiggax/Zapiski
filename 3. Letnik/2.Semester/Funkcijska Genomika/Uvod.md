@@ -4,3 +4,6 @@ Work with:
 - đ
 
 Most work on gene exspression
+
+FeatureCounts
+aligment: STAR aligner
