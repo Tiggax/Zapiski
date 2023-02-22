@@ -7,7 +7,7 @@ Se bo menjalo
 ## **Vaje**: 
 - 3h na teden.
 
-**Ocenjevanje**:
+## **Ocenjevanje**:
 - Ni več seminarjev
 - Tedenske naloge z vajami
 	- Vsaka ocenjena z (0,1,2)
@@ -18,4 +18,6 @@ Se bo menjalo
 			- 14.apr
 			- 26.maj
 		- Izpit
+
+## Komunikacija
 
