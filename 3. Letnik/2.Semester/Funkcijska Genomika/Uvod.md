@@ -17,3 +17,12 @@ each dataset has its own ID, and each sample has its own ID
 minimum 3 samples per group
 at least 2 groups
 less than 30 sitations
+
+# presentation
+search: 
+`(("homo sapiens"[Organism]) AND "high throughput sequencing"[Platform Technology Type]) AND "expression profiling by high throughput sequencing"[DataSet Type]`
+
+their results
+your results
+interpretation between
+**only on** gene expression 
