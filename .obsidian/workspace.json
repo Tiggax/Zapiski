@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a36304deb6f3d8bf",
+        "id": "3bbd93f0cf0d5dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "1d481ee9a2919247",
+            "id": "894ad673599cd927",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,8 +141,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d481ee9a2919247",
+  "active": "894ad673599cd927",
   "lastOpenFiles": [
+    "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Red difenecialne enačbe.md",
     "3. Letnik/2.Semester/bio_v_ang/_Index_of_bio_v_ang.md",
@@ -151,7 +152,6 @@
     "Excalidraw/Drawing 2023-02-22 09.12.08.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 09.11.57.excalidraw.md",
     "3. Letnik/2.Semester/bio_v_ang/Untitled.canvas",
-    "3. Letnik/3. Letnik.md",
-    "_Index_of_Zapiski.md"
+    "3. Letnik/3. Letnik.md"
   ]
 }
