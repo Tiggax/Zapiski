@@ -10,4 +10,11 @@ Se bo menjalo
 **Ocenjevanje**:
 - Ni več seminarjev
 - Tedenske naloge z vajami
-	- Vsaka ocenjena z [0,1,2]
+	- Vsaka ocenjena z (0,1,2)
+	- najboljših 10 se bo upoštevalo (od 13)
+	- 70%  se dobi z ali:
+		- 2 kolokvija (**Povprečje** 50%)
+			- Pisni brez pomočkov
+			- 14.apr
+			- 26.maj
+		- Izpit
