@@ -22,6 +22,10 @@ less than 30 sitations
 search: 
 `("mus musculus"[Organism] AND "high throughput sequencing"[Platform Technology Type]) AND "expression profiling by high throughput sequencing"[DataSet Type] AND ("6"[n_samples] : "30"[n_samples])`
 
+make sure it has counts in supplementary file
+
+by this friday suggestions...
+
 
 their results
 your results
