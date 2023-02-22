@@ -11,8 +11,12 @@
             "id": "924407e6cbef0a4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +143,7 @@
   "active": "924407e6cbef0a4c",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
-    "3. Letnik/2.Semester/Matematično_modeliranje/Untitled.md",
+    "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
     "Excalidraw/Drawing 2023-02-22 09.12.08.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 09.11.57.excalidraw.md",
     "3. Letnik/2.Semester/bio_v_ang/Untitled.canvas",
