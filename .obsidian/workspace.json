@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d532935f06b6ee1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
+                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +141,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d532935f06b6ee1c",
+  "active": "894ad673599cd927",
   "lastOpenFiles": [
+    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Red difenecialne enačbe.md",
@@ -164,7 +152,6 @@
     "3. Letnik/2.Semester/Matematično_modeliranje/Uvod.md",
     "Excalidraw/Drawing 2023-02-22 09.12.08.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 09.11.57.excalidraw.md",
-    "3. Letnik/2.Semester/bio_v_ang/Untitled.canvas",
-    "3. Letnik/3. Letnik.md"
+    "3. Letnik/2.Semester/bio_v_ang/Untitled.canvas"
   ]
 }
