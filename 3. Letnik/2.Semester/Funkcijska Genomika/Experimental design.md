@@ -5,3 +5,5 @@
 	1. cDNA
 	2. Adapters
 	3. PCR
+
+# RPKM vs TPM
