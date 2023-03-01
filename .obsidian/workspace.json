@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
+                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12239e083b1b7a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
+                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,11 +178,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d0e7b207ef583682",
+  "active": "12239e083b1b7a27",
   "lastOpenFiles": [
-    "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
-    "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
     "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
+    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
+    "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
+    "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Red difenecialne enačbe.md",
     "3. Letnik/2.Semester/bio_v_ang/_Index_of_bio_v_ang.md",
