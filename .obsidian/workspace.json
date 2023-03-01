@@ -23,14 +23,28 @@
             "id": "1fdc2457ec744430",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0e7b207ef583682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
+                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +166,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1fdc2457ec744430",
+  "active": "d0e7b207ef583682",
   "lastOpenFiles": [
-    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
+    "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
+    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Red difenecialne enačbe.md",
     "3. Letnik/2.Semester/bio_v_ang/_Index_of_bio_v_ang.md",
