@@ -7,3 +7,8 @@
 	3. PCR
 
 # RPKM vs TPM
+
+DESeq2 doesn't use ...
+
+# DESeq2
+
