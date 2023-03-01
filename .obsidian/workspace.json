@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fdc2457ec744430",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +152,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "894ad673599cd927",
+  "active": "1fdc2457ec744430",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
