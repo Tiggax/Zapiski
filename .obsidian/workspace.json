@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/_Index_of_Matematično_modeliranje.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d60cbb82d036c9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945
+    "width": 224.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
+                "file": "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +191,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "12239e083b1b7a27",
+  "active": "d60cbb82d036c9a5",
   "lastOpenFiles": [
-    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
+    "3. Letnik/2.Semester/Matematično_modeliranje/_Index_of_Matematično_modeliranje.md",
+    "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
     "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
+    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
