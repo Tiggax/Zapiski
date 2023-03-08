@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "894ad673599cd927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1fdc2457ec744430",
             "type": "leaf",
             "state": {
@@ -32,53 +20,19 @@
             }
           },
           {
-            "id": "d0e7b207ef583682",
+            "id": "e98470fe6143ce14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
+                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Data Normalization.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "12239e083b1b7a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Letnik/2.Semester/Matematično_modeliranje/_Index_of_Matematično_modeliranje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60cbb82d036c9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33359f455e3e93ec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945,
-    "collapsed": true
+    "width": 224.51103591918945
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -138,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
+                "file": "3. Letnik/2.Semester/Funkcijska Genomika/Data Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,14 +154,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33359f455e3e93ec",
+  "active": "e98470fe6143ce14",
   "lastOpenFiles": [
+    "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
+    "3. Letnik/2.Semester/Funkcijska Genomika/Data Normalization.md",
+    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/_Index_of_Matematično_modeliranje.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
     "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/1.md",
-    "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Experimental design.md",
-    "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Navadne diferencialne enačbe.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/Red difenecialne enačbe.md",
     "3. Letnik/2.Semester/bio_v_ang/_Index_of_bio_v_ang.md",
