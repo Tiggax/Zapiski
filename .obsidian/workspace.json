@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33359f455e3e93ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,7 +201,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d60cbb82d036c9a5",
+  "active": "33359f455e3e93ec",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Matematično_modeliranje/_Index_of_Matematično_modeliranje.md",
     "3. Letnik/2.Semester/Matematično_modeliranje/2.Vaje.md",
