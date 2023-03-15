@@ -15,4 +15,7 @@ it is commanly used as $\log_2(FC)$ where it becomes:
 - 200/100 $\to$ 2 $\to$ (1)
 
 if we preform 20_000 tests
-what is the probl
+what is the problem?
+if we allow each test to have 1% false positive, then 200 genes could be false positives.
+**FDR**(false discorvery rate) $\to$ method to control the number of false positives
+
