@@ -19,3 +19,4 @@ what is the problem?
 if we allow each test to have 1% false positive, then 200 genes could be false positives.
 **FDR**(false discorvery rate) $\to$ method to control the number of false positives
 
+
