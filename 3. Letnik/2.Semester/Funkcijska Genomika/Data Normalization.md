@@ -19,4 +19,10 @@ what is the problem?
 if we allow each test to have 1% false positive, then 200 genes could be false positives.
 **FDR**(false discorvery rate) $\to$ method to control the number of false positives
 
+## Enrichment analysis
+- Over Representation Analysis (**ORA**)
+	- takes exspressed genses into account
+- Gene Set Enrichment Analysis (**GSEA**)
+	- Takes all genes into account
+
 
