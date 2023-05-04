@@ -19,3 +19,10 @@ by Dr. [Marko Jukić](mailto:marko.jukic@upr.si)
 
 - P.W Atkins: Physical chemestry
 
+# Exam
+written exam:
+- from exersises from the lectures,
+- Definitions
+- fill in sentences
+- multiple choice questions
+
