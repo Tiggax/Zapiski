@@ -20,3 +20,17 @@ Branches:
 - photo chemistry
 - electro chemistry
 - molecular modeling
+
+**System**
+- is a part of the universe, that we are interested in.
+
+boundry - either open or closed
+
+Open System - allows for a mass transfer over its boundry
+Closed System - Doesn't allow for a mass transfer over its boundry
+
+Closed systems Can be further devided into:
+- **isolated**
+	- With respect to heat (**Q**)
+	- with respect to work(**W**)
+	- 
