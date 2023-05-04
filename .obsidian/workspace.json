@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e469f1e6c8aec5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,12 +155,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "743d9caed3e0cadd",
+  "active": "8e469f1e6c8aec5b",
   "lastOpenFiles": [
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Untitled 1.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/_Index_of_Fizikalna kemija s kemoinformatiko.md",
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Data Normalization.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko",
     "3. Letnik/2.Semester/Sistemi za podporo pri odločanju/Uvod.md",
