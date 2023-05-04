@@ -43,6 +43,9 @@ Closed systems Can be further devided into:
 
 1 bar = $10^{5}Ps$
 1 atm = $1.01325*10^{3}Ps$
-1 atm = $760\ Torr$ \[ mm Hg - column\]
+1 atm = $760\ Torr$
+pressure exerted in a  mm Hg - column
+
+pressure 
 
 
