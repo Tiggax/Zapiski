@@ -15,6 +15,8 @@ break, 12:05 - 12:50
 
 by Dr. [Marko Jukić](mailto:marko.jukic@upr.si)
 
+Report will be graded 0 - 10
+
 # Literature
 
 - P.W Atkins: Physical chemestry
@@ -25,4 +27,17 @@ written exam:
 - Definitions
 - fill in sentences
 - multiple choice questions
+
+Exam is 0 - 100
+
+Final Grade is (Report + Exam)
+| Grade | %        |
+| ----- | -------- |
+| 5     | 0 - 49   | 
+| 6     | 50 - 59  |
+| 7     | 60 - 69  |
+| 8     | 70 - 79  |
+| 9     | 80 -89   |
+| 10    | 90 - 100 |
+
 
