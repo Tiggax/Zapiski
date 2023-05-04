@@ -10,4 +10,9 @@ $dz = \frac{\partial z}{\partial x}y\ dx$
 $x = c \to z = f(y)$
 $dz = \frac{\partial z}{\partial y}x\ dy\ \to$ sensitivity at a fixed $x$.
 
+TOTALNI odvod...
+
+
+# Function of state
+
 
