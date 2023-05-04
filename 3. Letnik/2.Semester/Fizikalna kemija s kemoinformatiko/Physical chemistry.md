@@ -24,13 +24,23 @@ Branches:
 **System**
 - is a part of the universe, that we are interested in.
 
-boundry - either open or closed
+boundry between surroundings - either open or closed
 
-Open System - allows for a mass transfer over its boundry
-Closed System - Doesn't allow for a mass transfer over its boundry
+**Open System** - allows for a mass transfer over its boundry
+**Closed System** - Doesn't allow for a mass transfer over its boundry
 
 Closed systems Can be further devided into:
 - **isolated**
 	- With respect to heat (**Q**)
+	- or
 	- with respect to work(**W**)
-	- 
+
+# Physico-chemical Properties
+
+## Pressure (P)
+
+	$P = \frac{F}{S} [\frac{N}{m^{2}}= Ps]$
+
+1 bar = $10^{5}Ps$
+1 atm = $1.01325*10^{3}Ps$
+$760$T
