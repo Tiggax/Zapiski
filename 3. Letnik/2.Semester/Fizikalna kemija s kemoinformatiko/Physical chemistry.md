@@ -70,4 +70,5 @@ Thermometers: ($\alpha$ - in indirect way)
 Thermometers always measure temperature in a inderect way.
 
 **Celsius**: 0 - 100 between freezing and boiling point of water at $1atm$
-**Kelvin**: 
+**Kelvin**: 0 at $-273.15$
+$T[K] = T[C] + 273.15$
