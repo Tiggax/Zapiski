@@ -59,7 +59,7 @@ $P=\frac{Fg}{S}=\frac{m*g}{S}=\frac{\rho*V*g}{S}=\rho*h*g$
 # Temperature
 is a poorly deffined thermodynamic property
 
-it is [[#^intensive| Intensive System]].
+it is [[#^intensive| Intensive Property]].
 
 
 0th law of themodynamics:
@@ -77,7 +77,23 @@ Thermometers always measure temperature in a inderect way.
 $T[K] = T[C] + 273.15$
 
 # Mass
-$$m  [kg]$$it is [[#^exstensive| exstensive system]]
+$$m  [kg]$$
+it is [[#^exstensive| Exstensive Property]].
 
 # Volume
-$$V [m^{3}= 1000]$$
+$$V [m^{3}= 1000 L(dm^3)]$$
+it is [[#^exstensive| Exstensive Property]].
+
+# Density
+$$\rho = \frac{m}{V} [\frac{kg}{L}]$$
+it is [[#^intensive| Intensive Property]].
+
+# Mol
+$$n [mol]$$
+it is [[#^exstensive| Exstensive Property]].
+
+# Molar mass
+$$M = \frac{m}{mol}[\frac{g}{mol}]$$
+it is [[#^intensive| Intensive Property]].
+
+# 
