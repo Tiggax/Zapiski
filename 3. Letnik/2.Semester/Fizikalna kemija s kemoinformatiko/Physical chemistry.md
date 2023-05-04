@@ -59,6 +59,9 @@ $P=\frac{Fg}{S}=\frac{m*g}{S}=\frac{\rho*V*g}{S}=\rho*h*g$
 # Temperature
 is a poorly deffined thermodynamic property
 
+it is [[#^intensive| Intensive System]].
+
+
 0th law of themodynamics:
 When two objects are at thermal equilibrium, they have the same temperature.
 
@@ -72,3 +75,9 @@ Thermometers always measure temperature in a inderect way.
 **Celsius**: 0 - 100 between freezing and boiling point of water at $1atm$
 **Kelvin**: 0 at $-273.15$
 $T[K] = T[C] + 273.15$
+
+# Mass
+$$m  [kg]$$it is [[#^exstensive| exstensive system]]
+
+# Volume
+$$V [m^{3}= 1000]$$
