@@ -62,8 +62,12 @@ is a poorly deffined thermodynamic property
 0th law of themodynamics:
 When two objects are at thermal equilibrium, they have the same temperature.
 
-Thermometers:
+Thermometers: ($\alpha$ - in indirect way)
+- Dilation $T\alpha V$
+- pressure $T \alpha P$
+-  Resistance $T\alpha R$
 
+Thermometers always measure temperature in a inderect way.
 
-
-
+**Celsius**: 0 - 100 between freezing and boiling point of water at $1atm$
+**Kelvin**: 
