@@ -46,6 +46,13 @@ Closed systems Can be further devided into:
 1 atm = $760\ Torr$
 pressure exerted in a  mm Hg - column
 
-pressure 
+**Hydrostatic pressure** - Pressure exerted by a column of liquid
+
+$P=\frac{Fg}{S}=\frac{m*g}{S}=\frac{\rho*V*g}{S}=\rho*h*g$
+
+**Exstensive properties** are proportional to the size of the system.
+**Intensive properties** are indipendant of the size of the system.
+
+
 
 
