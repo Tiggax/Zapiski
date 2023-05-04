@@ -35,9 +35,15 @@ Closed systems Can be further devided into:
 	- or
 	- with respect to work(**W**)
 
+
+**Exstensive properties** are proportional to the size of the system.
+
+**Intensive properties** are indipendant of the size of the system. ^5763bd
+
 # Physico-chemical Properties
 
 ## Pressure (P)
+is [[#^5763bd|Intensive property]]
 
 	$P = \frac{F}{S} [\frac{N}{m^{2}}= Ps]$
 
@@ -50,8 +56,6 @@ pressure exerted in a  mm Hg - column
 
 $P=\frac{Fg}{S}=\frac{m*g}{S}=\frac{\rho*V*g}{S}=\rho*h*g$
 
-**Exstensive properties** are proportional to the size of the system.
-**Intensive properties** are indipendant of the size of the system.
 
 
 

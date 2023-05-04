@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#neurejen-seznam",
+                "query": "tag:#exstensive",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,13 +70,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945,
-    "collapsed": true
+    "width": 224.51103591918945
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -157,8 +155,9 @@
   },
   "active": "8e469f1e6c8aec5b",
   "lastOpenFiles": [
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Untitled 1.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/_Index_of_Fizikalna kemija s kemoinformatiko.md",
