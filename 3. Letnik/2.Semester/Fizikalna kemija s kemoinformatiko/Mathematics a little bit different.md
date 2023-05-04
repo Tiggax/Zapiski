@@ -6,8 +6,8 @@ Functions of multiple variables
 
 $z = f(x,y))$
 $y = c \to z = f(x)$
-$x = c \to z = f(y)$
-
 $dz = \frac{\partial z}{\partial x}y\ dx$
-$dz = \frac{\partial z}{\partial y}x\ dy$
+$x = c \to z = f(y)$
+$dz = \frac{\partial z}{\partial y}x\ dy\ \to$ sensitivity at a fixed $x$.
+
 
