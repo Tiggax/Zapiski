@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,12 +70,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945,
-    "collapsed": true
+    "width": 224.51103591918945
   },
   "right": {
     "id": "00ed6e8b616581a0",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,10 +156,10 @@
   },
   "active": "e0de13955f7d9971",
   "lastOpenFiles": [
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Untitled 1.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/_Index_of_Fizikalna kemija s kemoinformatiko.md",
