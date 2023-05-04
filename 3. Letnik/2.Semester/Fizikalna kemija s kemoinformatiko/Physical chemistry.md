@@ -39,6 +39,7 @@ Closed systems Can be further devided into:
 **Exstensive properties** are proportional to the size of the system. ^exstensive
 
 **Intensive properties** are indipendant of the size of the system. ^intensive
+$$\frac{exstensive}{exstensive} = intensive$$
 
 # Physico-chemical Properties
 
@@ -96,4 +97,8 @@ it is [[#^exstensive| Exstensive Property]].
 $$M = \frac{m}{mol}[\frac{g}{mol}]$$
 it is [[#^intensive| Intensive Property]].
 
-# 
+# Molar concentration
+$$c = \frac{n}{V} [\frac{mol}{L} = M]$$
+it is [[#^intensive| Intensive Property]].
+
+

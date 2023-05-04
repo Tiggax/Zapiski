@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "743d9caed3e0cadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e469f1e6c8aec5b",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945
+    "width": 224.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "00ed6e8b616581a0",
