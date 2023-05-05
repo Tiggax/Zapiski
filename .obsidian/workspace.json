@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2b155f91b62ceb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e0de13955f7d9971",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8e469f1e6c8aec5b",
+  "active": "2b155f91b62ceb62",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
