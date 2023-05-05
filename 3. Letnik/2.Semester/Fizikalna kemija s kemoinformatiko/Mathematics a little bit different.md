@@ -50,3 +50,7 @@ $\frac{\partial V}{\partial P}T = \kappa V$
 
 
 $\frac{\partial P}{\partial T}V = \beta P = \frac{\alpha}{\kappa}$
+
+### Primer:
+Joc is wants to skip the exam, so he pretends to be sick. He overheats the $Hg$ thermometer, which measures $T$ till 50°C, to 57°C the thermometer explodes.
+$$$$
