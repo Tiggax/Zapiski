@@ -100,3 +100,9 @@ dV &= (\frac{\partial V}{\partial T})P\ dT + (\frac{\partial V}{\partial P})T\ d
  \end{align}$$
 by: $\frac{1}{x}dx= ln(x)$
 $$\ln(V) = \ln(T) - \ln(P)$$
+$$\begin{align}
+d(\ln(V)) &= d(\ln(T)) - d(\ln(P))\\
+d(\ln(V)) - d(\ln(T)) + d(\ln(P))&= 0\\
+d(\ln(V) - \ln(T) + \ln(P)) &= 0\\
+\ln\left(\frac{PV}{T}\right)= C
+\end{align}$$
