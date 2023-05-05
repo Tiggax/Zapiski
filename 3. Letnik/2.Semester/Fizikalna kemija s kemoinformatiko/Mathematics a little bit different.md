@@ -112,3 +112,9 @@ d(\ln(V) - \ln(T) + \ln(P)) &= 0\\
 What we get is that the hyperbolas in [[#^hypbl|graph]] are of different temperatures.
 and  the lines in [[#^gay-lussac|graph]] are different pressures.
 
+![[gases-properties.png]]
+
+## Dalton
+
+
+### Primer
