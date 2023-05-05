@@ -91,4 +91,9 @@ $$\begin{align}
 V &= f(P,T)\\
 dV &= (\frac{\partial V}{\partial T})P\ dT + (\frac{\partial V}{\partial P})T\ dP\\
 \end{align}$$
- and we know
+ and we know that Gay-Lussac: $(\frac{\partial V}{\partial T})P = C = \frac{V}{T}$, and
+ Boyle law: $(\frac{\partial V}{\partial P})T = C = -\frac{V}{P}$
+ 
+ $$\begin{align}
+ dV = \frac{V}{T}\ dT - \frac{V}{P}\ dP
+ \end{align}$$
