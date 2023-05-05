@@ -115,6 +115,11 @@ and  the lines in [[#^gay-lussac|graph]] are different pressures.
 ![[gases-properties.png]]
 
 ## Dalton
-
+Normal conditions:
+$T_{0}= 273.15 [K]$
+$P_{0}= 1 atm = 1.01325 bar$
+$\frac{V_{0}}{n}=22.414 [\frac{L}{mol}]$
 
 ### Primer
+
+$$\frac{PV}{T} = 0.08314 * 10^5$$
