@@ -119,7 +119,8 @@ Normal conditions:
 $T_{0}= 273.15 [K]$
 $P_{0}= 1 atm = 1.01325 bar$
 $\frac{V_{0}}{n}=22.414 [\frac{L}{mol}]$
+$$\frac{PV}{T} = R = 0.08314\left[\frac{bar L}{K mol}\right]= 83.44\left[\frac{bar\ mL}{K\ mol}\right]= 8.314[\frac{J}{K\ mol}]$$
+$R$ is the [[#^ideal-gas|ideal gas]] constant.
+And the ideal gas equation is:
+$$PV = nRT$$
 
-### Primer
-
-$$\frac{PV}{T} = 0.08314 * 10^5$$
