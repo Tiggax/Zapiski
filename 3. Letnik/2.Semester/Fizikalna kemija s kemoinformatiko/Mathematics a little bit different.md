@@ -76,4 +76,9 @@ low pressure - till 1 $atm$
 ## Boyle law
 - $T$ is constant
 - $PV$ is constant
+
+![Hyperbolic inverse](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A83808d2f02b11ce819e8b2dff89f9719eb7ec1d67b541addd38201d5%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
+The $P$ and $V$ are inverse porportional
+## Guy-Lussac
+- $P$ is constant
 - 
