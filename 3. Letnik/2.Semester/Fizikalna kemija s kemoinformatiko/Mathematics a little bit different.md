@@ -11,6 +11,7 @@ $x = c \to z = f(y)$
 $dz = \frac{\partial z}{\partial y}x\ dy\ \to$ sensitivity at a fixed $x$.
 
 TOTALNI odvod...
+$dz = \frac{\partial z}{\partial x}y\ dx + \frac{\partial z}{\partial y}x\ dy$
 
 
 # Equation of state
@@ -20,7 +21,13 @@ By defining only two of the listed variables, the state is uniqly defined.
 
 $V = f(P,T)$ - **equation of state**
 
-$dV = (\frac{\partial V}{\partial P})T*dP + (\frac{\partial V}{\partial T})P *dT$ - total differencial
+$dV = (\frac{\partial V}{\partial P})T\ dP + (\frac{\partial V}{\partial T})P\ dT$ - total differencial
 
+## Isohorous
+means constant volumn.
+$0=(\frac{\partial V}{\partial P})T\ dP + (\frac{\partial V}{\partial T})P\ dT$
+$$
+\begin{align}
 
-
+\end{align}
+$$
