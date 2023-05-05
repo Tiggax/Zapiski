@@ -80,5 +80,11 @@ low pressure - till 1 $atm$
 ![Hyperbolic inverse](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A83808d2f02b11ce819e8b2dff89f9719eb7ec1d67b541addd38201d5%2BIMAGE_THUMB_POSTCARD_TINY%2BIMAGE_THUMB_POSTCARD_TINY.1)
 The $P$ and $V$ are inverse porportional
 ## Guy-Lussac
-- $P$ is constant
-- 
+- $P = C$ 
+- $\frac{V}{T} = C$
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.byjus.com%2Fwp-content%2Fuploads%2F2019%2F08%2FGay-Lussacs-law.png&f=1&nofb=1&ipt=3a65d25ea9777f3893c8fb9ce1e80c3402d2832ff21789aebedf929d6268ffb0&ipo=images)
+
+$Def:$ **Ideal Gas** is a hypothetical gas which follows both laws at all conditions (at immmediate and high pressures) ^ideal-gas
+
+
+
