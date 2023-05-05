@@ -64,4 +64,16 @@ Preassure will not build up immensly so we read out at 0.
 $$(\frac{\partial P}{\partial T})V = \frac{\alpha}{\kappa} = \frac{18*10^{-5}}{39*10^{-12}}[\frac{Ps}{K}]$$
 $$=46.1 [\frac{bar}{K}]$$
 So now we know, that the thermometer is normaly at 1 bar, if we change the temperature by 1K, we get:
-$$(\frac{\partial P}{1})V = 46.1 [\frac{bar}{K}]$$
+$$\begin{align}
+(\frac{\partial P}{1})V &= 46.1 [\frac{bar}{K}]\\
+\partial P &= 46.1 [bar]
+\end{align}$$
+so, that means, that the Pressure changes in the thermometer by 46.1 bars for each degree of Kelvin.
+
+# Gas phase
+low pressure - till 1 $atm$
+
+## Boyle law
+- $T$ is constant
+- $PV$ is constant
+- 
