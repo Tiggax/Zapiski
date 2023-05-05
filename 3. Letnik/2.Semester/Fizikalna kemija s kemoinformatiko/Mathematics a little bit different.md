@@ -87,4 +87,8 @@ The $P$ and $V$ are inverse porportional
 $Def:$ **Ideal Gas** is a hypothetical gas which follows both laws at all conditions (at immmediate and high pressures) ^ideal-gas
 
 
-
+$$\begin{align}
+V &= f(P,T)\\
+dV &= (\frac{\partial V}{\partial T})P\ dT + (\frac{\partial V}{\partial P})T\ dP\\
+\end{align}$$
+ and we know
