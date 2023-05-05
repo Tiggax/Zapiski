@@ -39,7 +39,9 @@ $$
 
 ## Expansion coefficiant
 $$\alpha = \frac{1}{V}\frac{\partial V}{\partial T}P\ [K^{-1}]$$
-
-
 ## Tension coeffician
-$$\beta = \frac{1}{P}\frac{\partial P}{\partial T}V$$
+$$\beta = \frac{1}{P}\frac{\partial P}{\partial T}V\ [K^{-1}]$$
+## Compressibility coeffician
+$$\kappa = -\frac{1}{V}\frac{\partial V}{\partial P}T\ [bar^{-1}]$$
+
+$\frac{\partial V}{\partial V}$
