@@ -60,5 +60,6 @@ From Graph:
 - $\kappa=39*10^{-12}$
 - $\alpha = 18*10^{-5}$
 
-Preassure will not build up 
-$$$$
+Preassure will not build up immensly so we read out at 0.
+$$(\frac{\partial P}{\partial T})V = \frac{\alpha}{\kappa} = \frac{18*10^{-5}}{39*10^{-12}}[\frac{bar}{K}]$$
+$$=\$$
