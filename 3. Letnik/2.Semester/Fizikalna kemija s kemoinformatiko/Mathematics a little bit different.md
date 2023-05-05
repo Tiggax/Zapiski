@@ -20,5 +20,7 @@ By defining only two of the listed variables, the state is uniqly defined.
 
 $V = f(P,T)$ - **equation of state**
 
+$dV = (\frac{\partial V}{\partial P})T*dP + (\frac{\partial V}{\partial T})P *dT$ - total differencial
+
 
 
