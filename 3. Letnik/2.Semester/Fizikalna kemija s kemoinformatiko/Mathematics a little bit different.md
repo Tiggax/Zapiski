@@ -52,5 +52,13 @@ $\frac{\partial V}{\partial P}T = \kappa V$
 $\frac{\partial P}{\partial T}V = \beta P = \frac{\alpha}{\kappa}$
 
 ### Primer:
-Joc is wants to skip the exam, so he pretends to be sick. He overheats the $Hg$ thermometer, which measures $T$ till 50°C, to 57°C the thermometer explodes.
+Joc is wants to skip the exam, so he pretends to be sick. He overheats the $Hg$ thermometer, which measures $T$ till 50°C, to 51°C the thermometer explodes. Why?
+
+At 50°C the Volume is constant , as well as T increases P.
+
+From Graph:
+- $\kappa=39*10^{-12}$
+- $\alpha = 18*10^{-5}$
+
+Preassure will not build up 
 $$$$
