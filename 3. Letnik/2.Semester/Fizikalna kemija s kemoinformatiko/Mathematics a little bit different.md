@@ -95,5 +95,8 @@ dV &= (\frac{\partial V}{\partial T})P\ dT + (\frac{\partial V}{\partial P})T\ d
  Boyle law: $(\frac{\partial V}{\partial P})T = C = -\frac{V}{P}$
  
  $$\begin{align}
- dV = \frac{V}{T}\ dT - \frac{V}{P}\ dP
+ dV &= \frac{V}{T}\ dT - \frac{V}{P}\ dP\\
+ \frac{dV}{V} &= \frac{dT}{T} - \frac{dP}{P}
  \end{align}$$
+by: $\frac{1}{x}dx= ln(x)$
+$$\ln(V) = \ln(T) - \ln(P)$$
