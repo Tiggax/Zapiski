@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c022b46c3a1a424",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,6 +78,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c1adb4240a5b9fa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -154,7 +173,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dff303be665f2c6",
+  "active": "0c022b46c3a1a424",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
