@@ -35,3 +35,11 @@ $$
 \frac{\partial P}{\partial T}V &= -\frac{\frac{\partial V}{\partial T}P}{\frac{\partial V}{\partial P}T}
 \end{align}
 $$
+
+
+## Expansion coefficiant
+$$\alpha = \frac{1}{V}\frac{\partial V}{\partial T}P\ [K^{-1}]$$
+
+
+## Tension coeffician
+$$\beta = \frac{1}{P}\frac{\partial P}{\partial T}V$$
