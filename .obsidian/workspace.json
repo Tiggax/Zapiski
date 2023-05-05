@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c022b46c3a1a424",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,10 +162,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0c022b46c3a1a424",
+  "active": "8e469f1e6c8aec5b",
   "lastOpenFiles": [
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",

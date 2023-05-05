@@ -13,6 +13,12 @@ $dz = \frac{\partial z}{\partial y}x\ dy\ \to$ sensitivity at a fixed $x$.
 TOTALNI odvod...
 
 
-# Function of state
+# Equation of state
+
+State defines the conditions that our system is exposed to.
+By defining only two of the listed variables, the state is uniqly defined.
+
+$V = f(P,T)$ - **equation of state**
+
 
 
