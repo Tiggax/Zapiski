@@ -24,13 +24,14 @@ $V = f(P,T)$ - **equation of state**
 $dV = (\frac{\partial V}{\partial P})T\ dP + (\frac{\partial V}{\partial T})P\ dT$ - total differencial
 
 ## Isohorous
-means constant volumn.
+means constant volume.
 $0=(\frac{\partial V}{\partial P})T\ dP + (\frac{\partial V}{\partial T})P\ dT$
 $$
 \begin{align}
 0 &= (\frac{\partial V}{\partial P})T\ dP + (\frac{\partial V}{\partial T})P\ dT\\
 0 &= \frac{\partial V}{\partial T}P + \frac{\partial V}{\partial P}T \frac{\partial V}{\partial T} V\\
 \frac{\partial V}{\partial T}V\frac{\partial V}{\partial P}T &= -\frac{\partial V}{\partial T}P\\
-\frac{\partial P}{\partial T}V &= -\frac{\frac{\partial V}{\partial T}P}{}
+\\
+\frac{\partial P}{\partial T}V &= -\frac{\frac{\partial V}{\partial T}P}{\frac{\partial V}{\partial P}T}
 \end{align}
 $$
