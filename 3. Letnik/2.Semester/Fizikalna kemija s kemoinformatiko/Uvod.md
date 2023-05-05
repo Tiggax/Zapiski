@@ -19,7 +19,7 @@ Report will be graded 0 - 10
 
 # Literature
 
-- P.W Atkins: Physical chemestry
+- [P.W Atkins: Physical chemestry](https://rnlkwc.ac.in/pdf/study-material/chemistry/Peter_Atkins__Julio_de_Paula__Physical_Chemistry__1_.pdf)
 
 # Exam
 written exam:
