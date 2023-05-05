@@ -49,4 +49,4 @@ $\frac{\partial P}{\partial T}V = \beta P$
 $\frac{\partial V}{\partial P}T = \kappa V$
 
 
-$\frac{\partial P}{\partial T}V = \beta P = \frac{}{}$
+$\frac{\partial P}{\partial T}V = \beta P = \frac{\alpha}{\kappa}$
