@@ -44,4 +44,9 @@ $$\beta = \frac{1}{P}\frac{\partial P}{\partial T}V\ [K^{-1}]$$
 ## Compressibility coeffician
 $$\kappa = -\frac{1}{V}\frac{\partial V}{\partial P}T\ [bar^{-1}]$$
 
-$\frac{\partial V}{\partial V}$
+$\frac{\partial V}{\partial T}P = \alpha V$
+$\frac{\partial P}{\partial T}V = \beta P$
+$\frac{\partial V}{\partial P}T = \kappa V$
+
+
+$\frac{\partial P}{\partial T}V = \beta P = \frac{}{}$
