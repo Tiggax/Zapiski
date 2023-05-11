@@ -2,9 +2,14 @@
 [Prof. Urban Klen](mailto:urban.klen@um.si)
 
 - Thursdays (over [zoom](https://upr-si.zoom.us/j/85035119598?pwd=S1N4TXpjZGlnZkMvNU5BclBNRlJHZz09))
+\[
+Meeting ID: 850 3511 9598
+Passcode: 919182
+\]
 17:00 - 17:45, 
 break 17:55 - 18:40, 
 break 18:50 - 19:35
+
 
 - Fridays
 10:15 - 11:00
