@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f5396e37ee12b0d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +149,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f5396e37ee12b0d6",
+  "active": "8e469f1e6c8aec5b",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/1.p Nedeterminizem.md",
