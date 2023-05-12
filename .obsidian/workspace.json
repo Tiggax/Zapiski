@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4623855b23400e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +162,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8e469f1e6c8aec5b",
+  "active": "f4623855b23400e6",
   "lastOpenFiles": [
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L3.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/1.p Nedeterminizem.md",
     "Dodatki/gases-properties.png",
     "Dodatki/Screenshot_20230505_124212.png",
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Uvod.md",
     "3. Letnik/2.Semester/Funkcijska Genomika/Untitled 1.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/_Index_of_Fizikalna kemija s kemoinformatiko.md",
