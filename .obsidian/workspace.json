@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L3.md",
+                "file": "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,13 +174,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4623855b23400e6",
+  "active": "8e469f1e6c8aec5b",
   "lastOpenFiles": [
+    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L3.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L4.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Uvod.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Physical chemistry.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/Mathematics a little bit different.md",
-    "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/L3.md",
     "3. Letnik/2.Semester/Fizikalna kemija s kemoinformatiko/exstensive.md",
     "2. Letnik/2. semester/Algoritmi v Bioinformatiki/1.p Nedeterminizem.md",
     "Dodatki/gases-properties.png",
